@@ -11,6 +11,7 @@ const ca = s => s.replace(/\bca\. /g, "about ");
 
 /* ------------------------------------------------ Untertypen, Gebiete */
 A({
+  "Stadt oder Gebiet": "City or area", "Exportierter Spielstand": "Exported save",
   "Tankstelle": "Gas station", "Supermarkt": "Supermarket", "Fast Food": "Fast food", "Schnapsladen": "Liquor store", "Kleidung": "Clothing",
   "Friseur": "Barber", "Tattoo": "Tattoo", "Tuning": "Tuning", "Garage": "Garage", "Bahnhof": "Train station", "Bar & Club": "Bar & club",
   "Hehler": "Fence", "Bank": "Bank", "Banktresor": "Bank vault", "Payday Loan": "Payday Loan", "Juwelier": "Jeweler", "Pfandhaus": "Pawn shop",

@@ -712,7 +712,7 @@ RENDER.fundorte = () => {
       ${o.p || o.at ? `<button class="btn klein" data-k="${o.id}">Karte</button>` : ""}</div>`;
   let h = `<h1>Fundorte</h1><p class="unter">${gesamtD} von ${orte.length} erledigt · Spielstand „${esc(P().name)}“</p>
     <div class="zeile" style="gap:10px"><input class="feld" id="f-suche" type="search" placeholder="Name, Typ, Waffe suchen…" value="${esc(UI.fSuche)}" style="flex:2;min-width:200px">
-    <select class="feld" id="f-stadt-l" style="flex:1;min-width:170px"><option value="">Alle Städte & Gebiete</option>${LH.STAEDTE.map(st => `<option ${UI.fStadt === st ? "selected" : ""}>${esc(st)}</option>`).join("")}</select></div>
+    <select class="feld" id="f-stadt-l" aria-label="Stadt oder Gebiet" style="flex:1;min-width:170px"><option value="">Alle Städte & Gebiete</option>${LH.STAEDTE.map(st => `<option ${UI.fStadt === st ? "selected" : ""}>${esc(st)}</option>`).join("")}</select></div>
     <div class="chips"><button class="chip ${!UI.fKat ? "on" : ""}" data-fk="">Alle</button>${LH.KATEGORIEN.filter(k => orte.some(o => o.k === k.id)).map(k => `<button class="chip ${UI.fKat === k.id ? "on" : ""}" data-fk="${k.id}"><i style="background:${k.farbe}"></i>${esc(k.name)}</button>`).join("")}
     <button class="chip ${UI.fOffen ? "on" : ""}" data-fo="1">Nur offene</button></div>
     ${typen.length > 1 ? `<div class="chips" style="margin-top:-2px"><button class="chip ${!UI.fTyp ? "on" : ""}" data-ft="" style="min-height:34px;font-size:13px">Alle Typen</button>${typen.map(t => `<button class="chip ${UI.fTyp === t ? "on" : ""}" data-ft="${esc(t)}" style="min-height:34px;font-size:13px">${esc(t)}</button>`).join("")}</div>` : ""}`;
@@ -1027,7 +1027,7 @@ RENDER.hundert = () => {
         <div class="ort">nötig ${geld ? r[3].toLocaleString(LOC) + " $" : r[3] + (r[4] && r[4] !== r[3] ? " von " + r[4] : "")}${r[5] && !geld ? " · " + esc(r[5]) : ""}</div>
         <div class="fort" style="margin-top:6px;max-width:260px"><i style="width:${Math.round(wert(r) / r[3] * 100)}%;${ok ? "background:var(--gruen)" : ""}"></i></div></div>
         <div class="zeile" style="gap:6px;flex-wrap:nowrap">${geld ? "" : `<button class="btn klein" data-dz="${r[0]}" data-d="-1" aria-label="weniger">−</button>`}
-        <input class="feld" data-z="${r[0]}" inputmode="numeric" value="${+z[r[0]] || 0}" style="width:${geld ? 110 : 64}px;min-height:36px;padding:6px 8px;text-align:center">
+        <input class="feld" data-z="${r[0]}" aria-label="${esc(r[1])}" inputmode="numeric" value="${+z[r[0]] || 0}" style="width:${geld ? 110 : 64}px;min-height:36px;padding:6px 8px;text-align:center">
         ${geld ? "" : `<button class="btn klein" data-dz="${r[0]}" data-d="1" aria-label="mehr">+</button>`}</div></div>`;
     }).join("")).join("")}`;
   el.onclick = e => { const b = e.target.closest("[data-dz]"); if (!b) return; const id = b.dataset.dz; z[id] = Math.max(0, (+z[id] || 0) + +b.dataset.d); speichern(); RENDER.hundert(); };
@@ -1053,7 +1053,7 @@ RENDER.optionen = () => {
     <div class="aktionen"><button class="btn" data-neu="1">Neuer Spielstand</button><button class="btn" data-reset="1">Haken im aktiven Spielstand zurücksetzen</button></div>
     <h2>Export / Import (aktiver Spielstand)</h2>
     <div class="karte-box">
-      <textarea class="feld" id="o-exp" readonly>${esc(exp)}</textarea>
+      <textarea class="feld" id="o-exp" aria-label="Exportierter Spielstand" readonly>${esc(exp)}</textarea>
       <div class="aktionen"><button class="btn" data-cp="1">Kopieren</button></div>
       <textarea class="feld" id="o-imp" placeholder="Exportierten Text hier einfügen…" style="margin-top:12px"></textarea>
       <div class="aktionen"><button class="btn primaer" data-imp="1">Als neuen Spielstand importieren</button><label class="btn" style="display:inline-flex;align-items:center;justify-content:center">Datei wählen<input type="file" id="o-file" accept=".json,application/json,text/plain" hidden></label></div>
