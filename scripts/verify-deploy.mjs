@@ -1,7 +1,7 @@
 // Vergleicht nach dem Deploy die Build-ID der Live-Seite mit dem lokalen Commit.
-// Aufruf: npm run verify-deploy [-- https://adresse] (Standard: Cloudflare Pages)
+// Aufruf: npm run verify-deploy [-- https://adresse] (Standard: GitHub Pages)
 import { execSync } from "node:child_process";
-const url = (process.argv[2] || process.env.DEPLOY_URL || "https://leonida-helfer.pages.dev").replace(/\/$/, "");
+const url = (process.argv[2] || process.env.DEPLOY_URL || "https://freadeax.github.io/leonida-guide").replace(/\/$/, "");
 const lokal = execSync("git rev-parse origin/main 2>/dev/null || git rev-parse HEAD").toString().trim();
 const r = await fetch(`${url}/build.json`, { cache: "no-store" });
 if (!r.ok) { console.error(`✗ ${url}/build.json: HTTP ${r.status}`); process.exit(1); }

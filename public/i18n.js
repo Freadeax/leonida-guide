@@ -91,6 +91,7 @@ function englischAnwenden() {
   L.TIPPS.forEach(t => { if (t.en) { t[0] = t.en[0]; t[1] = t.en[1]; } });
   L.GLITCHES.forEach(g => { if (g.en) Object.assign(g, g.en); });
   L.VERPASSBAR.forEach(g => { if (g.en) Object.assign(g, g.en); });
+  [L.VERPASSBAR, L.GLITCHES].forEach(l => l.forEach(g => { if (g.v9en) g.t = (g.t || "") + " Update: " + g.v9en; }));
   if (E.TIERE) setze(L.TIERE, E.TIERE, [0, 1]);
   if (E.STRANGERS) setze(L.STRANGERS, E.STRANGERS, [2, 3, 4]);
   if (E.HUNDERT) setze(L.HUNDERT, E.HUNDERT, [1, 2, 5]);

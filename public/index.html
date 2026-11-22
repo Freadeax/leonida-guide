@@ -1,3 +1,4 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -7,6 +8,7 @@
 <meta name="theme-color" content="#14161c">
 <title>Leonida Helper – GTA VI Karte</title>
 <link rel="stylesheet" href="leaflet.css">
+<link rel="stylesheet" href="MarkerCluster.css">
 <style>
 :root{
   --bg:#14161c; --bg2:#1b1e26; --bg3:#232733; --line:#2e3342; --txt:#eceef3; --mut:#9aa1b2;
@@ -58,7 +60,7 @@ h2{font-size:17px;margin:26px 0 10px}
 .chip i{width:10px;height:10px;border-radius:50%;display:inline-block}
 .badge{display:inline-block;font-size:11.5px;padding:2px 8px;border-radius:999px;border:1px solid var(--line);color:var(--mut);white-space:nowrap}
 .b-m{border-color:#2f6b4a;color:#7be2a7}.b-e{border-color:#6b5a22;color:#ffd96b}.b-u{border-color:#7a2f35;color:#ff8f96}
-.b-v{border-color:#7a2f35;color:#ff8f96;font-weight:700}.b-k{border-color:#2b5d6b;color:#7fdcf0}
+.b-v{border-color:#7a2f35;color:#ff8f96;font-weight:700}.b-neu{border-color:#c2185b;background:#ff4fa3;color:#1a0f16;font-weight:700}.b-k{border-color:#2b5d6b;color:#7fdcf0}
 .btn{border:1px solid var(--line);background:var(--bg3);border-radius:12px;padding:10px 16px;min-height:44px;font-weight:600}
 .btn.primaer{background:var(--pink);border-color:var(--pink);color:#fff}
 .btn.klein{min-height:36px;padding:6px 12px;font-size:14px;border-radius:10px}
@@ -243,6 +245,7 @@ th{color:var(--mut);font-weight:600;font-size:12.5px;cursor:pointer;user-select:
     <section class="view" id="v-autos"><div class="seite" id="s-autos"></div></section>
     <section class="view" id="v-missionen"><div class="seite" id="s-missionen"></div></section>
     <section class="view" id="v-hundert"><div class="seite" id="s-hundert"></div></section>
+    <section class="view" id="v-neu"><div class="seite" id="s-neu"></div></section>
     <section class="view" id="v-mehr"><div class="seite" id="s-mehr"></div></section>
   </div>
 </div>
@@ -253,14 +256,18 @@ th{color:var(--mut);font-weight:600;font-size:12.5px;cursor:pointer;user-select:
 <div class="toast" id="toast"></div>
 
 <script src="leaflet.js"></script>
-<script src="data.js?v=8"></script>
-<script src="gebiete.js?v=8"></script>
-<script src="funde.js?v=8"></script>
-<script src="community.js?v=8"></script>
-<script src="orte.js?v=8"></script>
-<script src="data-en.js?v=8"></script>
-<script src="i18n.js?v=8"></script>
-<script src="i18n-en.js?v=8"></script>
+<script src="leaflet.markercluster.js"></script>
+<script src="data.js?v=110"></script>
+<script src="gebiete.js?v=110"></script>
+<script src="funde.js?v=110"></script>
+<script src="community.js?v=110"></script>
+<script src="orte.js?v=110"></script>
+<script src="positionen.js?v=110"></script>
+<script src="data-en.js?v=110"></script>
+<script src="i18n.js?v=110"></script>
+<script src="i18n-en.js?v=110"></script>
+<script src="nachtrag.js?v=110"></script>
+<script src="lage.js?v=110"></script>
 <script>
 "use strict";
 /* =========================================================================
@@ -334,8 +341,10 @@ async function kopieren(text) {
 const TX = o => o == null ? "" : typeof o === "string" ? o : (o[LANG] ?? o.de ?? "");
 const QTXT = { m: "Mehrere Quellen", e: "Eine Quelle", u: "Quellen uneins" };
 const GTXT = { 2: "Lage genau (gtadb)", 1: "Lage: Gebiet", 0: "Lage ungefähr" };
+function istNeu(d) { if (!d) return false; const t = Date.parse(d); return !isNaN(t) && Date.now() - t < 8 * 864e5; }
+function neuBadge(d) { return istNeu(d) ? `<span class="badge b-neu">Neu</span> ` : ""; }
 function badges(o) {
-  let h = "";
+  let h = neuBadge((LH.NEU_IDS || {})[o.id]);
   if (o.v) h += `<span class="badge b-v">Verpassbar</span> `;
   if (o.c) h += `<span class="badge b-k">Ab Kapitel ${esc(o.c)}</span> `;
   if (o.q) h += `<span class="badge b-${o.q}">${QTXT[o.q]}</span> `;
@@ -364,6 +373,7 @@ const ICON = {
   optionen: '<circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/>',
   autos: '<path d="M5 16h14M3 16l2-6a2 2 0 0 1 2-1.4h10a2 2 0 0 1 2 1.4l2 6v3H3z"/><circle cx="7.5" cy="16.5" r="1.5"/><circle cx="16.5" cy="16.5" r="1.5"/>',
   missionen: '<path d="M5 3v18M5 4h12l-2 4 2 4H5"/>',
+  neu: '<path d="M12 2l2.4 5.6L20 8.3l-4.4 3.9L17 18l-5-3-5 3 1.4-5.8L4 8.3l5.6-.7z"/>',
   hundert: '<circle cx="12" cy="12" r="9"/><path d="M8 12.5l3 3 5-6"/>',
   mehr: '<circle cx="5" cy="12" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="19" cy="12" r="1.6"/>'
 };
@@ -371,9 +381,9 @@ const VIEWS = [
   ["karte", "Karte", ""], ["fundorte", "Fundorte", ""], ["missionen", "Missionen", ""], ["geld", "Geld", ""], ["fahndung", "Fahndung", "breit"],
   ["autos", "Autos & Lager", "breit"], ["hundert", "100 %", "breit"],
   ["codes", "Codes", "breit"], ["cheats", "Cheats", "breit"], ["trophaeen", "Trophäen", "breit"], ["tipps", "Tipps", "breit"],
-  ["jagd", "Jagd & Angeln", "breit"], ["optionen", "Spielstand", "breit"], ["mehr", "Mehr", "schmal"]
+  ["jagd", "Jagd & Angeln", "breit"], ["neu", "Neu & Patches", "breit"], ["optionen", "Spielstand", "breit"], ["mehr", "Mehr", "schmal"]
 ];
-const MEHR_SEITEN = ["fahndung", "autos", "hundert", "codes", "cheats", "trophaeen", "tipps", "jagd", "optionen"];
+const MEHR_SEITEN = ["fahndung", "autos", "hundert", "codes", "cheats", "trophaeen", "tipps", "jagd", "neu", "optionen"];
 function navBauen() {
   const nav = $("#nav");
   nav.insertAdjacentHTML("beforeend", VIEWS.map(([id, name, kl]) =>
@@ -897,12 +907,12 @@ RENDER.tipps = () => {
   const themen = [...new Set(LH.TIPPS.map(t => t[0]))];
   el.innerHTML = `<h1>Tipps & Glitches</h1><p class="unter">Was du nicht verpassen solltest, nützliche Kniffe und bekannte Glitches.</p>
     <h2>Nicht verpassen</h2>
-    ${LH.VERPASSBAR.map(v => `<div class="karte-box warn"><b>${esc(v.n)}</b><div>${esc(v.t)}</div>${v.at ? `<button class="btn klein" data-o="${v.at}" style="margin-top:8px">Details</button>` : ""}</div>`).join("")}
-    ${themen.map(th => `<h2>${esc(th)}</h2><div class="karte-box"><ul style="margin:0;padding-left:18px">${LH.TIPPS.filter(t => t[0] === th).map(t => `<li style="margin:6px 0">${esc(t[1])}</li>`).join("")}</ul></div>`).join("")}
+    ${LH.VERPASSBAR.map(v => `<div class="karte-box warn"><b>${esc(v.n)}</b> ${neuBadge(v.neu)}<div>${esc(v.t)}</div>${v.at ? `<button class="btn klein" data-o="${v.at}" style="margin-top:8px">Details</button>` : ""}</div>`).join("")}
+    ${themen.map(th => `<h2>${esc(th)}</h2><div class="karte-box"><ul style="margin:0;padding-left:18px">${LH.TIPPS.filter(t => t[0] === th).map(t => `<li style="margin:6px 0">${neuBadge(t.neu)}${esc(t[1])}</li>`).join("")}</ul></div>`).join("")}
     ${quellenHtml(["gm", "al"])}
     <h2>Glitches</h2>
     <div class="karte-box hinweis">${esc(LH.GLITCH_WARNUNG)}${quellenHtml(["ggm"])}</div>
-    ${LH.GLITCHES.map(g => `<div class="karte-box"><b>${esc(g.n)}</b> <span class="badge b-${g.q}">${QTXT[g.q]}</span><div style="margin-top:6px">${esc(g.t)}</div>${g.at ? `<button class="btn klein" data-k="${g.at}" style="margin-top:8px">Auf der Karte</button>` : ""}${quellenHtml(g.src)}</div>`).join("")}
+    ${LH.GLITCHES.map(g => `<div class="karte-box"><b>${esc(g.n)}</b> ${neuBadge(g.neu)}<span class="badge b-${g.q}">${QTXT[g.q]}</span>${g.status ? ` <span class="badge ${g.status === "behoben" ? "b-u" : g.status === "aktiv" ? "b-m" : "b-e"}">${g.status === "behoben" ? "Behoben" : g.status === "aktiv" ? "Funktioniert noch" : "Status unklar"}</span>` : ""}${g.hinweis ? `<div class="hilfe" style="margin-top:6px">${esc(g.hinweis)}</div>` : ""}<div style="margin-top:6px">${esc(g.t)}</div>${g.at ? `<button class="btn klein" data-k="${g.at}" style="margin-top:8px">Auf der Karte</button>` : ""}${quellenHtml(g.src)}</div>`).join("")}
     <h2>Bekannte Bugs & Lösungen</h2>
     <p class="hilfe">Rockstar hat noch keine offizielle Liste bekannter Probleme veröffentlicht. Diese Einträge stammen von Spielerberichten.</p>
     <div class="tab-scroll"><table><thead><tr><th>Problem</th><th>Schwere</th><th>Lösung</th></tr></thead><tbody>
@@ -924,14 +934,17 @@ RENDER.jagd = () => {
 
 /* ---- Autos & Lager ---- */
 RENDER.autos = () => {
-  const box = x => `<div class="karte-box"><b>${esc(x.titel)}</b> <span class="badge b-${x.q}">${QTXT[x.q]}</span><div style="margin-top:4px">${esc(x.text)}</div>${x.at ? `<button class="btn klein" data-k="${x.at}" style="margin-top:8px">Auf der Karte</button>` : ""}${quellenHtml(x.src)}</div>`;
+  const box = x => `<div class="karte-box"><b>${esc(x.titel)}</b> ${neuBadge(x.neu)}<span class="badge b-${x.q}">${QTXT[x.q]}</span><div style="margin-top:4px">${esc(x.text)}</div>${x.at ? `<button class="btn klein" data-k="${x.at}" style="margin-top:8px">Auf der Karte</button>` : ""}${quellenHtml(x.src)}</div>`;
   const spray = LH.ORTE.filter(o => o.typ === "Pay 'n' Spray");
+  const garagen = LH.ORTE.filter(o => o.k === "dienst" && (o.typ === "Garage" || o.typ === trS("Garage")));
   const el = $("#s-autos");
   el.innerHTML = `<h1>Autos & Lager</h1><p class="unter">Wo du Autos loswirst, was sie bringen und wo du sie abstellst.</p>
     <h2>Autos verkaufen</h2>${LH.AUTOS.map(box).join("")}
     <h2>Pay 'n' Spray (${spray.length})</h2>
     <div class="karte-box">${spray.map(o => `<div class="eintrag"><div class="txt" data-o="${o.id}"><div class="titel">${esc(o.n.replace("Pay 'n' Spray – ", ""))}</div><div class="ort">${esc(o.r)}</div></div>${o.p || o.at ? `<button class="btn klein" data-k="${o.id}">Karte</button>` : `<span class="hilfe">Lage offen</span>`}</div>`).join("")}${quellenHtml(["pps"])}</div>
-    <h2>Garagen, Safehouses & Werkzeuge</h2>${LH.LAGER.map(box).join("")}`;
+    <h2>Garagen, Safehouses & Werkzeuge</h2>${LH.LAGER.map(box).join("")}
+    <h2>Garagen (${garagen.length})</h2>
+    <div class="karte-box">${garagen.map(o => `<div class="eintrag"><div class="txt" data-o="${o.id}"><div class="titel">${neuBadge((LH.NEU_IDS || {})[o.id])}${esc(o.n)}</div><div class="ort">${esc(o.t || "")}${o.r ? " · " + esc(o.r) : ""}</div></div>${o.p || o.at ? `<button class="btn klein" data-k="${o.id}">Karte</button>` : `<span class="hilfe">Lage offen</span>`}</div>`).join("")}</div>`;
   el.onclick = e => { if (e.target.dataset.k) zeigeAufKarte(e.target.dataset.k); else if (e.target.closest("[data-o]")) detail(e.target.closest("[data-o]").dataset.o); };
 };
 
@@ -1034,9 +1047,27 @@ RENDER.hundert = () => {
   el.onchange = e => { if (e.target.dataset.z) { z[e.target.dataset.z] = Math.max(0, +String(e.target.value).replace(/\D/g, "") || 0); speichern(); RENDER.hundert(); } };
 };
 
+/* ---- Neu & Patches ---- */
+RENDER.neu = () => {
+  const el = $("#s-neu");
+  const ids = LH.NEU_IDS || {};
+  const neueOrte = Object.keys(ids).map(ortById).filter(Boolean).sort((a, b) => String(ids[b.id]).localeCompare(String(ids[a.id])) || a.n.localeCompare(b.n));
+  const datum = d => { const t = Date.parse(d); return isNaN(t) ? esc(d || "") : new Date(t).toLocaleDateString(LOC); };
+  const patches = LH.PATCHES || [];
+  el.innerHTML = `<h1>Neu & Patches</h1><p class="unter">Datenstand ${esc(LH.STAND)}. Die Hilfe wird täglich mit neuen Funden, Tipps und Patch-Infos ergänzt.</p>
+    <h2>Patches & Updates</h2>
+    ${patches.length ? patches.map(p => `<div class="karte-box"><b>${esc(/^\d/.test(p.version || "") ? "Version " + p.version : (p.version || "Update").replace(/^[–-]\s*/, ""))}</b> ${neuBadge(p.neu)}<span class="badge">${datum(p.datum)}</span>${p.plattform ? ` <span class="badge">${esc(p.plattform)}</span>` : ""}<div style="margin-top:6px">${esc(p.inhalt)}</div>${quellenHtml(p.src)}</div>`).join("")
+      : `<div class="karte-box hilfe">Noch keine Patch-Infos erfasst.</div>`}
+    <h2>Änderungsprotokoll</h2>
+    ${(LH.NEU_LOG || []).length ? `<div class="karte-box">${LH.NEU_LOG.map(l => `<div class="eintrag"><div class="txt"><div class="titel">${datum(l.datum)} · v${esc(l.version)}</div><div class="ort">${l.punkte.map(esc).join(" · ")}</div></div></div>`).join("")}</div>` : `<div class="karte-box hilfe">Noch keine Nachträge.</div>`}
+    <h2>Neue und ergänzte Einträge (${neueOrte.length})</h2>
+    <div class="karte-box">${neueOrte.length ? neueOrte.map(o => `<div class="eintrag"><div class="txt" data-o="${o.id}"><div class="titel">${neuBadge(ids[o.id])}${esc(o.n)}</div><div class="ort">${esc((KAT[o.k] || {}).name || "")}${o.typ ? " · " + esc(o.typ) : ""}${o.r ? " · " + esc(o.r) : ""}</div></div>${o.p || o.at ? `<button class="btn klein" data-k="${o.id}">Karte</button>` : ""}</div>`).join("") : `<span class="hilfe">Noch keine.</span>`}</div>`;
+  el.onclick = e => { if (e.target.dataset.k) zeigeAufKarte(e.target.dataset.k); else if (e.target.closest("[data-o]")) detail(e.target.closest("[data-o]").dataset.o); };
+};
+
 /* ---- Mehr (schmale Ansicht) ---- */
 RENDER.mehr = () => {
-  const info = { fahndung: ["Fahndung", "Sterne, Heat, Hinweise löschen"], autos: ["Autos & Lager", "Verkaufen, Garagen, Werkzeuge"], hundert: ["100 %", "Checkliste mit Zählern"], codes: ["Codes", "Tresore, Türen, Passwörter"], cheats: ["Cheats", "Alle 61 mit Freischaltung"], trophaeen: ["Trophäen", "55 zum Abhaken"], tipps: ["Tipps & Glitches", "Verpassbares, Kniffe"], jagd: ["Jagd & Angeln", "Tiere, Regeln"], optionen: ["Spielstand", "Speichern, Export, Quellen"] };
+  const info = { fahndung: ["Fahndung", "Sterne, Heat, Hinweise löschen"], autos: ["Autos & Lager", "Verkaufen, Garagen, Werkzeuge"], hundert: ["100 %", "Checkliste mit Zählern"], codes: ["Codes", "Tresore, Türen, Passwörter"], cheats: ["Cheats", "Alle 61 mit Freischaltung"], trophaeen: ["Trophäen", "55 zum Abhaken"], tipps: ["Tipps & Glitches", "Verpassbares, Kniffe"], jagd: ["Jagd & Angeln", "Tiere, Regeln"], neu: ["Neu & Patches", "Was sich geändert hat"], optionen: ["Spielstand", "Speichern, Export, Quellen"] };
   $("#s-mehr").innerHTML = `<div class="kopf-zeile"><h1>Mehr</h1>${sprachSchalter()}</div><div class="mehr-grid" style="margin-top:14px">${MEHR_SEITEN.map(v => `<button data-g="${v}"><b>${info[v][0]}</b><small>${info[v][1]}</small></button>`).join("")}</div>`;
   $("#s-mehr").onclick = e => { const b = e.target.closest("[data-g]"); if (b) gehe(b.dataset.g); };
 };
@@ -1109,5 +1140,10 @@ $("#k-lang").textContent = LANG === "en" ? "🇬🇧" : "🇩🇪";
 $("#k-lang").onclick = () => setzeSprache(LANG === "en" ? "de" : "en");
 zeige(location.hash.slice(1) || "karte");
 </script>
+<script src="symbole.js?v=110"></script>
+<script src="legende.js?v=110"></script>
+<script src="karte2.js?v=110"></script>
 </body>
 </html>
+
+</body></html>

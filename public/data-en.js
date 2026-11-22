@@ -6,7 +6,7 @@
 window.LH_EN = {};
 const E = window.LH_EN;
 
-E.STAND = "21 Nov 2026, 03:30 (v8)";
+E.STAND = "21 Nov 2026, 14:45 (v9)";
 E.KATEGORIEN = { basis: "Key places", waffe: "Weapons & finds", laden: "Ammu-Nation & gun stores", gang: "Gang operations", raub: "Banks & robberies",
   geld: "Money & treasure", dienst: "Shops & services", samm: "Collectibles", code: "Safes & codes", geheim: "Secrets & Easter eggs",
   medi: "Meditation spots", aktiv: "Races & activities", eigen: "My markers" };
@@ -211,7 +211,7 @@ E.AUTOS = [["Moses (from chapter 2)", "Cars without a tracker, about $1,000–2,
   ["For 100%", "Fence $200,000 worth of vehicles. $500,000 from vehicle sales unlocks the filter cheat “Dark Mirror”."]];
 E.LAGER = [["Jason's safehouse", "Peach Palm Drive, Key Lento. Free from the start, with a garage. Bed to save and skip time, wardrobe, spawn point when switching characters."],
   ["More safehouses", "In Port Gellhorn and Vice City, free as the story progresses. Safehouses can't be bought."],
-  ["8 buyable garages", "Prices and slots: see category Shops & services → Garage. Shared by Jason and Lucia, paid via BuckMe, no income. Buying all = trophy “Little Boxes”. GameTrek recommends a Vice City garage from chapter 3."],
+  ["8 buyable garages", "1 space each (all 8 about $160,000). Names, prices and locations: see the “Garages” list below. Shared by Jason and Lucia, paid via BuckMe, no income. Buying all = trophy “Little Boxes”. GameTrek recommends a Vice City garage from chapter 3."],
   ["4 free story garages", "Unlocked through story progress (Daily Driver, Company Cars, Operation Savage Glory)."], ["Businesses", "According to GameTrek there are no buyable businesses with income at launch."],
   ["Tools", "Slim Jim (chapter 2, Moses): open car doors quietly. Snap Gun (chapter 3, from Yasmani after “Dubious Provenance”): open alarmed doors quietly – left stick to the sweet spot, hold R2/RT. Key Cloner (chapter 3): luxury cars."]];
 E.STRANGERS = [["Get Shirley's Rum · Steal the Scooter", "Parrot money (about $1,300)", "missable, doesn't count for Strangers & Freaks"], ["Search for the Skunk Ape · Search for Tree Effigies · Help Kirk Find Mr. Mangrove", "counts for Strangers & Freaks", ""],

@@ -12,7 +12,8 @@ const ok = (t) => console.log(`  ✓ ${t}`);
 const fail = (t) => { fehler.push(t); console.log(`  ✗ ${t}`); };
 const warn = (t) => { warnungen.push(t); console.log(`  ! ${t}`); };
 
-const DATEN = ["data.js", "gebiete.js", "funde.js", "community.js", "orte.js", "data-en.js"];
+// Reihenfolge wie in index.html (nachtrag.js ergänzt Orte, lage.js setzt die geprüften Positionen)
+const DATEN = ["data.js", "gebiete.js", "funde.js", "community.js", "orte.js", "positionen.js", "data-en.js", "nachtrag.js", "lage.js"];
 const alleDateien = (dir) => readdirSync(dir).flatMap((f) => {
   const p = join(dir, f); return statSync(p).isDirectory() ? alleDateien(p) : [p];
 });
@@ -110,11 +111,14 @@ else if (existsSync("dist/index.html")) {
     p.on("pageerror", (e) => err.push(e.message));
     await p.addInitScript((l) => localStorage.setItem("leonida-lang", l), lang);
     await p.goto(URL + "#karte"); await p.waitForTimeout(2500);
-    const pins = await p.$$eval(".pin", (x) => x.length);
+    // v11: Pins (.kx-pin) und Zahl-Cluster (.marker-cluster) aus karte2.js; dazu alle Einträge mit Kartenposition
+    const sichtbar = await p.$$eval(".kx-pin, .marker-cluster", (x) => x.length);
+    const pins = await p.evaluate(() => (window.LH && LH.ORTE || []).filter((o) => o.p).length);
     for (const v of views) { await p.evaluate((v) => { location.hash = v; }, v); await p.waitForTimeout(150); }
     if (err.length) fail(`${name}/${lang}: JS-Fehler: ${err.slice(0, 3).join(" | ")}`);
     else if (pins < 50) fail(`${name}/${lang}: nur ${pins} Punkte auf der Karte`);
-    else ok(`${name}/${lang}: ${pins} Punkte, ${views.length} Ansichten ohne Fehler`);
+    else if (!sichtbar) fail(`${name}/${lang}: keine Pins/Cluster sichtbar`);
+    else ok(`${name}/${lang}: ${pins} Punkte (${sichtbar} Marker sichtbar), ${views.length} Ansichten ohne Fehler`);
     await c.close();
   }
 
