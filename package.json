@@ -1,13 +1,14 @@
 {
   "name": "leonida-guide",
-  "version": "7.1.0",
+  "version": "11.0.0",
   "private": true,
-  "description": "GTA-6-Helfer für Leonida: Karte, Fundorte, Geld, Missionen – statische Seite für Cloudflare Pages",
+  "description": "GTA-6-Helfer für Leonida: Karte, Fundorte, Geld, Missionen – statische Seite für GitHub Pages",
   "type": "module",
   "engines": { "node": ">=22" },
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/check.mjs",
+    "publish": "node scripts/publish.mjs",
     "verify-deploy": "node scripts/verify-deploy.mjs"
   },
   "license": "MIT"

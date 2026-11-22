@@ -15,7 +15,7 @@
 
 window.LH = {};
 
-LH.STAND = "21.11.2026, 03:30 (v8)";
+LH.STAND = "21.11.2026, 14:45 (v9)";
 
 LH.KATEGORIEN = [
   { id: "basis",  name: "Wichtige Orte",             farbe: "#4fc3f7", zeichen: "★" },
@@ -590,7 +590,7 @@ LH.AUTOS = [
 LH.LAGER = [
   { titel: "Jasons Safehouse", text: "Peach Palm Drive, Key Lento. Kostenlos ab Spielstart, mit Garage. Bett zum Speichern und Zeit vorspulen, Kleiderschrank, Startpunkt beim Figurenwechsel.", at: "jason-haus", q: "e", src: ["gmp"] },
   { titel: "Weitere Safehouses", text: "In Port Gellhorn und Vice City, kostenlos im Laufe der Story. Safehouses kann man nicht kaufen.", q: "e", src: ["gmp"] },
-  { titel: "8 kaufbare Garagen", text: "Je 2–6 Stellplätze, für Jason und Lucia gemeinsam. Bezahlt wird über BuckMe. Kein Einkommen. Alle kaufen = Trophäe „Little Boxes“. GameTrek empfiehlt eine Garage in Vice City ab Kapitel 3. Einzelne Namen und Preise nennt die Quelle noch nicht.", q: "e", src: ["gmp", "tn"] },
+  { titel: "8 kaufbare Garagen", text: "Je 1 Stellplatz (alle 8 zusammen ca. 160.000 $), für Jason und Lucia gemeinsam. Bezahlt wird über BuckMe. Kein Einkommen. Alle kaufen = Trophäe „Little Boxes“. GameTrek empfiehlt eine Garage in Vice City ab Kapitel 3. Namen, Preise und Orte: Liste „Garagen“ weiter unten.", q: "e", src: ["gmp", "tn"] },
   { titel: "4 kostenlose Story-Garagen", text: "Kommen mit dem Story-Fortschritt.", q: "e", src: ["gmp"] },
   { titel: "Firmen", text: "Laut GameTrek gibt es zum Start keine kaufbaren Firmen mit Einnahmen.", q: "e", src: ["gmp"] },
   { titel: "Werkzeuge", text: "Slim Jim (Kapitel 2, Moses): Autotüren leise öffnen. Snap Gun (Kapitel 3, von Yasmani nach „Dubious Provenance“): alarmgesicherte Türen leise öffnen – linker Stick auf den Sweet Spot, R2/RT halten. Key Cloner (Kapitel 3): Luxusautos.", q: "e", src: ["gmsg", "gmr"] }

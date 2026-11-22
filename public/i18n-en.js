@@ -11,7 +11,6 @@ const ca = s => s.replace(/\bca\. /g, "about ");
 
 /* ------------------------------------------------ Untertypen, Gebiete */
 A({
-  "Stadt oder Gebiet": "City or area", "Exportierter Spielstand": "Exported save",
   "Tankstelle": "Gas station", "Supermarkt": "Supermarket", "Fast Food": "Fast food", "Schnapsladen": "Liquor store", "Kleidung": "Clothing",
   "Friseur": "Barber", "Tattoo": "Tattoo", "Tuning": "Tuning", "Garage": "Garage", "Bahnhof": "Train station", "Bar & Club": "Bar & club",
   "Hehler": "Fence", "Bank": "Bank", "Banktresor": "Bank vault", "Payday Loan": "Payday Loan", "Juwelier": "Jeweler", "Pfandhaus": "Pawn shop",
@@ -20,7 +19,7 @@ A({
   "Revolver": "Revolver", "Bowling": "Bowling", "Sonstiges": "Other", "Schrotflinte": "Shotgun", "Schwere Waffe": "Heavy weapon", "Nahkampf": "Melee",
   "Story & Basis": "Story & base", "Ammu-Nation": "Ammu-Nation", "Geldquelle": "Money source", "Sammelobjekt": "Collectible", "Code": "Code",
   "Easter Egg": "Easter egg", "Meditation": "Meditation", "Aktivität": "Activity", "Eigener Punkt": "My marker", "Sonstige Waffe": "Other weapon",
-  "Andere": "Other", "Verlorene Drogen": "Lost drugs", "Geldversteck": "Cash stash", "WAiNK-Wahrzeichen": "WAiNK landmark", "WAiNK-Kuriosität": "WAiNK curiosity", "WAiNK-Skulptur": "WAiNK sculpture", "No-Flusher-Tag": "No Flusher tag", "Sammelkarte": "Collectible card", "Magazin & Buch": "Magazine & book", "Playlist-Poster": "Playlist poster", "Billard": "Pool", "Golf": "Golf", "Basketballkorb": "Basketball hoop", "Arcade": "Arcade", "Jagd": "Hunting", "Stuntsprung": "Stunt jump", "Seltenes Auto": "Rare car", "Strangers & Freaks": "Strangers & Freaks", "Randys Wunschliste": "Randy's Wish List", "Wymans Klassiker": "Wyman's classics", "Zufallsereignis": "Random event", "Nebenauftrag": "Side job", "Beziehung": "Relationship", "Illegal Operation": "Illegal operation", "Kokain-Flamingo": "Cocaine flamingo", "Buchtausch": "Book swap", "Luxusuhr": "Luxury watch", "Okkultes Ritual": "Occult ritual", "Nebenmission": "Side mission", "Mysterium": "Mystery", "Comic": "Comic", "Billardtisch": "Pool table", "Schießstand-Challenge": "Shooting range challenge", "Schießstand-Info": "Shooting range info", "Race Challenge": "Race challenge", "Angel-Herausforderung": "Fishing challenge", "Angelplatz": "Fishing spot", "Videospiel": "Video game", "Workout": "Workout", "Herausforderung": "Challenge", "Geldversteck": "Cash stash", "Leonida Keys (Süd)": "Leonida Keys (South)", "Nord-Mariana": "North Mariana", "VCIA (Flughafen)": "VCIA (airport)"
+  "Andere": "Other", "Verlorene Drogen": "Lost drugs", "Geldversteck": "Cash stash", "WAiNK-Wahrzeichen": "WAiNK landmark", "WAiNK-Kuriosität": "WAiNK curiosity", "WAiNK-Skulptur": "WAiNK sculpture", "No-Flusher-Tag": "No Flusher tag", "Sammelkarte": "Collectible card", "Magazin & Buch": "Magazine & book", "Playlist-Poster": "Playlist poster", "Billard": "Pool", "Golf": "Golf", "Basketballkorb": "Basketball hoop", "Arcade": "Arcade", "Jagd": "Hunting", "Stuntsprung": "Stunt jump", "Seltenes Auto": "Rare car", "Strangers & Freaks": "Strangers & Freaks", "Randys Wunschliste": "Randy's Wish List", "Wymans Klassiker": "Wyman's classics", "Zufallsereignis": "Random event", "Nebenauftrag": "Side job", "Beziehung": "Relationship", "Illegal Operation": "Illegal operation", "Kokain-Flamingo": "Cocaine flamingo", "Meteorit": "Meteorite", "Buchtausch": "Book swap", "Luxusuhr": "Luxury watch", "Okkultes Ritual": "Occult ritual", "Nebenmission": "Side mission", "Mysterium": "Mystery", "Comic": "Comic", "Billardtisch": "Pool table", "Schießstand-Challenge": "Shooting range challenge", "Schießstand-Info": "Shooting range info", "Race Challenge": "Race challenge", "Angel-Herausforderung": "Fishing challenge", "Angelplatz": "Fishing spot", "Videospiel": "Video game", "Workout": "Workout", "Herausforderung": "Challenge", "Geldversteck": "Cash stash", "Leonida Keys (Süd)": "Leonida Keys (South)", "Nord-Mariana": "North Mariana", "VCIA (Flughafen)": "VCIA (airport)"
 });
 
 /* ------------------------------------------------ Generierte Ortstexte (gebiete.js) */
@@ -167,7 +166,7 @@ R(/^(\d+) Haken · (\d+) Zähler · (\d+) eigene Punkte$/, "$1 checkmarks · $2 
 A({
   "), für diese App in Pakete umgepackt. Karten-Bibliothek: Leaflet (BSD-2).": "), repacked for this app. Map library: Leaflet (BSD-2).",
   "100 % Checkliste": "100% checklist", "Cheat suchen…": "Search cheats…", "Name, Typ, Waffe suchen…": "Search name, type, weapon…", "Ort oder Code suchen…": "Search place or code…",
-  "Schließen": "Close", "mehr": "more", "weniger": "less", "Achtung:": "Warning:", "Alle": "All", "Alle Städte & Gebiete": "All cities & areas", "Alle Typen": "All types",
+  "Schließen": "Close", "Stadt oder Gebiet": "City or area", "Exportierter Spielstand": "Exported save", "mehr": "more", "weniger": "less", "Achtung:": "Warning:", "Alle": "All", "Alle Städte & Gebiete": "All cities & areas", "Alle Typen": "All types",
   "Alle an": "All on", "Alle aus": "All off", "Als erledigt markieren": "Mark as done", "Angeln": "Fishing", "Angeln ist Freizeit, Geld bringt nur die Jagd.": "Fishing is just for fun – only hunting makes money.",
   "Auf map.gtadb.org": "On map.gtadb.org", "Autos verkaufen": "Selling cars", "Bekannte Bugs & Lösungen": "Known bugs & fixes",
   "Danach sind alle Hinweise weg – erst dann zurück an den Tatort.": "After that all icons are gone – only then go back to the crime scene.",
@@ -205,7 +204,22 @@ R(/^Datenstand (.+) \(Spiel erschienen am 19\.11\.2026\)\. .*$/, "Data as of $1 
 R(/^([·–] )(.+)$/, (m, a, b) => I18N_DICT[b] ? a + I18N_DICT[b] : m);
 
 /* gesammelt per Durchlauf – Ergänzungen unten */
+A({ "Unter-Brücke": "Under the bridge", "Messerflug": "Knife flight", "BASE-Sprung": "BASE jump", "Brets Deck": "Bret's deck", "Unterschlupf": "Safehouse", "Nichts gefunden": "Nothing found" }); /* v9 */
 window.I18N_NACHTRAG && window.I18N_NACHTRAG(A, R, { nr, tsd, ca });
 
 if (LANG === "en") englischAnwenden();
+})();
+
+/* v9: Neu & Patches */
+(function () {
+  const A = window.I18N_ADD, R = window.I18N_R;
+  if (!A) return;
+  A({ "Neu": "New", "Neu & Patches": "New & patches", "Was sich geändert hat": "What has changed", "Patches & Updates": "Patches & updates",
+    "Änderungsprotokoll": "Changelog", "Noch keine Patch-Infos erfasst.": "No patch info recorded yet.", "Noch keine Nachträge.": "No additions yet.",
+    "Noch keine.": "None yet.", "Behoben": "Fixed", "Funktioniert noch": "Still works", "Status unklar": "Status unclear", "Update": "Update",
+    "Lage offen": "Location open", "kritisch": "critical", "mittel": "medium", "gering": "minor" });
+  R(/^Neue und ergänzte Einträge \((\d+)\)$/, (m, n) => `New and completed entries (${n})`);
+  R(/^Garagen \((\d+)\)$/, (m, n) => `Garages (${n})`);
+  R(/^Version (.+)$/, (m, v) => `Version ${v}`);
+  R(/^Datenstand (.+)\. Die Hilfe wird täglich mit neuen Funden, Tipps und Patch-Infos ergänzt\.$/, (m, a) => `Data as of ${a}. The helper is updated daily with new finds, tips and patch info.`);
 })();

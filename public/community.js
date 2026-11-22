@@ -5035,3 +5035,6104 @@ LH.VERPASSBAR.push(...[{"n": "Kap. 1: „Tourist Trap“ ist der Point of no Ret
 (function(){const P={"gang-1": {"r": "Inselchen in der Wetman Bay, nordwestlich von Key Lento (Westrand der Grassrivers)", "t": "Kleinere Operation: ca. 1.700–1.900 $ Beute, Drogen und das einzigartige W-22-Kleinwildgewehr; Bargeld liegt im Schreibtisch der Hütte.", "src": ["ppg", "gmg", "c2d5fb5", "c608b67", "cf0e4d3"], "q": "m", "en": {"r": "Small island in Wetman Bay, northwest of Key Lento (western edge of Grassrivers)", "t": "Small operation: about $1,700–1,900 in loot, narcotics and the unique W-22 small game rifle; cash sits in the shack's desk."}}, "gang-2": {"r": "Nördlich des Cottonmouth Lake, östlich der Wetman Bay", "t": "Drogenlager mit Beute im Wert von ca. 6.500–9.300 $ und dem einzigartigen Akulus-Revolver. Der Tresor im Dock-Lagerhaus öffnet mit 6769.", "codes": [["Tresor Dock-Lagerhaus", "6769"]], "en": {"c": ["Dock warehouse safe"], "r": "North of Cottonmouth Lake, east of Wetman Bay", "t": "Drug stash worth about $6,500–9,300 plus the unique Akulus revolver. The dock warehouse safe opens with 6769."}, "src": ["ppg", "gmg", "c2d5fb5", "c608b67", "cd788fe", "c1e54be", "c685aaf"], "q": "m"}, "gang-3": {"r": "Nordöstlich des Sunrise RV Park, Ostrand der Gullet Marsh", "t": "Kleine Operation (ca. 1.700–1.900 $) mit dem einzigartigen Laird-350-Scharfschützengewehr.", "src": ["ppg", "gmg", "c2d5fb5", "c608b67"], "q": "m", "en": {"r": "Northeast of Sunrise RV Park, eastern edge of Gullet Marsh", "t": "Small operation (about $1,700–1,900) with the unique Laird 350 sniper rifle."}}, "gang-4": {"r": "Süden von Port Gellhorn; Tresor im kleinen Büro im Nordosten", "t": "Optionale Mission „Hit Kingpin Bowling“ ab „Coffee Break“ (Kap. 2). Drei Wertsachen: Büro-Tresor (Code 0300, ca. 3.840 $), Gutterball-Moreland-850-Schrotflinte auf dem Billardtisch links vom Tresorraum und Uhr Crowex Octane „Orca“ im Südostraum (dort noch 552 $). Alle drei holen und entkommen = Trophäe „Let's Go Bowling“.", "s": ["Code steht auf der Wandkarte in Brooks Boatworks (L2/LT halten)", "Tresor im Nordost-Büro öffnen (ohne Code: Haftbombe)", "Schrotflinte und Uhr einsammeln", "Mit 2 Sternen fliehen"], "codes": [["Tresorcode", "0300"]], "en": {"c": ["Safe code"], "r": "Southern Port Gellhorn; safe in the small northeast office", "t": "Optional mission 'Hit Kingpin Bowling' after 'Coffee Break' (Ch. 2). Three valuables: office safe (code 0300, about $3,840), Gutterball Moreland 850 shotgun on the pool table left of the safe room and the Crowex Octane 'Orca' watch in the southeast room (plus $552). Grab all three and escape for the 'Let's Go Bowling' trophy.", "s": ["The code is on the wall map in Brooks Boatworks (hold L2/LT)", "Open the safe in the northeast office (no code: sticky bomb)", "Grab the shotgun and watch", "Escape the 2-star wanted level"]}, "c": 2, "src": ["ppg", "gmg", "c0307a6", "c1a41d3", "cd788fe", "c68300d", "c1e54be", "c685aaf"], "q": "m"}, "gang-5": {"r": "Westlich vom Delights-Stripclub, Port Gellhorn", "t": "Beute ca. 9.800–12.400 $, einzigartige Vatra-MP und der Vapid Truth & Justice Caracara.", "src": ["ppg", "gmg", "c2d5fb5", "c608b67"], "q": "m", "en": {"r": "West of the Delights strip club, Port Gellhorn", "t": "Loot about $9,800–12,400, unique Vatra SMG and the Vapid Truth & Justice Caracara."}}, "gang-6": {"r": "Südlich der Eisenbahnbrücke, Westrand von Port Gellhorn", "t": "Sehr hohe Sicherheit, aber eine der lukrativsten frühen Operationen (ca. 27.600–46.100 $). Einzigartige Scrapper-VF5C-MP, Vapid Firebug Dominator vor der Tür. Tresor im Leutnant-Zimmer: 6969.", "codes": [["Tresorcode", "6969"]], "en": {"c": ["Safe code"], "r": "South of the railway bridge, western edge of Port Gellhorn", "t": "Very high security but one of the most lucrative early operations (about $27,600–46,100). Unique Scrapper VF5C SMG, Vapid Firebug Dominator outside. Lieutenant room safe: 6969."}, "c": 2, "p": [-6255, 3805], "g": 0, "src": ["ppg", "gmg", "c2d5fb5", "c608b67", "cd788fe", "c1e54be", "c0307a6"], "q": "m"}, "gang-7": {"r": "Nordosten von Port Gellhorn, nördlich vom Pay 'n' Spray; Einstieg durch Zaunlücke im Osten", "t": "Hauptlager-Tresor oben im Raum mit Billardtisch (6823, ca. 2.165 $), zweiter Tresor ohne Code im grünen Holzgebäude im Westen (Schraubenzieher, ca. 1.409 $). Clunker-556-Sturmgewehr im Ostbüro, Vapid Smuggler Caracara (Verkauf ca. 6.325 $). Die Wandkarte im Ostbüro verrät auch die Codes von La Cascara und Kingpin Bowling.", "s": ["Durch die Zaunlücke im Osten rein", "Außentreppe des grauen Gebäudes hoch, weiße Tür", "Wandkarte mit L2/LT prüfen (6823, 6969, 0300)", "Tresor oben im Billardraum öffnen"], "codes": [["Tresor Lagerhalle", "6823"]], "en": {"c": ["Warehouse safe"], "r": "Northeastern Port Gellhorn, north of the Pay 'n' Spray; enter via the gap in the east fence", "t": "Main warehouse safe upstairs in the pool room (6823, about $2,165), second code-less safe in the green wooden building on the west side (screwdriver, about $1,409). Clunker 556 rifle in the east office, Vapid Smuggler Caracara (sells for about $6,325). The wall map in the east office also shows the La Cascara and Kingpin Bowling codes.", "s": ["Enter through the east fence gap", "Climb the grey building's outside stairs, white door", "Examine the wall map with L2/LT (6823, 6969, 0300)", "Open the safe upstairs in the pool room"]}, "c": 2, "src": ["ppg", "gmg", "c859786", "cd788fe", "c68300d", "c1e54be", "c2d5fb5"], "q": "m"}, "gang-8": {"r": "Ein paar Straßen östlich von Brooks Boatworks, nördliches Port Gellhorn", "t": "Wohnhaus mit Ware im Wert von ca. 6.000–13.200 $ und dem einzigartigen Kolt-&-Associates-556. Laut ShowGamer liegt hier auch ein Notizbuch mit dem Boatworks-Code.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5", "c859786"], "q": "m", "en": {"r": "A few roads east of Brooks Boatworks, northern Port Gellhorn", "t": "House with goods worth about $6,000–13,200 and the unique Kolt & Associates 556. ShowGamer says a notebook with the Boatworks code is here too."}}, "gang-10": {"r": "Hoher Norden, östlich des Lake Tallaloko (Lummox County)", "t": "Große Anlage mit viel verkaufbarer Ware, Marabunta-Grande-Type-9 (einzigartig) und Verdant Buccaneer; zwei Tresore (u. a. im Wohnmobil).", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Far north, east of Lake Tallaloko (Lummox County)", "t": "Large compound with lots of sellable stock, unique Marabunta Grande Type 9 and Verdant Buccaneer; two safes (one in the RV)."}}, "gang-11": {"r": "Südspitze von Bobcat Key", "t": "Code steht am Computer im Hauptgebäude; schlüsselloser Tresor oben mit ca. 3.700 $ und Luxusuhr. Kokain im Wert von ca. 2.000 $ auf den Tischen der Lagerhalle, einzigartiges La-Polilla-Negra-KZ-59, Black Moth Camacho in der Garage.", "codes": [["Tresor oben (laut VicePulse)", "1886"]], "en": {"c": ["Upstairs safe (per VicePulse)"], "r": "Southern tip of Bobcat Key", "t": "Code is on the main building's computer; keyless safe upstairs holds about $3,700 and a luxury watch. About $2,000 of cocaine on the warehouse tables, unique La Polilla Negra KZ-59, Black Moth Camacho in the garage."}, "src": ["ppg", "vp", "cf0e4d3", "c608b67", "c2d5fb5"], "q": "m"}, "gang-12": {"r": "Ostrand der Watson Bay", "t": "Notiz am Computer im oberen Büro lesen, dann Küchentresor öffnen: ca. 3.000–4.000 $ plus Luxusuhr. Einzigartiges VF-G1-Sturmgewehr.", "codes": [["Küchentresor (laut VicePulse)", "1819"]], "en": {"c": ["Kitchen safe (per VicePulse)"], "r": "Eastern edge of Watson Bay", "t": "Read the note on the upstairs office computer, then open the kitchen safe: about $3,000–4,000 plus a luxury watch. Unique VF-G1 assault rifle."}, "src": ["ppg", "vp", "cf0e4d3", "c608b67", "c2d5fb5"], "q": "m"}, "gang-13": {"r": "McKittrick Farm, Mitte Leonard County, nördlich der Nordausfahrt von Belville", "t": "Meth-Labor der Final Chapter MC, bis ca. 30.000 $ Beute, einzigartige Throttler-Verro-Schrotflinte und Searing Zombie Bobber. Tresorcode 2121.", "codes": [["Tresorcode", "2121"]], "en": {"c": ["Safe code"], "r": "McKittrick Farm, central Leonard County, north of Belville's northern exit", "t": "Final Chapter MC meth lab, up to about $30,000 in loot, unique Throttler Verro shotgun and Searing Zombie Bobber. Safe code 2121."}, "src": ["ppg", "gmg", "cd788fe", "c1e54be", "c685aaf", "c608b67", "c2d5fb5"], "q": "m"}, "gang-14": {"r": "Bar südlich der Südspitze des Lake Leonida, östlich von Ambrosia", "t": "Bar als Versteck: Hinterbereich oder Terrasse betreten macht die Gang feindlich. Ride-Free-H&L-.38 (einzigartig), Monarch Avarus, Tresor zum Sprengen.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Bar south of Lake Leonida's southern tip, east of Ambrosia", "t": "A bar used as a hideout: entering the back area or terrace turns the gang hostile. Unique Ride Free H&L .38, Monarch Avarus, safe to blow open."}}, "gang-15": {"r": "Ambrosia, östlich von Irons Building Supply", "t": "Büro-Tresor, einzigartige Shortstraw-Schrotflinte und Devil's Rope Gauntlet.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Ambrosia, east of Irons Building Supply", "t": "Office safe, unique Shortstraw shotgun and the Devil's Rope Gauntlet."}}, "gang-16": {"r": "Ambrosia, südwestlich des Lake Leonida", "t": "Oft über 10.000 $ an verkaufbarer Ausrüstung, einzigartige KVGA-12.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Ambrosia, southwest of Lake Leonida", "t": "Often over $10,000 in sellable gear, unique KVGA-12."}}, "gang-17": {"r": "Stockyard, direkt östlich von La Perle unter dem Highway-Kreuz", "t": "Einzigartige K17-Pistole und Bourbon Windsor; Drogen und Bargeld.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Stockyard, just east of La Perle under the highway interchange", "t": "Unique K17 pistol and Bourbon Windsor; narcotics and cash."}}, "gang-18": {"r": "Nordwesten von La Perle, südlich von Zak's Liquor", "t": "Koks-Lager, Chromium-W-10-MP (Variante) und Charred Toros.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Northwest La Perle, south of Zak's Liquor", "t": "Coke stash, Chromium W-10 SMG variant and Charred Toros."}}, "gang-19": {"r": "Hinter dem Laden Drip Drops, Zentrum von La Perle", "t": "Hinterzimmer-Operation mit Widerstand; Tresorcode 4124.", "codes": [["Tresorcode", "4124"]], "en": {"c": ["Safe code"], "r": "Behind the Drip Drops store, central La Perle", "t": "Back-room operation with armed resistance; safe code 4124."}, "p": [-883, 1328], "g": 0, "src": ["ppg", "gmg", "cd788fe", "c1e54be", "c608b67", "c2d5fb5"], "q": "m"}, "gang-20": {"r": "Süden von La Perle, an der Grenze zu Rockridge", "t": "Große, gut bewachte Weed-Operation; KZ-59-Variante und Pink Gin Tulip. Tresorcode noch unbestätigt.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5", "c1e54be"], "q": "m", "en": {"r": "Southern La Perle where it meets Rockridge", "t": "Large, well-guarded weed operation; KZ-59 variant and Pink Gin Tulip. Safe code not yet confirmed."}}, "gang-21": {"r": "Süd-Rockridge: zwei V-förmige Wohnblöcke gegenüber einer Bushaltestelle", "t": "Ware, Bargeld, Tresor zum Knacken und die San4San-Gorse-425-Schrotflinte.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "South Rockridge: two V-shaped apartment blocks opposite a bus stop", "t": "Goods, cash, a safe to crack and the San4San Gorse 425 shotgun."}}, "gang-22": {"r": "Southside, neben der Xero-Tankstelle (Quellen uneins: nördlich des Medical Center bzw. Süd-Southside)", "t": "Lager der PTT Youngin$; Quellen nennen keine besondere Wertsache.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "u", "en": {"r": "Southside, next to the Xero gas station (sources differ: north of the medical center vs. southern Southside)", "t": "PTT Youngin$ storage point; sources list no special valuable."}}, "gang-23": {"r": "Southside, direkt südlich des Illegal Goods Store", "t": "Gestohlene Ware, Bargeld, Drogen und die einzigartige PTT-Youngin$-K17.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Southside, directly south of the Illegal Goods Store", "t": "Stolen goods, cash, narcotics and the unique PTT Youngin$ K17."}}, "gang-24": {"r": "Westseite von Little Cuba, am Fluss", "t": "Schwer bewacht, große Beute; einzigartige Guardian ES18 und Cherry Bomb Chino. Tresor 8046.", "codes": [["Tresorcode", "8046"]], "en": {"c": ["Safe code"], "r": "West side of Little Cuba, backing onto the river", "t": "Heavily guarded, big haul; unique Guardian ES18 and Cherry Bomb Chino. Safe 8046."}, "src": ["ppg", "gmg", "cd788fe", "c1e54be", "c608b67", "c2d5fb5"], "q": "m"}, "gang-25": {"r": "Nordost-Little-Cuba am Wasser, an einem großen Highway-Kreuz", "t": "Meist über 20.000 $ Beute, einzigartiges Guardia-Brothers-FRA und Nightlife Schafter. Tresorcode 1965.", "codes": [["Tresorcode", "1965"]], "en": {"c": ["Safe code"], "r": "Northeast Little Cuba by the water at a large highway interchange", "t": "Usually over $20,000 in loot, unique Guardia Brothers FRA and Nightlife Schafter. Safe code 1965."}, "src": ["ppg", "gmg", "cd788fe", "c1e54be", "c608b67", "c2d5fb5"], "q": "m"}, "gang-26": {"r": "Balsero, flussaufwärts gegenüber dem Shipping Yard", "t": "Großes Drogenlager mit einzigartiger Guardia-Brothers-VF5. Code umstritten: VICE nennt 1122, Cultured Vultures 1965 (wie Casa Guardia) – Hinweis vor Ort prüfen.", "codes": [["Tresor laut VICE", "1122"], ["Tresor laut Cultured Vultures", "1965"]], "en": {"c": ["Safe per VICE", "Safe per Cultured Vultures"], "r": "Balsero, upriver across from the Shipping Yard", "t": "Large drug warehouse with the unique Guardia Brothers VF5. Code disputed: VICE says 1122, Cultured Vultures says 1965 (same as Casa Guardia) – check the clue on site."}, "src": ["ppg", "gmg", "cd788fe", "c1e54be", "c608b67"], "q": "u"}, "gang-28": {"r": "Grassrivers, an der Nordstraße aus Watson Bay heraus", "t": "Militärisch ausgerüstete Verteidiger; laut Respec ein experimenteller Gegenstand, der die Gesundheit dauerhaft erhöht, laut vicecity.codes die einzigartige Hostile Super400. Verschlossener Tresor.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "u", "en": {"r": "Grassrivers, on the north road out of Watson Bay", "t": "Military-grade defenders; Respec mentions an experimental item that permanently raises health, vicecity.codes lists the unique Hostile Super400. Locked safe."}}, "gang-29": {"r": "Nördliches Mariana County", "t": "Beute ca. 15.200–28.500 $, Sandking und einzigartige Chronic-Vatra-MP.", "src": ["ppg", "gmg", "c2d5fb5"], "q": "e", "en": {"r": "Northern Mariana County", "t": "Loot about $15,200–28,500, a Sandking and the unique Chronic Vatra SMG."}}, "gang-30": {"r": "Südende von Salton, nördlich des Pay 'n' Spray Salton", "t": "Stark bewachter Chop-Shop mit eher wenig Beute (ca. 5.500–7.500 $).", "p": [-1411, -557], "g": 0, "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "South end of Salton, north of the Salton Pay 'n' Spray", "t": "Heavily defended chop shop with modest loot (about $5,500–7,500)."}}, "gang-31": {"r": "Balsero, direkt östlich von Randys Werkstatt", "t": "Waffenschmuggel-Lager mit viel Bargeld, stark bewaffnet; einzigartiges GRX 556.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Balsero, just east of Randy's base", "t": "Gun-running warehouse with lots of cash, heavily armed; unique GRX 556."}}, "gang-32": {"r": "Little Cuba", "t": "Tarnfirma mit Beute im Wert von ca. 9.500–10.500 $.", "p": [-1051, 59], "g": 0, "src": ["ppg", "gmg", "c2d5fb5"], "q": "e", "en": {"r": "Little Cuba", "t": "Front business with about $9,500–10,500 in loot."}}, "gang-33": {"r": "Watson/Waxman Island östlich von Downtown, neben dem Pay 'n' Spray", "t": "Oft mit sehr seltenen Fahrzeugen; einzigartige Quarter-Mile-ES9; Büro-Tresor.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Watson/Waxman Island east of Downtown, next to the Pay 'n' Spray", "t": "Often holds very rare vehicles; unique Quarter Mile ES9; office safe."}}, "gang-34": {"r": "Garage an einer Nebenstraße in Ocean Beach, nördlich der Fleeca-Bank", "t": "Drogen und Bargeld, einzigartige Zodiac-Nipper-.38.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Garage on a back road in Ocean Beach, north of the Fleeca bank", "t": "Narcotics and cash, unique Zodiac Nipper .38."}}, "gang-35": {"r": "Westseite von Vespucci Island (Rialto Islands), nahe der Hauptstraße", "t": "Zwei Waffenkammer-Tresore, einzigartiges Kingpin-Heathen-Bullpup und Progen Royal Ruby Emerus (Registrierung 30.000 $).", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "West side of Vespucci Island (Rialto Islands), near the main road", "t": "Two armory safes, unique Kingpin Heathen bullpup and the Progen Royal Ruby Emerus ($30,000 to register)."}}, "gang-36": {"r": "Tankstelle an der Hauptstraße südwestlich von Ambrosia (Emerald Springs)", "t": "3–4 bewaffnete Wachen, Beute ca. 8.100–14.400 $.", "p": [-4250, 2540], "g": 0, "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Gas station on the main road southwest of Ambrosia (Emerald Springs)", "t": "3–4 armed guards, loot about $8,100–14,400."}}, "gang-37": {"r": "Östlich von Port Gellhorn jenseits des Flusses, nordwestlich vom Dino Golf (Frogswater)", "t": "Stark bewachte Pilz-Farm mit verschlossenem Tresor.", "p": [-5077, 3513], "g": 0, "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "East of Port Gellhorn across the river, northwest of Dino Golf (Frogswater)", "t": "Heavily guarded mushroom farm with a locked safe."}}, "gang-38": {"r": "Hinterzimmer des Pearl House Hair Salon, Ostrand von Port Gellhorn", "t": "Kleine Weed-Operation (ca. 2.200–2.400 $), verschlossener Tresor.", "p": [-6627, 3522], "g": 0, "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Back room of the Pearl House Hair Salon, eastern Port Gellhorn", "t": "Small weed operation (about $2,200–2,400), locked safe."}}, "gang-39": {"r": "Bonanza, Nordspitze des westlichen Leonida", "t": "Große Drogenschmuggel-Operation, Beute ca. 18.000–37.000 $, verschlossener Tresor.", "src": ["ppg", "gmg", "c608b67", "c2d5fb5"], "q": "m", "en": {"r": "Bonanza, northern tip of western Leonida", "t": "Large drug-running operation, loot about $18,000–37,000, locked safe."}}, "waffe-monty-s-1992": {"r": "Mission „The Missing Link“ – Fotoraum im Lagerhaus, Watson Bay", "t": "Fundort: Mission „The Missing Link“ – Fotoraum im Lagerhaus, Watson Bay. Beim Rauskämpfen aus dem Lagerhaus im Fotoraum aufheben; nur dann bekommst du sie.", "c": 3, "v": true, "p": [-4935, -3086], "g": 0, "src": ["det", "ce72c75"], "q": "e", "en": {"r": "Mission \"The Missing Link\" – photo room in the warehouse, Watson Bay", "t": "Found: Mission \"The Missing Link\" – photo room in the warehouse, Watson Bay. Pick it up in the photo room while fighting out of the warehouse; only then do you get it."}}, "waffe-gil-s-kalinga-50": {"r": "Mission „Safe Word“ – Raul's Anwesen, Stockyard", "t": "Fundort: Mission „Safe Word“ – Raul's Anwesen, Stockyard. Belohnung für die erfolgreiche Tresorknack-Übung (wiederholbar); im Tresor liegen zusätzlich 1.500 $.", "c": 3, "p": [-523, 1740], "g": 0, "src": ["det", "c1eaf03", "c6e63a8"], "q": "m", "en": {"r": "Mission \"Safe Word\" – Raul's compound, Stockyard", "t": "Found: Mission \"Safe Word\" – Raul's compound, Stockyard. Reward for completing the safecracking practice (repeatable); the safe also holds $1,500."}}, "waffe-duval-signature-es9": {"r": "Waffenschrank in jedem Ammu-Nation", "t": "Fundort: Waffenschrank in jedem Ammu-Nation. Ultimate-Edition-Bonus; im Ammu-Nation-Waffenschrank abholen.", "src": ["det", "c628e14", "c07311f", "c944303"], "q": "m", "en": {"r": "Weapon locker at any Ammu-Nation", "t": "Found: Weapon locker at any Ammu-Nation. Ultimate Edition bonus; claim it from the Ammu-Nation weapon locker."}}, "waffe-caminos-signature-k17": {"r": "Waffenschrank in jedem Ammu-Nation (als Lucia)", "t": "Fundort: Waffenschrank in jedem Ammu-Nation (als Lucia). Ultimate-Edition-Bonus für Lucia; im Waffenschrank abholen.", "src": ["det", "c628e14", "c6e63a8"], "q": "m", "en": {"r": "Weapon locker at any Ammu-Nation (as Lucia)", "t": "Found: Weapon locker at any Ammu-Nation (as Lucia). Ultimate Edition bonus for Lucia; claim it from the weapon locker."}}, "waffe-lyle-s-h-l-38": {"r": "Alte Scheune am Ende einer Sackgasse, Bonanza", "t": "Fundort: Alte Scheune am Ende einer Sackgasse, Bonanza. Liegt im Kofferraum eines Autos in der Scheune.", "src": ["det", "c07311f", "c944303"], "q": "m", "en": {"r": "Old barn at a dead end, Bonanza", "t": "Found: Old barn at a dead end, Bonanza. In the trunk of a car inside the barn."}}, "waffe-jack-sheepe-h-l-38": {"r": "Biff's Gun Supply, Ambrosia", "t": "Fundort: Biff's Gun Supply, Ambrosia. Kaufbar für 2.260 $; laut DETONATED zusätzlich Ultimate-Edition-Inhalt.", "p": [-2903, 3871], "g": 0, "src": ["det", "c07311f", "c944303"], "q": "m", "en": {"r": "Biff's Gun Supply, Ambrosia", "t": "Found: Biff's Gun Supply, Ambrosia. Buy for $2,260; DETONATED also lists it as Ultimate Edition content."}}, "waffe-roxy-s-w-10": {"r": "Mission „Photo/Shoot“ – Hochhausdach, Tequesta", "t": "Fundort: Mission „Photo/Shoot“ – Hochhausdach, Tequesta. Belohnung der Mission (zusammen mit 6.000 $ und der Bae-Lux's W-10).", "c": 4, "p": [-1149, -891], "g": 0, "src": ["det", "cda372d", "c6e63a8"], "q": "m", "en": {"r": "Mission \"Photo/Shoot\" – rooftop, Tequesta", "t": "Found: Mission \"Photo/Shoot\" – rooftop, Tequesta. Mission reward (with $6,000 and the Bae-Lux's W-10)."}}, "waffe-bae-lux-s-w-10": {"r": "Mission „Photo/Shoot“ – Hochhausdach, Tequesta", "t": "Fundort: Mission „Photo/Shoot“ – Hochhausdach, Tequesta. Belohnung nach dem Fotoshooting der Real Dimez (zusammen mit Roxy's W-10).", "c": 4, "p": [-721, -1033], "g": 0, "src": ["det", "cda372d", "c6e63a8"], "q": "m", "en": {"r": "Mission \"Photo/Shoot\" – rooftop, Tequesta", "t": "Found: Mission \"Photo/Shoot\" – rooftop, Tequesta. Reward after the Real Dimez photo shoot (with Roxy's W-10)."}}, "waffe-marabunta-grande-type-9": {"r": "Weed Grow, Nordostufer des Lake Tallaloko (Ost-Lummox County)", "t": "Fundort: Weed Grow, Nordostufer des Lake Tallaloko (Ost-Lummox County). Beute aus der Illegal Operation „Weed Grow“.", "p": [-1642, 7111], "g": 0, "src": ["det", "c07311f", "c944303"], "q": "m", "en": {"r": "Weed Grow, north-east shore of Lake Tallaloko (East Lummox County)", "t": "Found: Weed Grow, north-east shore of Lake Tallaloko (East Lummox County). Loot from the Weed Grow illegal operation."}}, "waffe-eris-fresh-dsg": {"r": "Illegal Goods Store, Nord-Southside", "t": "Fundort: Illegal Goods Store, Nord-Southside. Beute aus der Illegal Operation im Laden für illegale Waren.", "p": [-1699, -2017], "g": 0, "src": ["det", "c07311f", "c944303"], "q": "m", "en": {"r": "Illegal Goods Store, northern Southside", "t": "Found: Illegal Goods Store, northern Southside. Loot from the illegal goods store operation."}}, "waffe-furry-dw-9": {"r": "Zufallsereignis „Operation Furball“ (nachts, Polizeihubschrauber jagt Mann im Fuchskostüm)", "t": "Fundort: Zufallsereignis „Operation Furball“ (nachts, Polizeihubschrauber jagt Mann im Fuchskostüm). Nach der Rettung zur Furverts-Basis wählst du statt 15.000 $ die Spezial-MP.", "src": ["det", "c6e63a8", "c1bf48b"], "q": "m", "en": {"r": "Random event \"Operation Furball\" (night, police helicopter chasing a man in a fox suit)", "t": "Found: Random event \"Operation Furball\" (night, police helicopter chasing a man in a fox suit). After escorting him to the Furverts compound, choose the custom SMG instead of $15,000."}}, "waffe-dirty-drifter": {"r": "Erdrutsch an der Küstenstraße von Bonanza", "t": "Fundort: Erdrutsch an der Küstenstraße von Bonanza. Liegt im Kofferraum eines blauen Autos, das im Erdrutsch steckt.", "src": ["det", "c07311f", "c944303"], "q": "m", "en": {"r": "Mudslide on the Bonanza coastal road", "t": "Found: Mudslide on the Bonanza coastal road. In the trunk of a blue car stuck in the mudslide."}}, "waffe-darknite-drifter": {"r": "Waffenladen am Nordwestrand von Port Gellhorn", "t": "Fundort: Waffenladen am Nordwestrand von Port Gellhorn. Kaufbar für 2.420 $.", "p": [-6333, 3989], "g": 0, "src": ["det", "c07311f", "c944303"], "q": "m", "en": {"r": "Gun store on the north-western edge of Port Gellhorn", "t": "Found: Gun store on the north-western edge of Port Gellhorn. Buy for $2,420."}}, "waffe-marabunta-grande-kz-59": {"r": "Nova Auto Junkyard, Hamlet", "t": "Fundort: Nova Auto Junkyard, Hamlet. Beute aus der M7-Operation am Schrottplatz; wird über ein Zufallsereignis bei Big Shots freigeschaltet.", "p": [-2788, -3154], "g": 0, "src": ["det", "c07311f", "c944303", "c3bda24"], "q": "m", "en": {"r": "Nova Auto Junkyard, Hamlet", "t": "Found: Nova Auto Junkyard, Hamlet. Loot from the M7 junkyard operation; unlocked via a random event near Big Shots."}}, "waffe-pete-s-kz-59": {"r": "Hangar am Sundown Private Airfield, Leonard County – Tisch im Hinterraum", "t": "Fundort: Hangar am Sundown Private Airfield, Leonard County – Tisch im Hinterraum. In „The Last Mile: Passing the Torch“ (Pilot Pete, Kap. 4) im Hinterraum hinter der roten Tür auf dem Tisch; der Tresor dort hat den Code 3718.", "codes": [["Tresor im Hangar", "3718"]], "en": {"c": ["Hangar safe"], "r": "Sundown Private Airfield hangar, Leonard County – table in the back room", "t": "Found: Sundown Private Airfield hangar, Leonard County – table in the back room. In \"The Last Mile: Passing the Torch\" (Pilot Pete, ch. 4) on the table in the back room behind the red door; the safe there uses code 3718."}, "c": 4, "src": ["det", "cfbc441"], "q": "e"}, "waffe-mister-mangrove-laird-350": {"r": "Mission „Help Kirk Find Mr. Mangrove“, Cottonmouth Lake", "t": "Fundort: Mission „Help Kirk Find Mr. Mangrove“, Cottonmouth Lake. Kirk gibt dir das Gewehr beim Einsteigen in seinen Hubschrauber (nur Lucia, nachts, ab Kap. 2).", "c": 2, "p": [-3426, -5042], "g": 0, "src": ["det", "c61a979"], "q": "e", "en": {"r": "Mission \"Help Kirk Find Mr. Mangrove\", Cottonmouth Lake", "t": "Found: Mission \"Help Kirk Find Mr. Mangrove\", Cottonmouth Lake. Kirk hands it to you when you board his helicopter (Lucia only, night, from ch. 2)."}}, "waffe-iaa-sms-01": {"r": "Dach der Aichi Condominiums, Northside Ave, Washington Beach", "t": "Fundort: Dach der Aichi Condominiums, Northside Ave, Washington Beach. Erst nach einer zugehörigen Story-Mission auf dem Dach.", "p": [1798, 1984], "g": 0, "src": ["det", "c07311f", "c944303"], "q": "m", "en": {"r": "Roof of Aichi Condominiums, Northside Ave, Washington Beach", "t": "Found: Roof of Aichi Condominiums, Northside Ave, Washington Beach. Appears on the roof after a related story mission."}}, "waffe-fib-sm-69": {"r": "Dach eines Wolkenkratzers in Vice Beach", "t": "Fundort: Dach eines Wolkenkratzers in Vice Beach. Erst nach einer zugehörigen Story-Mission erreichbar.", "src": ["det", "c07311f", "c944303"], "q": "m", "en": {"r": "Skyscraper roof in Vice Beach", "t": "Found: Skyscraper roof in Vice Beach. Available after a related story mission."}}, "waffe-island-poacher-ff-50": {"r": "Hyde Island (Insel im Norden Leonidas)", "t": "Fundort: Hyde Island (Insel im Norden Leonidas). Belohnung fürs Überleben der Menschenjagd auf Hyde Island (siehe Zufallsereignis).", "src": ["det", "cd3a527", "c6e63a8"], "q": "m", "en": {"r": "Hyde Island (island in northern Leonida)", "t": "Found: Hyde Island (island in northern Leonida). Reward for surviving the manhunt on Hyde Island (see random event)."}}, "waffe-brontasaurus-bat": {"r": "Schlagkäfige bei Dino Golf, Frogswater (SR-32)", "t": "Fundort: Schlagkäfige bei Dino Golf, Frogswater (SR-32). Liegt in den Schlagkäfigen der Minigolf-Anlage.", "src": ["det", "c07311f", "c944303"], "q": "m", "en": {"r": "Batting cages at Dino Golf, Frogswater (SR-32)", "t": "Found: Batting cages at Dino Golf, Frogswater (SR-32). In the batting cages of the mini-golf course."}}};LH.ORTE.forEach(o=>{const p=P[o.id];if(!p)return;const {en,...de}=p;Object.assign(o,de);if(en)o.en=Object.assign(o.en||{},en);});})();
 ([["Geld", "Hehler-Faustregel ab Kap. 3: Drogen zu Tyrone (La Perle), Schmuck und markierte Scheine zu Yasmani (Little Cuba). Vorher: Drogen zu Donnie/Dunk, Schmuck zu Dunk.", "Money", "Fence rule from Ch. 3: narcotics to Tyrone (La Perle), jewelry and marked bills to Yasmani (Little Cuba). Before that: narcotics to Donnie/Dunk, jewelry to Dunk.", "c1b1967"], ["Geld", "Über das Kartensymbol eines Hehlers siehst du seine Preisstufe je Warenart.", "Money", "Hover a fence's map icon to see his price tier per goods type.", "c592b70"], ["Geld", "Den Partner verkaufen lassen (Tasche im Kofferraum, Partner-Menü) spart Wege, bringt aber weniger Geld; Garagen-Abgabe kostet Gebühr – persönlich abgeben bringt den vollen Preis.", "Money", "Letting your partner sell (bag in the trunk, Partner menu) saves trips but pays less; garage drop-offs cost a fee – delivering in person gets full price.", "cdc6bf4"], ["Geld", "Allein trägst du zwei Beutetaschen, mit Partner vier; weitere passen in den Kofferraum.", "Money", "You can carry two loot bags alone, four with a partner; more fit in the trunk.", "c2ba1b3"], ["Geld", "Bargeld ist nur bis 999 $ nutzbar, größere Käufe laufen über BuckMe. Beim Tod verlierst du Bargeld und einen kleinen Teil des Girokontos – Geld lieber einzahlen.", "Money", "Pocket cash only covers purchases up to $999; bigger buys go through BuckMe. Dying costs your pocket cash and a small share of checking – deposit it.", "c0c6043"], ["Geld", "Family Savings kann nie abgehoben, aber auch nie verloren werden; jede Sparstufe senkt Preise und hebt das Girokonto-Limit. Ist das Limit voll, werden Zahlungen zurückgehalten.", "Money", "Family Savings can never be withdrawn but never lost either; each savings tier cuts prices and raises the checking limit. When checking is full, payments are held back.", "c0c6043"], ["Geld", "Tresorcodes: Viele Quellen nennen feste Codes, PC Gamer und AlcastHQ sagen, Codes seien zufällig. Klappt ein Code nicht: Notiz per Focus suchen, Personal bedrohen („Safe Code?“) oder Haftbombe nutzen (laut, zerstört laut VicePulse einen Teil des Geldes).", "Money", "Safe codes: many sources list fixed codes, PC Gamer and AlcastHQ say codes are random. If one fails: find the note with Focus, threaten staff ('Safe Code?') or use a sticky bomb (loud, and per VicePulse destroys part of the cash).", "c909db8"], ["Geld", "Führende Nullen mit eintippen (z. B. 0300, 0104). Gefundene Hinweise speichern den Code im Menü.", "Money", "Enter leading zeros (e.g. 0300, 0104). Clues you pick up save the code in your menu.", "cd788fe"], ["Geld", "Bei Juwelier-Überfällen die Videoaufnahme an der Sicherheitsbox zerstören – sonst bekommt die Polizei deine Beschreibung.", "Money", "In jewelry robberies destroy the footage at the security box – otherwise police get your description.", "cebfe33"], ["Geld", "Gang-Operationen werden nach Abschluss grau und tauchen erst nach langer Zeit wieder auf; manche Beute (z. B. Leroy-Rook-Karte bei Apollo) kommt nie zurück.", "Money", "Completed gang operations grey out and respawn only after a long time; some loot (e.g. the Leroy Rook card at Apollo) never returns.", "cda24ed"], ["Geld", "Für Kapitel 2 → 3 („Checking Out“) brauchst du mindestens 15.000 $; die Story kann pausieren, bis Geldziele erreicht sind (z. B. „Pay Abe's Fee“ in Kap. 4/5).", "Money", "Chapter 2 → 3 ('Checking Out') needs at least $15,000; the story can stall until cash goals are met (e.g. 'Pay Abe's Fee' in Ch. 4/5).", "cb758f9"], ["Fahndung", "Banktresor = sofort 4 Sterne. Mit schnellem Motorrad durch den Verkehr, dann Fahrzeug wechseln; außer Sicht verstecken (z. B. Rangierbahnhof) hilft selbst bei 5 Sternen.", "Wanted", "Bank vault = instant 4 stars. Weave through traffic on a fast bike, then switch vehicles; hiding out of sight (e.g. a rail yard) works even at 5 stars.", "c2ba1b3"], ["Welt", "Keine Missionswiederholung: je Kapitel Anfang und Ende manuell speichern (10 von 15 Slots).", "World", "No mission replay: make a manual save at the start and end of each chapter (10 of 15 slots).", "ce63626"], ["Welt", "Sanduhr-Symbol auf der Karte = zeitlich begrenzte Aktivität; optionale Missionen (schwarze Symbole mit pinken Buchstaben) verschwinden mit der Zeit.", "World", "Hourglass icon on the map = time-limited activity; optional missions (black icons with pink letters) disappear over time.", "cd03316"], ["Welt", "Cheats deaktivieren Trophäen und Speichern – erst nach allen Trophäen nutzen.", "World", "Cheats disable trophies and saving – use them only after your trophies.", "c49159e"], ["Welt", "Jagd für Bret: Nur Kadaver in „Pristine“ oder „Good“ zählen – Zielfernrohr, Kopf- oder Herzschuss, Focus (L3+R3) zeigt die Vitalpunkte. Große Tiere (Bär, Eber) holt Bret selbst, kleine im Fahrzeug transportieren.", "World", "Hunting for Bret: only 'Pristine' or 'Good' carcasses count – scope, head or heart shot, Focus (L3+R3) shows vitals. Bret collects big animals (bear, boar) himself; carry small ones in a vehicle.", "c5bc599"], ["Welt", "Brets Deck 2: Der Skunk ist nachtaktiv (ab ca. 20 Uhr), beim Truthahn muss es der weiße „Leonida Wild White Tom“ sein.", "World", "Bret's deck 2: the skunk is nocturnal (from about 8 pm); the turkey must be the white 'Leonida Wild White Tom'.", "c5bc599"], ["Welt", "Fische lassen sich nicht verkaufen – Angeln ist nur Fangen und Freilassen (außer in Story-Missionen mit Cal).", "World", "Fish can't be sold – fishing is catch and release only (except in story missions with Cal).", "c29075f"], ["Kampf", "Rodgers Ranch: erst Körper-, dann Kopftreffer baut den Multiplikator am schnellsten auf; ein Fehlschuss senkt ihn.", "Combat", "Rodgers Ranch: body shots before headshots build the multiplier fastest; a miss lowers it.", "c6c49fb"], ["Fahndung", "Bei einer Polizeikontrolle Waffen wegstecken bzw. verstauen – dann kann man mit einer Verwarnung davonkommen, statt sich freischießen zu müssen.", "Wanted", "During a police stop, put away/stash your guns – you can get off with a warning instead of shooting your way out.", "c5dba32"], ["Welt", "Gewicht steigt: mindestens vier Burger oder Tacos essen, schlafen und danach weiter Fast Food ohne Training. Bei wenig Muskeln wirkt die Figur schwerer; Lucia verändert sich weniger stark als Jason.", "World", "To gain weight: eat at least four burgers or tacos, sleep, then keep eating fast food and skip workouts. Low muscle makes the character look heavier; Lucia changes less than Jason.", "ca6d062"], ["Welt", "Ruckler auf der normalen PS5: Konsolen-Cache leeren und HDCP ausschalten (deaktiviert aber Streaming/Blu-ray). Bewegungsunschärfe aus hilft zusätzlich.", "World", "Stutter on base PS5: clear the console cache and turn HDCP off (disables streaming/Blu-ray). Turning motion blur off also helps.", "cd55f45"], ["Kampf", "Die Standard-Totzone der Sticks ist groß und lässt die Steuerung träge wirken – in den Controller-Einstellungen verkleinern.", "Combat", "The default stick dead zone is large and makes controls feel sluggish – reduce it in the controller settings.", "c140e6c"], ["Welt", "Taucht die nächste Mission nicht auf, in der Missionsliste auf dem Kartenbildschirm nachsehen.", "World", "If your next mission doesn't appear, check the mission list on the map screen.", "c42207c"], ["Welt", "15 manuelle Speicherplätze, in Missionen kein Speichern. Bei langen Missionen die Konsole in den Ruhemodus versetzen – der Stand bleibt erhalten.", "World", "15 manual save slots, no saving during missions. For long missions put the console in rest mode – progress is kept.", "c42207c"], ["Beziehung", "Das Schlafzimmer in Jasons Haus selbst streichen (Farbe wählen, mit der Rolle auftragen) verbessert die Beziehung zu Lucia.", "Relationship", "Repainting the bedroom in Jason's house yourself (pick a colour, roll it on) improves the relationship with Lucia.", "c4acd6c"], ["Welt", "Echte Kokain-Flamingos haben einen schwarz-weißen Schnabel; Deko-Flamingos einen gelb-schwarzen. Für 100 % reichen 100 von 125.", "World", "Real cocaine flamingos have a black-and-white beak; decorative ones have yellow-and-black. 100 of 125 are needed for 100%.", "c496b34"], ["Welt", "Stunts: 130 Sprünge, 202 Unter-Brücken-Flüge, 40 Messerflüge, 25 BASE-Jumps (397). 250 für die Trophäe „Cunning Stunts“, 300 für 100 %. Filter: Karte > Erkundung > Stunt Spots.", "World", "Stunts: 130 jumps, 202 under-the-bridge, 40 knife flights, 25 BASE jumps (397). 250 for 'Cunning Stunts', 300 for 100%. Filter: Map > Exploration > Stunt Spots.", "c716a50"], ["Welt", "Stuntsprünge pro County: Mariana 17, Vice-Dale 55, Leonard 13, Kelly 29, Lummox 16.", "World", "Stunt jumps per county: Mariana 17, Vice-Dale 55, Leonard 13, Kelly 29, Lummox 16.", "cadcbfd"], ["Welt", "Luxusuhren (34) liegen meist in Gang-Operationen und haben ein goldenes Symbol; sie zählen zu den „Discovered Styles“ (70 von 79), ebenso 17 Magazin-Tattoos, die man mit WAiNK scannt.", "World", "Luxury watches (34) are mostly in Gang Operations with a gold icon; they count toward Discovered Styles (70 of 79), as do 17 magazine tattoos scanned with WAiNK.", "c716a50"], ["Welt", "WAiNK: 31 Wahrzeichen, 35 Kuriositäten, 23 Skulpturen plus No-Flusher-Tags; 100 Scans für 100 %. AHOL Street Art (112) und 1010-Murals (5) zählen nicht dazu.", "World", "WAiNK: 31 landmarks, 35 curiosities, 23 sculptures plus No Flusher tags; 100 scans for 100%. AHOL street art (112) and 1010 murals (5) don't count.", "c96e65f"], ["Welt", "Sammelkarten liegen draußen oft in gelben Telefonkästen an Wänden oder auf Werkzeugkisten, drinnen auf Regalen, Tischen oder Theken. 18 Sets, 480 Karten; 15 Sets für 100 %.", "World", "Outdoor cards are often in yellow phone boxes on walls or on tool boxes; indoors on shelves, desks or counters. 18 sets, 480 cards; 15 sets for 100%.", "c496b34"], ["Welt", "Basketballkörbe: 100 im Spiel, 90 für 100 %. Karte > Erkundung > Points of Interest > Basketball Hoops.", "World", "Basketball hoops: 100 in game, 90 for 100%. Map > Exploration > Points of Interest > Basketball Hoops.", "c716a50"], ["Geld", "Zu Kentons Wracks mit seinem Boot „Huntress“ (Island Dreams) fahren oder später mit der Rugger Fortune; Tauchausrüstung und Metalldetektor sind nötig.", "Money", "Reach Kenton's wrecks with his boat Huntress (Island Dreams) or later the Rugger Fortune; scuba gear and metal detector required.", "cb91ba6"], ["Welt", "Magazine/Bücher/Comics: 27 + 7 Buchtausch = 34, davon 30 für 100 %. Die 5 Lesesachen in Jasons Haus gibt es nur in Kapitel 1.", "World", "Magazines/books/comics: 27 + 7 book swaps = 34, 30 needed for 100%. The 5 reads in Jason's house are Chapter 1 only.", "cd27cdc"], ["Kampf", "Einzigartige Waffen behältst du nach dem Tod. Verlorene holst du am Waffenschrank jedes Ammu-Nation oder aus dem Kofferraum deines Autos zurück.", "Combat", "Unique weapons are kept on death. Lost ones can be recovered from any Ammu-Nation weapon locker or your vehicle's trunk.", "cfede0f"], ["Kampf", "Waffenvarianten lassen sich nicht modifizieren, gelten aber nach dem Einsammeln für Jason und Lucia.", "Combat", "Weapon variants can't be modified but unlock for both Jason and Lucia once collected.", "c5a3b3e"], ["Fahrzeug", "Wymans restaurierte Klassiker für 100 $ beim Pay 'n' Spray registrieren oder in eine Garage stellen, sonst landen sie wieder bei Wyman.", "Vehicle", "Register Wyman's restored classics for $100 at a Pay 'n' Spray or park them in a garage, otherwise they go back to Wyman.", "c537f7e"], ["Fahrzeug", "Moses zahlt mehr, wenn das Auto unbeschädigt ankommt.", "Vehicle", "Moses pays more if the car arrives undamaged.", "c0fe0a9"], ["Fahrzeug", "Beim Infernus im Polizeiparkhaus den Stuntsprung zur Flucht nutzen und wegen des Trackers schnell bleiben.", "Vehicle", "For the Infernus in the police garage, use the stunt jump to escape and keep your speed up because of the tracker.", "ca79916"], ["Fahndung", "In Billys „The Impaler“ folgt dir die Polizei nicht in den Zugtunnel bei Ambrosia.", "Wanted", "In Billy's \"The Impaler\" the police won't follow you into the train tunnel near Ambrosia.", "c3f5839"], ["Welt", "Nebenquests erscheinen oft erst Tage später per Nachricht – zwischendurch andere Missionen spielen oder in der Wohnung schlafen.", "World", "Side quests often arrive by message days later – play other missions or sleep at your apartment meanwhile.", "c7f2f88"], ["Geld", "Ende Kapitel 1: Beim letzten Missionsblock (ab Tourist Trap) gehen Bargeld, Girokonto und das Dielenversteck verloren – nur Family Savings bleibt. Bargeld kann schon in der Mission davor (Recalibration) verloren gehen. Vorher alles Nötige kaufen; Waffen bleiben laut Spielerkommentar im Spind erhalten.", "Money", "End of Chapter 1: in the final mission sequence (from Tourist Trap) pocket cash, checking and the floorboard stash are lost – only Family Savings carries over. Pocket cash can already be lost in the mission before (Recalibration). Buy what you need first; a player comment says weapons carry over in your locker.", "c470a61"], ["Geld", "Family Savings kann man nie wieder abheben. Erster Meilenstein 5.000 $ hebt das Girokonto-Limit auf 15.000 $ – nur so viel einzahlen, wie man nicht mehr ausgeben will.", "Money", "Family Savings can never be withdrawn. The first milestone of $5,000 raises the checking limit to $15,000 – only deposit what you won't need to spend.", "c470a61"], ["Geld", "Große Beute-Orte (z. B. Apollo Aggregates, Port-Gellhorn-Operationen) lieber für Kapitel 2 aufheben, weil Kapitel 2 das Geld zurücksetzt.", "Money", "Save big loot spots (e.g. Apollo Aggregates, Port Gellhorn operations) for Chapter 2, because Chapter 2 resets your money.", "cdcc1a6"], ["Geld", "Vor dem Abgeben eines Stash-Bags die Abgabestellen auf der Karte vergleichen – die Preise unterscheiden sich (im Video bis zu 800 $). Das Geld landet im Briefkasten vor dem Haus.", "Money", "Before dropping off a stash bag, compare drop-off points on the map – prices differ (up to $800 in the video). The money arrives in the mailbox outside your house.", "cdcc1a6"], ["Fahrzeug", "Moses (Port Gellhorn) kauft gestohlene Autos – im Video fünf Autos für über 4.300 $. Vorher mit WAiNK scannen: Autos mit Tracker locken die Polizei an.", "Vehicle", "Moses (Port Gellhorn) buys stolen cars – five cars for over $4,300 in the video. Scan with WAiNK first: tracked cars bring the police.", "cdcc1a6"], ["Fahrzeug", "Autos registrieren geht erst in Kapitel 2 nach dem Treffen mit Moses. Bis dahin Fundstücke auf Parkplätzen oder in Garagen abstellen. Die meisten besonderen Autos spawnen nach Verlust erneut.", "Vehicle", "Registering cars only unlocks in Chapter 2 after meeting Moses. Until then park finds in parking spots or garages. Most special cars respawn if lost.", "c9eacac"], ["Kampf", "Legendäre Waffenvarianten behält man auch nach dem Tod; normal aufgehobene Waffen gehen verloren – Funde im Kofferraum des eigenen Autos lagern.", "Combat", "Legendary weapon variants are kept after death; regular pickups are lost – store finds in your own car's trunk.", "c544661"], ["Kampf", "Die Conspiracist Type 9 ist eine Maschinenpistole und belegt einen Pistolen-Slot – so hat man zusätzlich zu zwei Langwaffen eine Automatikwaffe.", "Combat", "The Conspiracist Type 9 is a machine pistol and uses a pistol slot – giving you an automatic on top of two long guns.", "c431a69"], ["Geld", "Tresorcodes stehen meist in der Nähe (Computer, Notizblock, Wandkarte, Fotos). Laut Arekkz können Codes je Spielstand abweichen – immer selbst vor Ort prüfen. Alternativ Angestellte bedrohen oder ausgeschaltete Wachen durchsuchen.", "Money", "Safe codes are usually nearby (computer, notepad, wall map, photos). Arekkz says codes may differ per save – always check on site. Alternatively threaten staff or search knocked-out guards.", "c431a69"], ["Welt", "Bei Three Sheets Liquor den Papagei nicht versehentlich erschießen – er verrät das Geldversteck in der Lüftung neben dem Generator.", "World", "At Three Sheets Liquor don't accidentally shoot the parrot – it reveals the cash in the vent next to the generator.", "c470a61"], ["Welt", "GTA 6 hat kein Missions-Wiederholungsmenü: vor Coming Home, vor Don Gone und vor Recalibration jeweils einen eigenen manuellen Spielstand anlegen.", "World", "GTA 6 has no mission replay menu: make separate manual saves before Coming Home, before Don Gone and before Recalibration.", "c470a61"]]).forEach(t => { const a = [t[0], t[1]]; a.en = [t[2], t[3]]; a.src = t[4] ? [t[4]] : []; LH.TIPPS.push(a); });
 LH.GLITCHES.push(...[{"n": "Flugzeuge explodieren nach Absturz nicht", "t": "Manche Flugzeuge bleiben nach einem Absturz ganz, statt zu explodieren (Physik-Fehler, kein Nutzen bekannt).", "q": "e", "src": ["c6ae0c3"], "en": {"n": "Planes don't explode after crashing", "t": "Some planes stay intact after a crash instead of exploding (physics bug, no known use)."}}, {"n": "Pillen-Duplizierung bei Hamlet (ohne Laden)", "t": "Ab Kapitel 2 empfohlen. 1) Zum gegnerfreien Gebäude oben rechts (nordöstlich) von Hamlet fahren. 2) Die zwei Vans mit Pillen (je ca. 2.000–3.000 $) plündern, Ware in den Kofferraum; der Lkw daneben fasst bis zu 10 Ladungen. 3) Einen Wegpunkt mit ca. 0,32 Meilen Entfernung setzen (laut Kommentar 0,4), hinfahren (z. B. über die Brücke wenden) und zurück. 4) Die Pillen sind wieder da – wiederholen. 5) In Kapitel 2 in Port Gellhorn verkaufen. Laut Kommentaren klappt teils auch Charakterwechsel; einige melden, dass nur noch der Tresor respawnt (evtl. gepatcht).", "q": "e", "src": ["c053030"], "en": {"n": "Pill duplication near Hamlet (no reload)", "t": "Recommended from Chapter 2. 1) Drive to the enemy-free building top right (north-east) of Hamlet. 2) Loot the two vans with pills (about $2,000–3,000 each), stash in the trunk; the truck next to them holds up to 10 loads. 3) Set a waypoint about 0.32 miles away (a commenter says 0.4), drive there (e.g. turn on the bridge) and back. 4) The pills respawn – repeat. 5) Sell in Port Gellhorn in Chapter 2. Comments say switching characters may also work; some report only the safe respawns (possibly patched)."}}]);
+/*<v9>*/
+/* v9 (21.11.2026): Ergänzung aus research/*.json, erzeugt von tools/import_research.py */
+(function () {
+Object.assign(LH.QUELLEN, {"r99c56c5": {"name": "Vice City DB – Cocaine Flamingos", "url": "https://vicecitydb.org/collectibles/cocaine-flamingos"}, "r93ec487": {"name": "The Big Lead – GTA 6 Collectibles Guide", "url": "https://www.thebiglead.com/gta-6-collectibles-guide-cards-styles-meteorite-chunks-landmark-scans/"}, "r9751285": {"name": "wilson.com.np – GTA 6 Hidden Package Locations", "url": "https://wilson.com.np/gta-6-hidden-package-locations/"}, "r9d04303": {"name": "OutputLag – GTA 6 Stunt Jumps and Basketball Hoops", "url": "https://outputlag.com/guides/gta-6-stunt-jumps-hoops/"}, "r9adcbfd": {"name": "PowerPyx – GTA 6 All Stunt Jump Locations", "url": "https://www.powerpyx.com/gta-6-all-stunt-jump-locations/"}, "r94b4a37": {"name": "Magic Game World – GTA 6 Cocaine Flamingos", "url": "https://www.magicgameworld.com/gta-6-cocaine-flamingos-how-to-spot-them-and-find-your-first-eight/"}, "r9a48700": {"name": "EGamers.io – GTA 6 Stunt Guide", "url": "https://egamers.io/gta-6-stunt-guide-all-397-stunts-the-cunning-stunts-trophy-and-the-100-target/"}, "r95c2970": {"name": "PowerPyx", "url": "https://www.powerpyx.com/?p=370489"}, "r92ba1b3": {"name": "MetaForge", "url": "https://metaforge.app/gta-6/gta-6-robberies-heists-guide"}, "r9e66778": {"name": "PC Gamer", "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-how-to-make-money/"}, "r9d3e9ab": {"name": "VGC", "url": "https://www.videogameschronicle.com/guide/how-to-make-money-in-gta-6/"}, "r936d47f": {"name": "Shacknews", "url": "https://www.shacknews.com/article/151427/disable-vehicle-trackers-gta6"}, "r9a3db72": {"name": "Kotaku", "url": "https://kotaku.com/two-cool-hidden-features-gta-6-doesnt-explain-flipping-and-sitting-2000757835"}, "r9f324a0": {"name": "Kotaku", "url": "https://kotaku.com/32-spoiler-free-tips-as-you-hop-into-grand-theft-auto-6-2000758016"}, "r90f9ab2": {"name": "Dexerto", "url": "https://www.dexerto.com/wikis/gta-6/how-to-lose-the-police/"}, "r9247d58": {"name": "Dexerto", "url": "https://www.dexerto.com/wikis/gta-6/wanted-system-explained/"}, "r9a540e5": {"name": "GTABase", "url": "https://www.gtabase.com/articles/gta-6/how-to-make-money-in-gta-6-full-money-making-guide"}, "r9b1956b": {"name": "Dexerto", "url": "https://www.dexerto.com/wikis/gta-6/how-to-make-money-fast/"}, "r919f209": {"name": "AlcastHQ", "url": "https://alcasthq.com/gta-6-robberies/"}, "r98e6b12": {"name": "Dexerto", "url": "https://www.dexerto.com/wikis/gta-6/how-to-save/"}, "r9cd787b": {"name": "Beebom", "url": "https://beebom.com/gta-6-unlimited-money-glitch/"}, "r90eae0b": {"name": "Bloxodes – GTA 6 Collectible Cards", "url": "https://bloxodes.com/wiki/gta-6/collectible-cards"}, "r9d46094": {"name": "PowerPyx – GTA 6 The Legends of Ratface", "url": "https://www.powerpyx.com/?p=372989"}, "r9f8a92d": {"name": "game-checklists.com – Bret's Target Decks", "url": "https://game-checklists.com/gta6/brets-target-decks-checklist/"}, "r92cacc4": {"name": "Neon Map Guides – Hunting & Fishing", "url": "https://neonmapguides.com/hunting-fishing/"}, "r99f0554": {"name": "game-checklists.com – GTA 6 Stunts Checklist", "url": "https://game-checklists.com/gta6/stunts-checklist/"}, "r97ec356": {"name": "game-checklists.com – GTA 6 100% Checklist", "url": "https://game-checklists.com/gta6/"}, "r95c9721": {"name": "HeistLounge", "url": "https://heistlounge.com/news/gta-6-crashes-lost-progress-save-tips"}, "r97ac959": {"name": "Nerdism", "url": "https://nerdism.com/gta-6-bugs-errors-fixes-live/"}, "r909bed6": {"name": "Bloxodes", "url": "https://bloxodes.com/articles/gta-6-missable-trophies-and-missions"}, "r9feacf0": {"name": "Red Bull", "url": "https://www.redbull.com/int-en/gta-6-updates-patch-notes"}, "r9b25a00": {"name": "RockstarINTEL", "url": "https://rockstarintel.com/new-gta-vi-update-released-and-not-everyone-has-gotten-it-heres-why/"}, "r9625f90": {"name": "PC Games Hardware", "url": "https://www.pcgameshardware.de/GTA-6-Spiel-55239/News/GTA-6-Top-scores-but-players-report-plenty-of-bugs-1560609/"}, "r96af78a": {"name": "The Droid Guy", "url": "https://thedroidguy.com/gta-6-mission-stuck-wont-progress-1293008"}, "r944f977": {"name": "Beebom Bugs Tracker", "url": "https://beebom.com/gta-6-bugs-tracker/"}, "r9e8a658": {"name": "TheGamesWiki", "url": "https://thegameswiki.com/gta6/wiki/missable-content-and-points-of-no-return/history/fdb9bf6a-8d02-4c34-abe3-03fc56689663"}, "r961f462": {"name": "GTABase – GTA 6 Properties & Safehouses", "url": "https://gtabase.com/gta-6/properties/"}, "r9f073c1": {"name": "GTABase – Daily Driver", "url": "https://www.gtabase.com/gta-6/missions/daily-driver"}, "r941e655": {"name": "Izoate – How to Sell Stolen Cars in GTA 6", "url": "https://www.izoate.com/blog/how-to-sell-stolen-cars-in-gta-6-match-all-3-trackers-to-the-right-buyers/"}, "r978cdb7": {"name": "Timesaver.gg – Randy Wish List", "url": "https://timesaver.gg/tools/gta-6/money/randy-wish-list"}, "r9a59f27": {"name": "Bloxodes – GTA 6 How to Sell Stolen Cars", "url": "https://bloxodes.com/articles/gta-6-how-to-sell-stolen-cars"}, "r966baab": {"name": "eGamers.io – GTA 6 Weapons Guide", "url": "https://egamers.io/gta-6-weapons-guide-every-class-launcher-and-sniper-prices-and-which-ammu-nation-stores-sell-them/"}, "r99d935d": {"name": "GTABase – Assassin Nipper .38", "url": "https://www.gtabase.com/gta-6/weapons/assassin-nipper-38"}, "r960eff1": {"name": "GTABase – Smuggler Gorse 425", "url": "https://www.gtabase.com/gta-6/weapons/smuggler-gorse-425"}, "r93aadff": {"name": "GTABase – Zodiac Nipper .38", "url": "https://www.gtabase.com/gta-6/weapons/zodiac-nipper-38"}, "r904e75e": {"name": "GTABase – Quarter Mile ES9", "url": "https://www.gtabase.com/gta-6/weapons/quarter-mile-es9"}, "r9cce331": {"name": "GTABase – Sand Storm ES9", "url": "https://www.gtabase.com/gta-6/weapons/sand-storm-es9"}, "r9f4b3ff": {"name": "GTABase – The Patriarch DRX", "url": "https://www.gtabase.com/gta-6/weapons/the-patriarch-drx"}, "r92e0b33": {"name": "GTABase – Rogue Alpha DRX", "url": "https://www.gtabase.com/gta-6/weapons/rogue-alpha-drx"}, "r95ad3ce": {"name": "GTABase – Kingfishers Akulus", "url": "https://www.gtabase.com/gta-6/weapons/kingfishers-akulus"}, "r925422e": {"name": "GTABase – Neon Sunset Type 9", "url": "https://www.gtabase.com/gta-6/weapons/neon-sunset-type-9"}, "r93af026": {"name": "GTABase – Kolt & Associates 556", "url": "https://www.gtabase.com/gta-6/weapons/kolt-associates-556"}, "r92c224e": {"name": "GTABase – Little Cuba Hind", "url": "https://www.gtabase.com/gta-6/weapons/little-cuba-hind"}, "r9c36c9a": {"name": "GTABase – Shark Knife", "url": "https://www.gtabase.com/gta-6/weapons/shark-knife"}, "r9cc389a": {"name": "GTABase – Kingpin Heathen", "url": "https://www.gtabase.com/gta-6/weapons/kingpin-heathen"}, "r9788a53": {"name": "GTABase – Mercenary LMG 6", "url": "https://www.gtabase.com/gta-6/weapons/mercenary-lmg-6"}, "r9b68e27": {"name": "GTABase – Explorer's Knife", "url": "https://www.gtabase.com/gta-6/weapons/explorers-knife"}, "r929019e": {"name": "GTABase – Tallaloko Knife", "url": "https://www.gtabase.com/gta-6/weapons/tallaloko-knife"}, "r9ac0bd3": {"name": "GTABase – Soldier's Combat Knife", "url": "https://www.gtabase.com/gta-6/weapons/soldiers-combat-knife"}, "r97a9a9f": {"name": "GTABase – Star Spangled 556", "url": "https://www.gtabase.com/gta-6/weapons/star-spangled-556"}, "r957c32c": {"name": "GTABase – Firebreak SM-69", "url": "https://www.gtabase.com/gta-6/weapons/firebreak-sm-69"}, "r904ffb3": {"name": "GTABase – Twin's Laird 350", "url": "https://www.gtabase.com/gta-6/weapons/twins-laird-350"}, "r952daea": {"name": "GTABase – Fincredible Laird 350", "url": "https://www.gtabase.com/gta-6/weapons/fincredible-laird-350"}, "r9e238ed": {"name": "GTABase – Redneck W-22", "url": "https://www.gtabase.com/gta-6/weapons/redneck-w-22"}, "r9a0f881": {"name": "GTABase – Mossy Mediator", "url": "https://www.gtabase.com/gta-6/weapons/mossy-mediator"}, "r9dac74c": {"name": "GTABase – Internal Affairs FF-SR", "url": "https://www.gtabase.com/gta-6/weapons/internal-affairs-ff-sr"}, "r9879371": {"name": "GTABase – Guardia Brothers FRA", "url": "https://www.gtabase.com/gta-6/weapons/guardia-brothers-fra"}, "r98c31a6": {"name": "GTABase – San4San KZ-59", "url": "https://www.gtabase.com/gta-6/weapons/san4san-kz-59"}, "r9b9f6ca": {"name": "GTABase – Nite Raptor K17", "url": "https://www.gtabase.com/gta-6/weapons/nite-raptor-k17"}, "r9385d13": {"name": "GTABase – Deadringer 1992", "url": "https://www.gtabase.com/gta-6/weapons/deadringer-1992"}, "r97ff422": {"name": "GTABase – Money Bag 1992", "url": "https://www.gtabase.com/gta-6/weapons/money-bag-1992"}, "r9551bd4": {"name": "GTABase – Iron & Oak WCR-1", "url": "https://www.gtabase.com/gta-6/weapons/iron-oak-wcr-1"}, "r94aa91a": {"name": "GTABase – Honky Tonk Mustang .357", "url": "https://www.gtabase.com/gta-6/weapons/honky-tonk-mustang-357"}, "r9d71699": {"name": "GTABase – Couch Potato Mustang .357", "url": "https://www.gtabase.com/gta-6/weapons/couch-potato-mustang-357"}, "r9794662": {"name": "GTABase – Little Friend W-10", "url": "https://www.gtabase.com/gta-6/weapons/little-friend-w-10"}, "r9b1445d": {"name": "GTABase – Woodhatch Longshot", "url": "https://www.gtabase.com/gta-6/weapons/woodhatch-longshot"}, "r9116fc1": {"name": "GTABase – Backdoor Hobo", "url": "https://www.gtabase.com/gta-6/weapons/backdoor-hobo"}, "r9b75ec9": {"name": "GTABase – Hellspawn Comshot 12", "url": "https://www.gtabase.com/gta-6/weapons/hellspawn-comshot-12"}, "r9977b36": {"name": "GTABase – Unpacked Comshot 12", "url": "https://www.gtabase.com/gta-6/weapons/unpacked-comshot-12"}, "r9b0c7b3": {"name": "GTABase – Nitepower AZ1200", "url": "https://www.gtabase.com/gta-6/weapons/nitepower-az1200"}, "r9d4db28": {"name": "GTABase – Final Chapter Shortstraw", "url": "https://www.gtabase.com/gta-6/weapons/final-chapter-shortstraw"}, "r914d0b8": {"name": "GTABase – Hostile Super400", "url": "https://www.gtabase.com/gta-6/weapons/hostile-super400"}, "r9f5b2dc": {"name": "GTABase – Bruiser Super400", "url": "https://www.gtabase.com/gta-6/weapons/bruiser-super400"}, "r9db633f": {"name": "GTABase – Watcher Pro Moreland 850", "url": "https://www.gtabase.com/gta-6/weapons/watcher-pro-moreland-850"}, "r9c0723e": {"name": "GTABase – Spangled Vatra", "url": "https://www.gtabase.com/gta-6/weapons/spangled-vatra"}, "r908d6ca": {"name": "GTABase – Stoner K17 MCD", "url": "https://www.gtabase.com/gta-6/weapons/stoner-k17-mcd"}, "r966f92c": {"name": "GTABase – Black Eagle Import Kalinga", "url": "https://www.gtabase.com/gta-6/weapons/black-eagle-import-kalinga"}, "r9ef2a0c": {"name": "GTABase – Chromium W-10", "url": "https://www.gtabase.com/gta-6/weapons/chromium-w-10"}, "r9da4950": {"name": "GTABase – Chronic Vatra", "url": "https://www.gtabase.com/gta-6/weapons/chronic-vatra"}, "r94dc254": {"name": "GTABase – Double Cross Vatra", "url": "https://www.gtabase.com/gta-6/weapons/double-cross-vatra"}, "r944964a": {"name": "GTABase – Basher Gorse 425", "url": "https://www.gtabase.com/gta-6/weapons/basher-gorse-425"}, "r9853a14": {"name": "GTABase – Final Chapter KVGA-12", "url": "https://www.gtabase.com/gta-6/weapons/final-chapter-kvga-12"}, "r905102c": {"name": "GamesFuze – Legendary Weapons Early", "url": "https://gamesfuze.com/guides/how-to-get-legendary-weapons-in-gta-6-early/"}, "r924f5ae": {"name": "XboxPlay – GTA 6 All Garage Locations & Prices", "url": "https://xboxplay.games/gta-6/gta-6-all-garage-locations-prices-full-map-guide-77414"}});
+LH.ORTE.push(...[
+{
+"id": "v9-1cb79865",
+"k": "samm",
+"n": "Kokain-Flamingo – Watson Bay Nord",
+"typ": "Kokain-Flamingo",
+"r": "Hinter einem Haus auf der Westseite am Nordende des Ortes Watson Bay",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"geb": "Watson Bay",
+"p": [
+-5174,
+-3428
+],
+"g": 0,
+"en": {
+"n": "Cocaine Flamingo – Watson Bay North",
+"r": "Behind a house on the west side of the northern end of Watson Bay town"
+}
+},
+{
+"id": "v9-9d560c5a",
+"k": "samm",
+"n": "Kokain-Flamingo – Capri Halloween-Haus",
+"typ": "Kokain-Flamingo",
+"r": "Garten des Halloween-Hauses im Sechs-Straßen-Raster südlich des Tortoise Lake, Capri",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"geb": "Capri",
+"p": [
+-6939,
+221
+],
+"g": 0,
+"en": {
+"n": "Cocaine Flamingo – Capri Halloween House",
+"r": "Garden of the Halloween House in the six-street grid south of Tortoise Lake, Capri"
+}
+},
+{
+"id": "v9-5e4cfa4a",
+"k": "samm",
+"n": "Kokain-Flamingo – Capri westl. Volcano Coffee",
+"typ": "Kokain-Flamingo",
+"r": "Vorgarten eines nicht betretbaren Hauses direkt westlich von Volcano Coffee Co., Capri",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"geb": "Capri",
+"p": [
+-6995,
+355
+],
+"g": 0,
+"en": {
+"n": "Cocaine Flamingo – Capri west of Volcano Coffee",
+"r": "Front yard of a locked house just west of Volcano Coffee Co, Capri"
+}
+},
+{
+"id": "v9-e48e3e58",
+"k": "samm",
+"n": "Kokain-Flamingo – Capri La Costa",
+"typ": "Kokain-Flamingo",
+"r": "Vor La Costa im Südwesten von Capri, zwei Blocks von Hair By Clair",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"geb": "Capri",
+"p": [
+-6972,
+438
+],
+"g": 0,
+"en": {
+"n": "Cocaine Flamingo – Capri La Costa",
+"r": "Outside La Costa in south-west Capri, two blocks from Hair By Clair"
+}
+},
+{
+"id": "v9-8e7d516e",
+"k": "samm",
+"n": "Kokain-Flamingo – Riquezas Keys Radarkuppel",
+"typ": "Kokain-Flamingo",
+"r": "In einem Gebäude auf der großen Südwest-Insel mit der Radarkuppel (Radom)",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"geb": "Riquezas Keys",
+"p": [
+-8100,
+-5483
+],
+"g": 0,
+"en": {
+"n": "Cocaine Flamingo – Riquezas Keys radome",
+"r": "Inside a building on the large south-west island with the radar dome"
+}
+},
+{
+"id": "v9-111f9414",
+"k": "samm",
+"n": "Kokain-Flamingo – Sandbank-Insel südl. Cottonmouth Lake",
+"typ": "Kokain-Flamingo",
+"r": "Westseite der Insel mit der größten Sandbank südlich des Cottonmouth Lake",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"en": {
+"n": "Cocaine Flamingo – Sandbar island south of Cottonmouth Lake",
+"r": "West side of the island with the largest sandbar south of Cottonmouth Lake"
+}
+},
+{
+"id": "v9-19598cf1",
+"k": "samm",
+"n": "Kokain-Flamingo – Abismo Key Südost",
+"typ": "Kokain-Flamingo",
+"r": "An der Südostküste von Abismo Key",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"geb": "Abismo Key",
+"p": [
+-5278,
+-7455
+],
+"g": 0,
+"en": {
+"n": "Cocaine Flamingo – Abismo Key south-east",
+"r": "On the south-east coast of Abismo Key"
+}
+},
+{
+"id": "v9-24b18928",
+"k": "samm",
+"n": "Kokain-Flamingo – Featherstone Nordspitze",
+"typ": "Kokain-Flamingo",
+"r": "Nördlichster Punkt der nördlichen Insel der Featherstone Islands",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"en": {
+"n": "Cocaine Flamingo – Featherstone north tip",
+"r": "Northernmost point of the northern Featherstone island"
+}
+},
+{
+"id": "v9-8fb8f90b",
+"k": "samm",
+"n": "Kokain-Flamingo – Featherstone Südostufer",
+"typ": "Kokain-Flamingo",
+"r": "Südostküste der nördlichen Insel der Featherstone Islands",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"en": {
+"n": "Cocaine Flamingo – Featherstone south-east shore",
+"r": "South-east shoreline of the northern Featherstone island"
+}
+},
+{
+"id": "v9-d78fb76d",
+"k": "samm",
+"n": "Kokain-Flamingo – Featherstone Südufer",
+"typ": "Kokain-Flamingo",
+"r": "Südküste der nördlichen Insel der Featherstone Islands",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"en": {
+"n": "Cocaine Flamingo – Featherstone south shore",
+"r": "South shoreline of the northern Featherstone island"
+}
+},
+{
+"id": "v9-266790f6",
+"k": "samm",
+"n": "Kokain-Flamingo – Wrack der Meerwunder 1/3",
+"typ": "Kokain-Flamingo",
+"r": "Strand neben dem großen Schiffswrack Meerwunder, südöstliche Featherstone-Insel",
+"t": "Drei Flamingos stehen dort zusammen.",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"en": {
+"n": "Cocaine Flamingo – Wreck of the Meerwunder 1/3",
+"r": "Beach next to the Wreck of the Meerwunder, south-east Featherstone island",
+"t": "Three flamingos stand together here."
+}
+},
+{
+"id": "v9-5534232d",
+"k": "samm",
+"n": "Kokain-Flamingo – Wrack der Meerwunder 2/3",
+"typ": "Kokain-Flamingo",
+"r": "Strand neben dem großen Schiffswrack Meerwunder, südöstliche Featherstone-Insel",
+"t": "Drei Flamingos stehen dort zusammen.",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"en": {
+"n": "Cocaine Flamingo – Wreck of the Meerwunder 2/3",
+"r": "Beach next to the Wreck of the Meerwunder, south-east Featherstone island",
+"t": "Three flamingos stand together here."
+}
+},
+{
+"id": "v9-5a6a8979",
+"k": "samm",
+"n": "Kokain-Flamingo – Wrack der Meerwunder 3/3",
+"typ": "Kokain-Flamingo",
+"r": "Strand neben dem großen Schiffswrack Meerwunder, südöstliche Featherstone-Insel",
+"t": "Drei Flamingos stehen dort zusammen.",
+"q": "m",
+"src": [
+"r99c56c5",
+"r93ec487",
+"r9751285"
+],
+"en": {
+"n": "Cocaine Flamingo – Wreck of the Meerwunder 3/3",
+"r": "Beach next to the Wreck of the Meerwunder, south-east Featherstone island",
+"t": "Three flamingos stand together here."
+}
+},
+{
+"id": "v9-806b36e8",
+"k": "aktiv",
+"n": "Stuntsprung: Mile Zero Air Station (Zaun)",
+"typ": "Stuntsprung",
+"r": "Vor dem Haupttor links in die Nebenstraße, an den Wachen vorbei, dann rechts zur Rampe über den Zaun",
+"t": "Landung führt in die Basis (Wachen!). Wohl identisch mit „Mile Zero Air Station Southeast“.",
+"q": "m",
+"src": [
+"r9d04303",
+"r9adcbfd"
+],
+"geb": "Mile Zero",
+"p": [
+-6829,
+-6476
+],
+"g": 0,
+"en": {
+"n": "Stunt Jump: Mile Zero Air Station (Zaun)",
+"r": "Take the side road left before the main gate, past the guards, then right to the ramp over the fence",
+"t": "Landing puts you inside the base. Likely the same as 'Mile Zero Air Station Southeast'."
+}
+},
+{
+"id": "v9-1b88548d",
+"k": "aktiv",
+"n": "Stuntsprung: Blackwell Sandrock",
+"typ": "Stuntsprung",
+"r": "Baustelle in Bayside: durchs Erdgeschoss eines Rohbaus über die NE 3rd Ave",
+"t": "Challenge: mit Partner landen.",
+"q": "m",
+"src": [
+"r9d04303",
+"r9adcbfd"
+],
+"geb": "Bayside",
+"p": [
+-458,
+953
+],
+"g": 0,
+"en": {
+"n": "Stunt Jump: Blackwell Sandrock",
+"r": "Through the ground floor of an unfinished building on a construction site, over NE 3rd Ave, Bayside",
+"t": "Challenge: land it with your partner."
+}
+},
+{
+"id": "v9-0d0164e1",
+"k": "aktiv",
+"n": "Stuntsprung: Mastodon U.S.A.",
+"typ": "Stuntsprung",
+"r": "Im Zementwerk an der NE 14th St, durch eine Black-Holes-Plakatwand auf die I-97",
+"t": "Challenge: Rückwärtssalto durch das Plakat.",
+"q": "e",
+"src": [
+"r9d04303"
+],
+"geb": "Crosstown",
+"p": [
+-603,
+1258
+],
+"g": 0,
+"en": {
+"n": "Stunt Jump: Mastodon U.S.A.",
+"r": "Inside the cement mixing plant by NE 14th St, through a Black Holes billboard onto I-97",
+"t": "Challenge: backflip through the Black Holes sign."
+}
+},
+{
+"id": "v9-cef8a61c",
+"k": "aktiv",
+"n": "Stuntsprung: Anderson Murphy Construction",
+"typ": "Stuntsprung",
+"r": "Feldweg am Wasser neben Baustelle, an der Grenze zu South Vice-Dale County",
+"t": "Challenge: über ein Boot springen.",
+"q": "e",
+"src": [
+"r9d04303"
+],
+"geb": "Hamlet",
+"p": [
+-2770,
+-3280
+],
+"g": 0,
+"en": {
+"n": "Stunt Jump: Anderson Murphy Construction",
+"r": "Dirt road at the water's edge beside a construction site, on the South Vice-Dale County border",
+"t": "Challenge: land it over a boat."
+}
+},
+{
+"id": "v9-8ad92a64",
+"k": "aktiv",
+"n": "Stuntsprung: Apollo Aggregates (Steinbruch)",
+"typ": "Stuntsprung",
+"r": "Im Steinbruch zwischen Gebäude und gefluteter Grube, über die Calderone Ave (South Vice-Dale County)",
+"t": "Wohl „Apollo Aggregates South“. Challenge vermutlich Rückwärtssalto.",
+"q": "m",
+"src": [
+"r9d04303",
+"r9adcbfd"
+],
+"en": {
+"n": "Stunt Jump: Apollo Aggregates (Steinbruch)",
+"r": "Between a building and a flooded pit in the quarry, over Calderone Ave (South Vice-Dale County)",
+"t": "Likely 'Apollo Aggregates South'. Challenge probably a backflip."
+}
+},
+{
+"id": "v9-9fb3ccb8",
+"k": "aktiv",
+"n": "Stuntsprung: VCIA Gator Parking",
+"typ": "Stuntsprung",
+"r": "Vom Dach des Gator-Parkhauses hinüber zum Manatee-Parkhaus, mitten im Flughafen",
+"t": "Challenge: über 40 mph im gelben Taxi. Auto statt Motorrad empfohlen.",
+"q": "e",
+"src": [
+"r9d04303"
+],
+"geb": "VCIA",
+"p": [
+-2251,
+-517
+],
+"g": 0,
+"en": {
+"n": "Stunt Jump: VCIA Gator Parking",
+"r": "Off the Gator Parking Garage roof across to the Manatee Parking Garage, middle of the airport",
+"t": "Challenge: over 40 mph in a yellow taxi. Car recommended over bike."
+}
+},
+{
+"id": "v9-6e79339a",
+"k": "aktiv",
+"n": "Stuntsprung: US Route 82 Construction",
+"typ": "Stuntsprung",
+"r": "Baustelle am Ende eines Feldwegs abseits der US-82, an der Grenze zu North Mariana County",
+"q": "e",
+"src": [
+"r9d04303"
+],
+"geb": "Grassrivers",
+"p": [
+-3023,
+-4349
+],
+"g": 0,
+"en": {
+"n": "Stunt Jump: US Route 82 Construction",
+"r": "Construction site at the end of a dirt road off US-82, on the North Mariana County border"
+}
+},
+{
+"id": "v9-9ee86997",
+"k": "aktiv",
+"n": "Stuntsprung: Goliath Global Quarry Storage",
+"typ": "Stuntsprung",
+"r": "Großer Gesteinshaufen neben der Straße mitten im Breakwater-Steinbruch",
+"q": "e",
+"src": [
+"r9d04303"
+],
+"p": [
+-6933,
+-298
+],
+"g": 2,
+"en": {
+"n": "Stunt Jump: Goliath Global Quarry Storage",
+"r": "A big rock pile beside a road in the middle of Breakwater Quarry"
+}
+},
+{
+"id": "v9-63b3fc36",
+"k": "aktiv",
+"n": "Stuntsprung: Richard Barebone State Park (Freeway)",
+"typ": "Stuntsprung",
+"r": "Am Freeway im Richard Barebone State Park, etwa auf halber Strecke zwischen Nord und Süd",
+"t": "Evtl. „Richard Barebone Overpass South“ (nicht bestätigt).",
+"q": "e",
+"src": [
+"r93ec487"
+],
+"en": {
+"n": "Stunt Jump: Richard Barebone State Park (Freeway)",
+"r": "Along the freeway in Richard Barebone State Park, around the midpoint between north and south",
+"t": "Possibly 'Richard Barebone Overpass South' (unconfirmed)."
+}
+},
+{
+"id": "v9-e008ea21",
+"k": "aktiv",
+"n": "Stuntsprung: Flussquerung östl. Cottonmouth Lake",
+"typ": "Stuntsprung",
+"r": "Flussquerung östlich des Cottonmouth Lake",
+"q": "e",
+"src": [
+"r93ec487"
+],
+"en": {
+"n": "Stunt Jump: Flussquerung östl. Cottonmouth Lake",
+"r": "River crossing east of Cottonmouth Lake"
+}
+},
+{
+"id": "v9-eb89b826",
+"k": "samm",
+"n": "Karte Angel Cienfuegos (Silber) – Vice City Flamingos",
+"typ": "Sammelkarte",
+"r": "Garage des Hauses direkt unterhalb des O-förmigen Sees, nördlich des Ortszentrums von Belville",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Belville",
+"p": [
+-1475,
+2881
+],
+"g": 0,
+"en": {
+"n": "Card Angel Cienfuegos (Silver) – Vice City Flamingos",
+"r": "Garage of the house just below the O-shaped lake, north of Belville town centre"
+}
+},
+{
+"id": "v9-a4feecfa",
+"k": "samm",
+"n": "Karte Charlie Spears – Vice City Flamingos",
+"typ": "Sammelkarte",
+"r": "Gesperrtes Gebäude nahe dem Hubschrauberlandeplatz neben dem Gellhorn Speedway – Lagerraum oben, in einer verschlossenen Kiste",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Charlie Spears – Vice City Flamingos",
+"r": "Restricted building near the helipad next to Gellhorn Speedway – upstairs storage room, in a locked box"
+}
+},
+{
+"id": "v9-224db1fa",
+"k": "samm",
+"n": "Karte Harold Toye (Pink) – Vice City Flamingos",
+"typ": "Sammelkarte",
+"r": "Garage voller pinker Gegenstände im Südosten von Waning Sands",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Waning Sands",
+"p": [
+-39,
+4032
+],
+"g": 0,
+"en": {
+"n": "Card Harold Toye (Pink) – Vice City Flamingos",
+"r": "Garage full of pink items in the southeast of Waning Sands"
+}
+},
+{
+"id": "v9-09e5fafc",
+"k": "samm",
+"n": "Karte Sammy Wordsworth – Vice City Flamingos",
+"typ": "Sammelkarte",
+"r": "Garage hinter Sarena's Bargain Store, Port Gellhorn",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Port Gellhorn",
+"p": [
+-6529,
+3900
+],
+"g": 0,
+"en": {
+"n": "Card Sammy Wordsworth – Vice City Flamingos",
+"r": "Garage behind Sarena's Bargain Store, Port Gellhorn"
+}
+},
+{
+"id": "v9-0a949199",
+"k": "samm",
+"n": "Karte Nicky Mcvee (Silber) – Vice City Narcos",
+"typ": "Sammelkarte",
+"r": "Am Kühlschrank im kleinen Haus südwestlich von Top Fun Drones, Watson Bay – Südseite der Hauptstraße in den Ort",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Watson Bay",
+"p": [
+-5100,
+-3252
+],
+"g": 0,
+"en": {
+"n": "Card Nicky Mcvee (Silver) – Vice City Narcos",
+"r": "On a fridge in the small house southwest of Top Fun Drones, Watson Bay – south side of the main road into town"
+}
+},
+{
+"id": "v9-2aed8b10",
+"k": "samm",
+"n": "Karte Anthony Ross (Altrosa) – Vice City Manatees",
+"typ": "Sammelkarte",
+"r": "Garage des Hauses südlich der Raubgelegenheit Vespucci Mansion auf Vespucci Island",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Anthony Ross (Dusty Pink) – Vice City Manatees",
+"r": "Garage of the house south of the Vespucci Mansion robbery opportunity, Vespucci Island"
+}
+},
+{
+"id": "v9-edd06a9a",
+"k": "samm",
+"n": "Karte Dominic Brizzolato (Gold) – Vice City Manatees",
+"typ": "Sammelkarte",
+"r": "Vice City Oceanarium nordöstlich von Catalan Key – neben der Schildkröte im großen Haimaul unter der Kuppel",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Dominic Brizzolato (Gold) – Vice City Manatees",
+"r": "Vice City Oceanarium northeast of Catalan Key – next to the turtle inside the big shark-mouth display under the dome"
+}
+},
+{
+"id": "v9-34eb3697",
+"k": "samm",
+"n": "Karte John Morgan (Grün) – Vice City Manatees",
+"typ": "Sammelkarte",
+"r": "Garage am Südrand von Casanova Island, etwa in der Mitte der Häuserreihe",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card John Morgan (Green) – Vice City Manatees",
+"r": "Garage on the south edge of Casanova Island, around the middle of the row of houses"
+}
+},
+{
+"id": "v9-fa7f55e7",
+"k": "samm",
+"n": "Karte Makeek River (Gold) – Vice City Manatees",
+"typ": "Sammelkarte",
+"r": "Garage an der Südspitze der Hauptinsel von Vice Beach – Paletten mit Fahrzeug wegschieben, Tresor sprengen",
+"t": "Sprengstoff für den Tresor mitbringen.",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Makeek River (Gold) – Vice City Manatees",
+"r": "Garage at the southern tip of the main Vice Beach island – push pallets away with a vehicle, blow the safe",
+"t": "Bring explosives for the safe."
+}
+},
+{
+"id": "v9-2494c314",
+"k": "samm",
+"n": "Karte Reggie Pierce – Vice City Manatees",
+"typ": "Sammelkarte",
+"r": "Dach des Autokinos nördlich vom Pay 'n' Spray Port Gellhorn",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Port Gellhorn",
+"p": [
+-6435,
+3696
+],
+"g": 0,
+"en": {
+"n": "Card Reggie Pierce – Vice City Manatees",
+"r": "Roof of the drive-in theatre north of Pay 'n' Spray Port Gellhorn"
+}
+},
+{
+"id": "v9-3250b875",
+"k": "samm",
+"n": "Karte Tusi Taurua (Silber) – Vice City Manatees",
+"typ": "Sammelkarte",
+"r": "Große Lagerhalle im Nordosten von East Lummox County",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Tusi Taurua (Silver) – Vice City Manatees",
+"r": "Large warehouse in the northeast of East Lummox County"
+}
+},
+{
+"id": "v9-05153fc9",
+"k": "samm",
+"n": "Karte Leon Correo (Gold) – Vice City Club De Fútbol",
+"typ": "Sammelkarte",
+"r": "Obergeschoss einer Villa im Südosten von Capri – zwei betretbare Häuser hinter dem Helipad, Nordseite der Südstraße",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Capri",
+"p": [
+-6864,
+148
+],
+"g": 0,
+"en": {
+"n": "Card Leon Correo (Gold) – Vice City Club De Fútbol",
+"r": "Upstairs in a mansion in southeast Capri – two enterable houses past the helipad, north side of the south road"
+}
+},
+{
+"id": "v9-ab094db0",
+"k": "samm",
+"n": "Karte Lupin de Juarez – Vice City Club De Fútbol",
+"typ": "Sammelkarte",
+"r": "Wohnwagen östlich von The Rusty Anchor, Key Lento",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Key Lento",
+"p": [
+-2272,
+-5257
+],
+"g": 2,
+"en": {
+"n": "Card Lupin de Juarez – Vice City Club De Fútbol",
+"r": "Trailer east of The Rusty Anchor, Key Lento"
+}
+},
+{
+"id": "v9-df0fac23",
+"k": "samm",
+"n": "Karte Juan Carlos Garcia – Liberty City Swingers",
+"typ": "Sammelkarte",
+"r": "Kiste in einer Garage in der Mitte von Key Lento",
+"t": "Evtl. identisch mit Bestand „Mitte von Key Lento: Karte“.",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Key Lento",
+"p": [
+-2403,
+-5894
+],
+"g": 0,
+"en": {
+"n": "Card Juan Carlos Garcia – Liberty City Swingers",
+"r": "Box in a garage in the middle of Key Lento",
+"t": "May match existing entry 'middle of Key Lento: card'."
+}
+},
+{
+"id": "v9-b0104993",
+"k": "samm",
+"n": "Karte D'Angelou Miles – Liberty City Penetrators",
+"typ": "Sammelkarte",
+"r": "Kiste im rechteckigen betretbaren Gebäude direkt südlich von The Rusty Anchor, Key Lento",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Key Lento",
+"p": [
+-2272,
+-5257
+],
+"g": 2,
+"en": {
+"n": "Card D'Angelou Miles – Liberty City Penetrators",
+"r": "Box inside the rectangular enterable building directly south of The Rusty Anchor, Key Lento"
+}
+},
+{
+"id": "v9-b68b84ab",
+"k": "samm",
+"n": "Karte Noah Marcus (Bronze) – Liberty City Penetrators",
+"typ": "Sammelkarte",
+"r": "Billardtisch in einer Garage an der Ostseite von Vespucci Island, südlich der Brücke von der Insel",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Noah Marcus (Bronze) – Liberty City Penetrators",
+"r": "Pool table in a garage on the east side of Vespucci Island, south of the bridge off the island"
+}
+},
+{
+"id": "v9-d5ec2d5c",
+"k": "samm",
+"n": "Karte Victor Maravilla – Los Santos Corkers",
+"typ": "Sammelkarte",
+"r": "Küche des Starlet Motel, am Kühlschrank",
+"t": "Verpassbar: Küche ist nach Kapitel 2 geschlossen.",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"p": [
+-5355,
+3462
+],
+"g": 2,
+"en": {
+"n": "Card Victor Maravilla – Los Santos Corkers",
+"r": "Starlet Motel kitchen, on the fridge",
+"t": "Missable: kitchen closes after Chapter 2."
+}
+},
+{
+"id": "v9-e8d8b968",
+"k": "samm",
+"n": "Karte Jonah Clemmons (Silber) – Los Santos Corkers",
+"typ": "Sammelkarte",
+"r": "Hinteres Schlafzimmer des kleinen Hauses leicht südwestlich vom Watson Bay Safehouse, südlich des T-Stegs",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Watson Bay",
+"p": [
+-4967,
+-3379
+],
+"g": 0,
+"en": {
+"n": "Card Jonah Clemmons (Silver) – Los Santos Corkers",
+"r": "Back bedroom of the small house slightly southwest of Watson Bay Safehouse, south of the little T-shaped dock"
+}
+},
+{
+"id": "v9-d3e62dbc",
+"k": "samm",
+"n": "Karte Xavier Gomez – Los Santos Corkers",
+"typ": "Sammelkarte",
+"r": "Büro der Waschanlage direkt nordöstlich vom Boone Speedway, Hamlet",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Hamlet",
+"p": [
+-3092,
+-3376
+],
+"g": 2,
+"en": {
+"n": "Card Xavier Gomez – Los Santos Corkers",
+"r": "Car wash office just northeast of Boone Speedway, Hamlet"
+}
+},
+{
+"id": "v9-2c33e1b9",
+"k": "samm",
+"n": "Karte Chibuike Bello (Gold) – Los Santos Panic",
+"typ": "Sammelkarte",
+"r": "Garage im Nordwesten des Vinewood-Beach-Streifens, Waning Sands",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Waning Sands",
+"p": [
+-55,
+4011
+],
+"g": 0,
+"en": {
+"n": "Card Chibuike Bello (Gold) – Los Santos Panic",
+"r": "Garage in the northwest of the Vinewood Beach strip, Waning Sands"
+}
+},
+{
+"id": "v9-7994abe7",
+"k": "samm",
+"n": "Karte Bingo Johnson – Los Santos Pounders",
+"typ": "Sammelkarte",
+"r": "Wohnwagen südöstlich vom La Cascara Motel, Port Gellhorn",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Port Gellhorn",
+"p": [
+-6584,
+3861
+],
+"g": 0,
+"en": {
+"n": "Card Bingo Johnson – Los Santos Pounders",
+"r": "Trailer southeast of La Cascara Motel, Port Gellhorn"
+}
+},
+{
+"id": "v9-592b8413",
+"k": "samm",
+"n": "Karte Granian Beach – Los Santos Pounders",
+"typ": "Sammelkarte",
+"r": "Schlafzimmer eines Hauses unterhalb der Brücke, die nördlich aus Watson Bay führt",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Watson Bay",
+"p": [
+-4948,
+-3430
+],
+"g": 0,
+"en": {
+"n": "Card Granian Beach – Los Santos Pounders",
+"r": "Bedroom of a house below the bridge leading north out of Watson Bay"
+}
+},
+{
+"id": "v9-edba41c8",
+"k": "samm",
+"n": "Karte Laki Maiva (Gold) – Los Santos Pounders",
+"typ": "Sammelkarte",
+"r": "Fitnessraum im Obergeschoss des betretbaren Hauses im Norden von Casanova Island",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Laki Maiva (Gold) – Los Santos Pounders",
+"r": "Upstairs workout room of the enterable house at the north of Casanova Island"
+}
+},
+{
+"id": "v9-cfbae0db",
+"k": "samm",
+"n": "Karte Blood Smith – Backyard Wrestling",
+"typ": "Sammelkarte",
+"r": "Oben auf einem Baumhaus-Gerüst im südlichen Teil der Mitte von Manifest Canyon, knapp unterhalb des schmalen Flusses",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Manifest Canyon",
+"p": [
+-5087,
+5139
+],
+"g": 0,
+"en": {
+"n": "Card Blood Smith – Backyard Wrestling",
+"r": "Top of a treehouse-style structure at the south middle of Manifest Canyon, just below the thin river"
+}
+},
+{
+"id": "v9-1571dc22",
+"k": "samm",
+"n": "Karte Chico Bonez – Backyard Wrestling",
+"typ": "Sammelkarte",
+"r": "Garage nordwestlich vom Xero Food Mart, Belville – Zweitexemplar: Kiste auf T-Steg im Lake Leonida",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Belville",
+"p": [
+-1542,
+2932
+],
+"g": 0,
+"en": {
+"n": "Card Chico Bonez – Backyard Wrestling",
+"r": "Garage north-west of Xero Food Mart, Belville – second copy: box on a T-shaped pier on Lake Leonida"
+}
+},
+{
+"id": "v9-63a0eb68",
+"k": "samm",
+"n": "Karte Judas Sterling – Backyard Wrestling",
+"typ": "Sammelkarte",
+"r": "Dach des verlassenen Stadions im bebauten Süden von Gloriana Key",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Gloriana Key",
+"p": [
+407,
+-1523
+],
+"g": 0,
+"en": {
+"n": "Card Judas Sterling – Backyard Wrestling",
+"r": "Roof of the abandoned stadium in the built-up south of Gloriana Key"
+}
+},
+{
+"id": "v9-97bdeb0a",
+"k": "samm",
+"n": "Karte Shovel – Backyard Wrestling",
+"typ": "Sammelkarte",
+"r": "Wohnwagen an der Spitze von Wild Hog Point",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"p": [
+-7563,
+3277
+],
+"g": 2,
+"en": {
+"n": "Card Shovel – Backyard Wrestling",
+"r": "Trailer on the tip of Wild Hog Point"
+}
+},
+{
+"id": "v9-64237997",
+"k": "samm",
+"n": "Karte Beverly (Silber) – America's Next Top Hooker",
+"typ": "Sammelkarte",
+"r": "Kleine Garage im Nordwesten von South Vice-Dale County",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Beverly (Silver) – America's Next Top Hooker",
+"r": "Small garage in the northwest of South Vice-Dale County"
+}
+},
+{
+"id": "v9-92ce6f2a",
+"k": "samm",
+"n": "Karte Cleo – Delights Dancers",
+"typ": "Sammelkarte",
+"r": "Gebäude am Südende des Kalaga Reservoir",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Kalaga Reservoir",
+"p": [
+-2838,
+6792
+],
+"g": 0,
+"en": {
+"n": "Card Cleo – Delights Dancers",
+"r": "Building at the south of Kalaga Reservoir"
+}
+},
+{
+"id": "v9-5a24ff6f",
+"k": "samm",
+"n": "Karte Nicole – Delights Dancers",
+"typ": "Sammelkarte",
+"r": "Wohnung oben rechts in der mittleren Apartmentreihe südlich des Gefängnisses von Hamlet",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Hamlet",
+"p": [
+-2658,
+-3336
+],
+"g": 0,
+"en": {
+"n": "Card Nicole – Delights Dancers",
+"r": "Top-right apartment in the middle row of apartments south of Hamlet prison"
+}
+},
+{
+"id": "v9-2252c9f7",
+"k": "samm",
+"n": "Karte Lexi Campbell (Gold) – Jack of Hearts Dancers",
+"typ": "Sammelkarte",
+"r": "Lagerraum des Autokinos nördlich vom Pay 'n' Spray Port Gellhorn",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Port Gellhorn",
+"p": [
+-6506,
+3929
+],
+"g": 0,
+"en": {
+"n": "Card Lexi Campbell (Gold) – Jack of Hearts Dancers",
+"r": "Storage room of the drive-in theatre north of Pay 'n' Spray Port Gellhorn"
+}
+},
+{
+"id": "v9-16874b3a",
+"k": "samm",
+"n": "Karte Monali$a (Gold) – Jack of Hearts Dancers",
+"typ": "Sammelkarte",
+"r": "Neben einem verlassenen Boot auf einer kleinen Insel südöstlich von Abismo Key",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Monali$a (Gold) – Jack of Hearts Dancers",
+"r": "Next to an abandoned boat on a small island southeast of Abismo Key"
+}
+},
+{
+"id": "v9-145dace0",
+"k": "samm",
+"n": "Karte Pricilla Pace (Silber) – Jack of Hearts Dancers",
+"typ": "Sammelkarte",
+"r": "Strandparty-Platz nordöstlich der mittleren Insel der Permit Keys",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Permit Keys",
+"p": [
+-5710,
+-6383
+],
+"g": 0,
+"en": {
+"n": "Card Pricilla Pace (Silver) – Jack of Hearts Dancers",
+"r": "Beach party site northeast of the middle island in Permit Keys"
+}
+},
+{
+"id": "v9-30044078",
+"k": "samm",
+"n": "Karte Zaria „Ri Ri“ Luckett (Gold) – Jack of Hearts Dancers",
+"typ": "Sammelkarte",
+"r": "Südstrand von Little Hardin Island, bei Liegestuhl und Jetski",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Zaria \"Ri Ri\" Luckett (Gold) – Jack of Hearts Dancers",
+"r": "Southern beach of Little Hardin Island, near a deck chair and a jet ski"
+}
+},
+{
+"id": "v9-d772a9bb",
+"k": "samm",
+"n": "Karte Clarissa (Silber) – Nine1Nine Dancers",
+"typ": "Sammelkarte",
+"r": "Garage eines Hauses am nordwestlichen „Finger“ von Capri",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Capri",
+"p": [
+-6778,
+251
+],
+"g": 0,
+"en": {
+"n": "Card Clarissa (Silver) – Nine1Nine Dancers",
+"r": "Garage of a house on the northwest finger of Capri"
+}
+},
+{
+"id": "v9-d32d7e2e",
+"k": "samm",
+"n": "Karte Jesina (Gold) – Nine1Nine Dancers",
+"typ": "Sammelkarte",
+"r": "Obergeschoss, Zimmer mit dem Hund, Villa am Südwestrand von Vespucci Island",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Jesina (Gold) – Nine1Nine Dancers",
+"r": "Upstairs in the room with the dog, mansion on the southwest edge of Vespucci Island"
+}
+},
+{
+"id": "v9-e6126f83",
+"k": "samm",
+"n": "Karte Lavinia (Dunkelrot) – Nine1Nine Dancers",
+"typ": "Sammelkarte",
+"r": "Büro der betretbaren Lagerhalle im Sperrgebiet von Draper Island",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Draper Island",
+"p": [
+-7055,
+4833
+],
+"g": 0,
+"en": {
+"n": "Card Lavinia (Deep Red) – Nine1Nine Dancers",
+"r": "Office of the enterable warehouse in the restricted area of Draper Island"
+}
+},
+{
+"id": "v9-13cac0f2",
+"k": "samm",
+"n": "Karte #27 Wokester (Blau) – The Legends of Ratface",
+"typ": "Sammelkarte",
+"r": "Bank an der Nordostseite des Kleidungsladens The Wonder Whale, Key Lento",
+"q": "m",
+"src": [
+"r90eae0b",
+"r9d46094"
+],
+"geb": "Key Lento",
+"p": [
+-2936,
+-6420
+],
+"g": 2,
+"en": {
+"n": "Card #27 Wokester (Blue) – The Legends of Ratface",
+"r": "Bench on the northeast side of The Wonder Whale clothing shop, Key Lento"
+}
+},
+{
+"id": "v9-cf761859",
+"k": "samm",
+"n": "Karte Silver Age Betrayal (Lila) – The Legends of Ratface",
+"typ": "Sammelkarte",
+"r": "Garage eines rechteckigen Hauses westlich von Top Fun Drones, Watson Bay – unterhalb der Raubgelegenheit Watson Bay Safehouse",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Watson Bay",
+"p": [
+-5084,
+-3412
+],
+"g": 0,
+"en": {
+"n": "Card Silver Age Betrayal (Purple) – The Legends of Ratface",
+"r": "Garage of a rectangular house west of Top Fun Drones, Watson Bay – below the Watson Bay Safehouse robbery"
+}
+},
+{
+"id": "v9-d5513556",
+"k": "samm",
+"n": "Karte Right Wing vs Left Wing (Rot) – Right Wing: America's Hero",
+"typ": "Sammelkarte",
+"r": "Im Autoscooter des verlassenen Rummelplatzes in Port Gellhorn",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Port Gellhorn",
+"p": [
+-6632,
+3830
+],
+"g": 0,
+"en": {
+"n": "Card Right Wing vs Left Wing (Red) – Right Wing: America's Hero",
+"r": "In the bumper car at the abandoned funfair in Port Gellhorn"
+}
+},
+{
+"id": "v9-cdd293f9",
+"k": "samm",
+"n": "Karte Funny Bones (Orange) – Ed Comics Universe",
+"typ": "Sammelkarte",
+"r": "Oben auf dem Wasserturm nördlich von Port Gellhorn",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"en": {
+"n": "Card Funny Bones (Orange) – Ed Comics Universe",
+"r": "Top of the water tower north of Port Gellhorn"
+}
+},
+{
+"id": "v9-696fe37c",
+"k": "samm",
+"n": "Karte General Surgeon (Pink) – Ed Comics Universe",
+"typ": "Sammelkarte",
+"r": "Wohnwagen hinter dem Tuning-Laden Dirt Merchants, Port Gellhorn",
+"q": "e",
+"src": [
+"r90eae0b"
+],
+"geb": "Port Gellhorn",
+"p": [
+-6383,
+3892
+],
+"g": 0,
+"en": {
+"n": "Card General Surgeon (Pink) – Ed Comics Universe",
+"r": "Trailer behind the Dirt Merchants mod shop, Port Gellhorn"
+}
+},
+{
+"id": "v9-fecb1082",
+"k": "samm",
+"n": "Brets Deck 1: Adrenal Glands and Venison",
+"typ": "Brets Deck",
+"r": "Mount-Kalaga-Nationalpark – Spawns um den Park und die Abandoned Concrete Plant",
+"t": "Weißwedel-Bock und -Ricke. Im Wald und nahe Wasser; der Bock ist schreckhaft – aus großer Distanz schießen.",
+"q": "m",
+"src": [
+"r9f8a92d",
+"r92cacc4"
+],
+"geb": "Mount Kalaga",
+"p": [
+-3312,
+6279
+],
+"g": 0,
+"en": {
+"n": "Bret's Deck 1: Adrenal Glands and Venison",
+"r": "Mount Kalaga National Park – spawns around the park and the Abandoned Concrete Plant",
+"t": "Whitetail Buck and Whitetail Doe. Woodland and near water; the buck spooks easily – shoot from long range."
+}
+},
+{
+"id": "v9-a02686ac",
+"k": "samm",
+"n": "Brets Deck 2: Hog Endocrine Glands",
+"typ": "Brets Deck",
+"r": "Mount-Kalaga-Nationalpark – Spawns bei Adler Creek, Bonanza und im Nationalpark",
+"t": "Leonida Wild White Tom (weißer Truthahn), Eastern Spotted Skunk (nur nachts, Grasland), Wildschwein (tagsüber im schattigen Wald).",
+"q": "m",
+"src": [
+"r9f8a92d",
+"r92cacc4"
+],
+"geb": "Mount Kalaga",
+"p": [
+-3338,
+6477
+],
+"g": 0,
+"en": {
+"n": "Bret's Deck 2: Hog Endocrine Glands",
+"r": "Mount Kalaga National Park – spawns at Adler Creek, Bonanza and the park",
+"t": "Leonida Wild White Tom, Eastern Spotted Skunk (night only, grassland), Wild Boar (shaded forest by day)."
+}
+},
+{
+"id": "v9-ccbef1c4",
+"k": "samm",
+"n": "Brets Deck 3: Cane Toad Venom Glands",
+"typ": "Brets Deck",
+"r": "Grassrivers/Port Gellhorn – Spawns in West- und East-Buckskin-Swamp und Pelican Valley",
+"t": "Aga-Kröte, Nutria, Nilwaran. Bret schickt das Deck per SMS nach Abgabe von Deck 2.",
+"q": "m",
+"src": [
+"r9f8a92d",
+"r92cacc4"
+],
+"geb": "Buckskin Swamp",
+"p": [
+-4053,
+877
+],
+"g": 0,
+"en": {
+"n": "Bret's Deck 3: Cane Toad Venom Glands",
+"r": "Grassrivers/Port Gellhorn – spawns in West and East Buckskin Swamp and Pelican Valley",
+"t": "Cane Toad, Nutria, Nile Monitor. Bret texts this deck after you turn in deck 2."
+}
+},
+{
+"id": "v9-0e5deacd",
+"k": "aktiv",
+"n": "Unter der Brücke: Macalister River North",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #131 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Macalister River North",
+"r": "Mount Kalaga National Park, Lummox County – stunt #131 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-18db01db",
+"k": "aktiv",
+"n": "Unter der Brücke: Interstate 297 Overpass",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #132 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Interstate 297 Overpass",
+"r": "Mount Kalaga National Park, Lummox County – stunt #132 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-b1e0170e",
+"k": "aktiv",
+"n": "Unter der Brücke: West Moreau Overpass",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #133 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Moreau",
+"en": {
+"n": "Under the Bridge: West Moreau Overpass",
+"r": "Mount Kalaga National Park, Lummox County – stunt #133 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-6ad13dc4",
+"k": "aktiv",
+"n": "Unter der Brücke: Macalister River Central",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #134 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Macalister River Central",
+"r": "Mount Kalaga National Park, Lummox County – stunt #134 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-c85c0ce6",
+"k": "aktiv",
+"n": "Unter der Brücke: West Moreau Railroad North",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #135 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Moreau",
+"en": {
+"n": "Under the Bridge: West Moreau Railroad North",
+"r": "Mount Kalaga National Park, Lummox County – stunt #135 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-e033a016",
+"k": "aktiv",
+"n": "Unter der Brücke: Macalister Gold Mine",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #136 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Moreau",
+"en": {
+"n": "Under the Bridge: Macalister Gold Mine",
+"r": "Mount Kalaga National Park, Lummox County – stunt #136 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-0e47abcd",
+"k": "aktiv",
+"n": "Unter der Brücke: North Kalaga Bridge",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #137 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Kalaga Bridge",
+"r": "Mount Kalaga National Park, Lummox County – stunt #137 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-047b63df",
+"k": "aktiv",
+"n": "Unter der Brücke: East Lummox County Overpass",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #138 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: East Lummox County Overpass",
+"r": "Mount Kalaga National Park, Lummox County – stunt #138 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-8c10ac4d",
+"k": "aktiv",
+"n": "Unter der Brücke: West Moreau Railroad South",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #139 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Moreau",
+"en": {
+"n": "Under the Bridge: West Moreau Railroad South",
+"r": "Mount Kalaga National Park, Lummox County – stunt #139 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-2ba30ca6",
+"k": "aktiv",
+"n": "Unter der Brücke: West Kalaga Overpass North",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #140 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: West Kalaga Overpass North",
+"r": "Mount Kalaga National Park, Lummox County – stunt #140 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-6c1c56a3",
+"k": "aktiv",
+"n": "Unter der Brücke: West Kalaga Overpass South",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #141 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: West Kalaga Overpass South",
+"r": "Mount Kalaga National Park, Lummox County – stunt #141 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-01c35343",
+"k": "aktiv",
+"n": "Unter der Brücke: Kalaga River South",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #142 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Kalaga River South",
+"r": "Mount Kalaga National Park, Lummox County – stunt #142 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-4b83f56d",
+"k": "aktiv",
+"n": "Unter der Brücke: Tallaloko River",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #143 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Tallaloko River",
+"r": "Leonard County, Leonard County – stunt #143 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-0b3cff8b",
+"k": "aktiv",
+"n": "Unter der Brücke: Kalaga Reservoir",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #144 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Kalaga Reservoir",
+"en": {
+"n": "Under the Bridge: Kalaga Reservoir",
+"r": "Mount Kalaga National Park, Lummox County – stunt #144 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-f7cf9f96",
+"k": "aktiv",
+"n": "Unter der Brücke: Millport Overpass",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #145 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Millport",
+"en": {
+"n": "Under the Bridge: Millport Overpass",
+"r": "Leonard County, Leonard County – stunt #145 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-7975abd8",
+"k": "aktiv",
+"n": "Unter der Brücke: South Kalaga Overpass",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #146 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: South Kalaga Overpass",
+"r": "Mount Kalaga National Park, Lummox County – stunt #146 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-df0ca607",
+"k": "aktiv",
+"n": "Unter der Brücke: North Leonard County Overpass",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #147 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Leonard County Overpass",
+"r": "Leonard County, Leonard County – stunt #147 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-84dc0a00",
+"k": "aktiv",
+"n": "Unter der Brücke: North Leonard County Railway",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #148 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Leonard County Railway",
+"r": "Leonard County, Leonard County – stunt #148 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-648b6278",
+"k": "aktiv",
+"n": "Unter der Brücke: West Kalaga Overpass West",
+"typ": "Unter-Brücke",
+"r": "Mount-Kalaga-Nationalpark, South West Lummox County – Stunt #149 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: West Kalaga Overpass West",
+"r": "Mount Kalaga National Park, South West Lummox County – stunt #149 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-63eb6589",
+"k": "aktiv",
+"n": "Unter der Brücke: North Kelly County Overpass West",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #150 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Kelly County Overpass West",
+"r": "Port Gellhorn, Kelly County – stunt #150 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-dee8c66c",
+"k": "aktiv",
+"n": "Unter der Brücke: Richard Barebone Overpass East",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #151 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Richard Barebone Overpass East",
+"r": "Leonard County, Leonard County – stunt #151 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-ba7cdc23",
+"k": "aktiv",
+"n": "Unter der Brücke: Richard Barebone Overpass West",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #152 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Richard Barebone Overpass West",
+"r": "Leonard County, Leonard County – stunt #152 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-0433d542",
+"k": "aktiv",
+"n": "Unter der Brücke: North Leonard County Overpass North",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #153 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Leonard County Overpass North",
+"r": "Leonard County, Leonard County – stunt #153 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-26f51829",
+"k": "aktiv",
+"n": "Unter der Brücke: Kalaga River",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #154 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Kalaga River",
+"r": "Leonard County, Leonard County – stunt #154 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-b591b0da",
+"k": "aktiv",
+"n": "Unter der Brücke: Draper Island East",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #155 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Draper Island",
+"en": {
+"n": "Under the Bridge: Draper Island East",
+"r": "Port Gellhorn, Kelly County – stunt #155 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-1989ebbd",
+"k": "aktiv",
+"n": "Unter der Brücke: Kalaga River Railroad",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #156 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Kalaga River Railroad",
+"r": "Leonard County, Leonard County – stunt #156 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-633f8c1c",
+"k": "aktiv",
+"n": "Unter der Brücke: Kalaga River Mouth",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #157 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Kalaga River Mouth",
+"r": "Leonard County, Leonard County – stunt #157 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-df271b8f",
+"k": "aktiv",
+"n": "Unter der Brücke: North Kelly County Overpass East",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #158 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Kelly County Overpass East",
+"r": "Leonard County, Leonard County – stunt #158 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-dec59867",
+"k": "aktiv",
+"n": "Unter der Brücke: Saputka River Railroad East",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, North Kelly County – Stunt #159 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Saputka River Railroad East",
+"r": "Port Gellhorn, North Kelly County – stunt #159 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-dc6b7ef5",
+"k": "aktiv",
+"n": "Unter der Brücke: Waning Sands Railroad",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #160 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Waning Sands",
+"en": {
+"n": "Under the Bridge: Waning Sands Railroad",
+"r": "Leonard County, Leonard County – stunt #160 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-0d150c2c",
+"k": "aktiv",
+"n": "Unter der Brücke: Providence Canyon Railroad",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #161 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Providence Canyon Railroad",
+"r": "Port Gellhorn, Kelly County – stunt #161 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-b7f85a04",
+"k": "aktiv",
+"n": "Unter der Brücke: Waning Sands Overpass",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #162 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Waning Sands",
+"en": {
+"n": "Under the Bridge: Waning Sands Overpass",
+"r": "Leonard County, Leonard County – stunt #162 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-ba64bc5f",
+"k": "aktiv",
+"n": "Unter der Brücke: Leith River North",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #163 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Leith River North",
+"r": "Leonard County, Leonard County – stunt #163 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-722f3283",
+"k": "aktiv",
+"n": "Unter der Brücke: Saputka River Railroad North",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #164 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Saputka River Railroad North",
+"r": "Port Gellhorn, Kelly County – stunt #164 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-c3b2c543",
+"k": "aktiv",
+"n": "Unter der Brücke: Draper Island Bridge",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #165 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Draper Island",
+"en": {
+"n": "Under the Bridge: Draper Island Bridge",
+"r": "Port Gellhorn, Kelly County – stunt #165 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-0b1d6d5a",
+"k": "aktiv",
+"n": "Unter der Brücke: North Frogswater Railroad",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, North Kelly County – Stunt #166 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Frogswater Railroad",
+"r": "Port Gellhorn, North Kelly County – stunt #166 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-231c2be2",
+"k": "aktiv",
+"n": "Unter der Brücke: Saputka River West",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #167 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Saputka River West",
+"r": "Port Gellhorn, Kelly County – stunt #167 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-46b974a8",
+"k": "aktiv",
+"n": "Unter der Brücke: Saputka River",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #168 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Saputka River",
+"r": "Port Gellhorn, Kelly County – stunt #168 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-d88b5a36",
+"k": "aktiv",
+"n": "Unter der Brücke: Saputka River Railroad West",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #169 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Saputka River Railroad West",
+"r": "Port Gellhorn, Kelly County – stunt #169 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-ef146bb7",
+"k": "aktiv",
+"n": "Unter der Brücke: Saputka River Mouth",
+"typ": "Unter-Brücke",
+"r": "nördlich von Ambrosia – Stunt #170 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Saputka River Mouth",
+"r": "north of Ambrosia – stunt #170 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-f840127e",
+"k": "aktiv",
+"n": "Unter der Brücke: Tybee Channel North",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #171 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Tybee Channel North",
+"r": "Leonard County, Leonard County – stunt #171 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-119d3d49",
+"k": "aktiv",
+"n": "Unter der Brücke: Tybee Channel Railroad North",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #172 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Tybee Channel Railroad North",
+"r": "Leonard County, Leonard County – stunt #172 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-6c3fbd4c",
+"k": "aktiv",
+"n": "Unter der Brücke: Draper Island South",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #173 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Draper Island",
+"en": {
+"n": "Under the Bridge: Draper Island South",
+"r": "Port Gellhorn, Kelly County – stunt #173 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-14caa73d",
+"k": "aktiv",
+"n": "Unter der Brücke: Saputka River Railroad",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #174 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Saputka River Railroad",
+"r": "Port Gellhorn, Kelly County – stunt #174 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-a9cbd65b",
+"k": "aktiv",
+"n": "Unter der Brücke: Saputka River East",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #175 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Saputka River East",
+"r": "Port Gellhorn, Kelly County – stunt #175 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-a2851f61",
+"k": "aktiv",
+"n": "Unter der Brücke: Gowing Railroad Bridge",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #176 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Gowing Railroad Bridge",
+"r": "Port Gellhorn, Kelly County – stunt #176 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-b54f45d4",
+"k": "aktiv",
+"n": "Unter der Brücke: Kelly River North",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #177 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Kelly River North",
+"r": "Port Gellhorn, Kelly County – stunt #177 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-949dc5e5",
+"k": "aktiv",
+"n": "Unter der Brücke: Leith River Central",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #178 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Leith River Central",
+"r": "Leonard County, Leonard County – stunt #178 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-1686a5da",
+"k": "aktiv",
+"n": "Unter der Brücke: Leith River South",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #179 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Leith River South",
+"r": "Leonard County, Leonard County – stunt #179 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-3fb07aca",
+"k": "aktiv",
+"n": "Unter der Brücke: Tybee Channel Central",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #180 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Tybee Channel Central",
+"r": "Leonard County, Leonard County – stunt #180 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-027cf505",
+"k": "aktiv",
+"n": "Unter der Brücke: Waning Sands Central",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #181 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Waning Sands",
+"en": {
+"n": "Under the Bridge: Waning Sands Central",
+"r": "Leonard County, Leonard County – stunt #181 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-810e90d5",
+"k": "aktiv",
+"n": "Unter der Brücke: Graffiti Bridge",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #182 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Graffiti Bridge",
+"r": "Port Gellhorn, Kelly County – stunt #182 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-55c52d1a",
+"k": "aktiv",
+"n": "Unter der Brücke: Allied Crystal Pipeline",
+"typ": "Unter-Brücke",
+"r": "südöstlich von Ambrosia – Stunt #183 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Allied Crystal Pipeline",
+"r": "south-east of Ambrosia – stunt #183 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-569d96b3",
+"k": "aktiv",
+"n": "Unter der Brücke: Belville Canal North",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #184 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Belville",
+"en": {
+"n": "Under the Bridge: Belville Canal North",
+"r": "Leonard County, Leonard County – stunt #184 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-22da48aa",
+"k": "aktiv",
+"n": "Unter der Brücke: West Mall Drive",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #185 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: West Mall Drive",
+"r": "Leonard County, Leonard County – stunt #185 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-869865c5",
+"k": "aktiv",
+"n": "Unter der Brücke: Belville Canal Railroad",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #186 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Belville",
+"en": {
+"n": "Under the Bridge: Belville Canal Railroad",
+"r": "Leonard County, Leonard County – stunt #186 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-92a3690f",
+"k": "aktiv",
+"n": "Unter der Brücke: Ambrosia East Railroad North",
+"typ": "Unter-Brücke",
+"r": "südöstlich von Ambrosia – Stunt #187 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Ambrosia East Railroad North",
+"r": "south-east of Ambrosia – stunt #187 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-12a2625b",
+"k": "aktiv",
+"n": "Unter der Brücke: Kelly River South",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #188 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Kelly River South",
+"r": "Port Gellhorn, Kelly County – stunt #188 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-242f6be2",
+"k": "aktiv",
+"n": "Unter der Brücke: Tybee Channel Railroad South",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #189 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Tybee Channel Railroad South",
+"r": "Leonard County, Leonard County – stunt #189 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-39472612",
+"k": "aktiv",
+"n": "Unter der Brücke: Evergreen Mall Bridge",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #190 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Evergreen Mall Bridge",
+"r": "Leonard County, Leonard County – stunt #190 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-9a369dbc",
+"k": "aktiv",
+"n": "Unter der Brücke: North Gellhorn Overpass",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #191 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Gellhorn Overpass",
+"r": "Port Gellhorn, Kelly County – stunt #191 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-23b8af60",
+"k": "aktiv",
+"n": "Unter der Brücke: Flamingo Parkway North",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #192 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Flamingo Parkway North",
+"r": "Leonard County, Leonard County – stunt #192 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-17f8e0d8",
+"k": "aktiv",
+"n": "Unter der Brücke: Belville North Railroad",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #193 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Belville",
+"en": {
+"n": "Under the Bridge: Belville North Railroad",
+"r": "Leonard County, Leonard County – stunt #193 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-b48d3233",
+"k": "aktiv",
+"n": "Unter der Brücke: Tybee Channel South",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #194 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Tybee Channel South",
+"r": "Vice City – stunt #194 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-2d31ba6e",
+"k": "aktiv",
+"n": "Unter der Brücke: Tybee Channel Mouth East",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #195 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Tybee Channel Mouth East",
+"r": "Vice City – stunt #195 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-49c273c0",
+"k": "aktiv",
+"n": "Unter der Brücke: Atlantic Causeway",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #196 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Atlantic Causeway",
+"r": "Vice City – stunt #196 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-ff99c5ed",
+"k": "aktiv",
+"n": "Unter der Brücke: Kelly River Railroad West",
+"typ": "Unter-Brücke",
+"r": "südlich von Ambrosia – Stunt #197 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Kelly River Railroad West",
+"r": "south of Ambrosia – stunt #197 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-a1f13ca0",
+"k": "aktiv",
+"n": "Unter der Brücke: Leonida Canal North",
+"typ": "Unter-Brücke",
+"r": "südlich von Ambrosia – Stunt #198 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Leonida Canal North",
+"r": "south of Ambrosia – stunt #198 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-28b230f1",
+"k": "aktiv",
+"n": "Unter der Brücke: Kelly River Railroad East",
+"typ": "Unter-Brücke",
+"r": "südlich von Ambrosia – Stunt #199 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Kelly River Railroad East",
+"r": "south of Ambrosia – stunt #199 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-a7e8b5df",
+"k": "aktiv",
+"n": "Unter der Brücke: Belville Canal South",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #200 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Belville",
+"en": {
+"n": "Under the Bridge: Belville Canal South",
+"r": "Leonard County, Leonard County – stunt #200 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-44ec9ca2",
+"k": "aktiv",
+"n": "Unter der Brücke: Delamore Bridge",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #201 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Delamore Bridge",
+"r": "Vice City – stunt #201 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-ea2b63b6",
+"k": "aktiv",
+"n": "Unter der Brücke: Belville East Railroad",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #202 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Belville",
+"en": {
+"n": "Under the Bridge: Belville East Railroad",
+"r": "Leonard County, Leonard County – stunt #202 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-2abe1814",
+"k": "aktiv",
+"n": "Unter der Brücke: Tidal Avenue",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #203 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Tidal Avenue",
+"r": "Vice City – stunt #203 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-3ee00702",
+"k": "aktiv",
+"n": "Unter der Brücke: Flamingo Parkway South",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #204 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Flamingo Parkway South",
+"r": "Vice City – stunt #204 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-14d14a42",
+"k": "aktiv",
+"n": "Unter der Brücke: Leonida Canal",
+"typ": "Unter-Brücke",
+"r": "südlich von Ambrosia – Stunt #205 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Leonida Canal",
+"r": "south of Ambrosia – stunt #205 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-525d0dde",
+"k": "aktiv",
+"n": "Unter der Brücke: Belville East Overpass",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #206 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Belville",
+"en": {
+"n": "Under the Bridge: Belville East Overpass",
+"r": "Vice City – stunt #206 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-ce3a3738",
+"k": "aktiv",
+"n": "Unter der Brücke: Ambrosia East Railroad South",
+"typ": "Unter-Brücke",
+"r": "südlich von Ambrosia – Stunt #207 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Ambrosia East Railroad South",
+"r": "south of Ambrosia – stunt #207 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-698b9c90",
+"k": "aktiv",
+"n": "Unter der Brücke: County Route 62",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #208 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: County Route 62",
+"r": "Leonard County, Leonard County – stunt #208 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-02ddb813",
+"k": "aktiv",
+"n": "Unter der Brücke: Raceway Overpass East",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #209 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Port Gellhorn",
+"en": {
+"n": "Under the Bridge: Raceway Overpass East",
+"r": "Port Gellhorn, Kelly County – stunt #209 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-573f729e",
+"k": "aktiv",
+"n": "Unter der Brücke: Atlantic Avenue",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #210 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Atlantic Avenue",
+"r": "Vice City – stunt #210 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-9808f15b",
+"k": "aktiv",
+"n": "Unter der Brücke: Gellhorn International Raceway",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #211 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Port Gellhorn",
+"en": {
+"n": "Under the Bridge: Gellhorn International Raceway",
+"r": "Port Gellhorn, Kelly County – stunt #211 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-1bb4b539",
+"k": "aktiv",
+"n": "Unter der Brücke: Raceway Paddock Bridge",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #212 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Port Gellhorn",
+"en": {
+"n": "Under the Bridge: Raceway Paddock Bridge",
+"r": "Port Gellhorn, Kelly County – stunt #212 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-06e28801",
+"k": "aktiv",
+"n": "Unter der Brücke: Oleander Bridge",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #213 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Oleander Bridge",
+"r": "Vice City – stunt #213 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-6b8b4609",
+"k": "aktiv",
+"n": "Unter der Brücke: Catalan Boulevard",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #214 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Catalan Boulevard",
+"r": "Vice City – stunt #214 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-fbeb0c92",
+"k": "aktiv",
+"n": "Unter der Brücke: Mariposa Avenue",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #215 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Mariposa Avenue",
+"r": "Vice City – stunt #215 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-08d75c5d",
+"k": "aktiv",
+"n": "Unter der Brücke: Belville Town Overpass",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #216 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Belville",
+"en": {
+"n": "Under the Bridge: Belville Town Overpass",
+"r": "Leonard County, Leonard County – stunt #216 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-c804c2ce",
+"k": "aktiv",
+"n": "Unter der Brücke: Del Rio Boulevard",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #217 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Del Rio Boulevard",
+"r": "Vice City – stunt #217 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-864cc7f1",
+"k": "aktiv",
+"n": "Unter der Brücke: Caledonia Boulevard",
+"typ": "Unter-Brücke",
+"r": "Leonard County – Stunt #218 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Caledonia Boulevard",
+"r": "Leonard County, Leonard County – stunt #218 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-8ed42777",
+"k": "aktiv",
+"n": "Unter der Brücke: South Leonard County Railroad North",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #219 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: South Leonard County Railroad North",
+"r": "Vice City, Vice-Dale County – stunt #219 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-ecbff828",
+"k": "aktiv",
+"n": "Unter der Brücke: Leonida Canal South",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #220 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Leonida Canal South",
+"r": "Vice City, Vice-Dale County – stunt #220 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-6e26c084",
+"k": "aktiv",
+"n": "Unter der Brücke: S-17 Canal Drawbridge North",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #221 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: S-17 Canal Drawbridge North",
+"r": "Vice City – stunt #221 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-1e311786",
+"k": "aktiv",
+"n": "Unter der Brücke: Vineyard Drive East",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #222 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Vineyard Drive East",
+"r": "Vice City – stunt #222 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-b15308ff",
+"k": "aktiv",
+"n": "Unter der Brücke: Belville Canal East",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #223 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Belville",
+"en": {
+"n": "Under the Bridge: Belville Canal East",
+"r": "Vice City – stunt #223 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-c4d0171d",
+"k": "aktiv",
+"n": "Unter der Brücke: Raceway Overpass North",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #224 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Port Gellhorn",
+"en": {
+"n": "Under the Bridge: Raceway Overpass North",
+"r": "Port Gellhorn, Kelly County – stunt #224 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-06f29b21",
+"k": "aktiv",
+"n": "Unter der Brücke: Raceway Parking",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #225 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Port Gellhorn",
+"en": {
+"n": "Under the Bridge: Raceway Parking",
+"r": "Port Gellhorn, Kelly County – stunt #225 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-2e4c3aec",
+"k": "aktiv",
+"n": "Unter der Brücke: Vineyard Drive West",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #226 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Vineyard Drive West",
+"r": "Vice City – stunt #226 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-78b72a4c",
+"k": "aktiv",
+"n": "Unter der Brücke: Bonita Court Footbridge",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #227 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Bonita Court Footbridge",
+"r": "Vice City – stunt #227 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-2aac58e3",
+"k": "aktiv",
+"n": "Unter der Brücke: Washington Beach West",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #228 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Washington Beach",
+"en": {
+"n": "Under the Bridge: Washington Beach West",
+"r": "Vice City – stunt #228 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-9830c089",
+"k": "aktiv",
+"n": "Unter der Brücke: South Leonard County Railroad South",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #229 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: South Leonard County Railroad South",
+"r": "Vice City, Vice-Dale County – stunt #229 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-4f52d604",
+"k": "aktiv",
+"n": "Unter der Brücke: Oleander Boulevard",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #230 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Oleander Boulevard",
+"r": "Vice City – stunt #230 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-88d04c99",
+"k": "aktiv",
+"n": "Unter der Brücke: Gellhorn Rally X",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #231 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Gellhorn Rally X",
+"r": "Port Gellhorn, Kelly County – stunt #231 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-fc91bdbe",
+"k": "aktiv",
+"n": "Unter der Brücke: Ajax Gym / Lawton Theater",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #232 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Ajax Gym / Lawton Theater",
+"r": "Vice City – stunt #232 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-62b4683e",
+"k": "aktiv",
+"n": "Unter der Brücke: S-17 Canal Drawbridge Central",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #233 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: S-17 Canal Drawbridge Central",
+"r": "Vice City – stunt #233 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-f34b1158",
+"k": "aktiv",
+"n": "Unter der Brücke: Buckskin Swamp Channels",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #234 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Buckskin Swamp",
+"en": {
+"n": "Under the Bridge: Buckskin Swamp Channels",
+"r": "Port Gellhorn, Kelly County – stunt #234 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-2011c7bd",
+"k": "aktiv",
+"n": "Unter der Brücke: Leonida Canal Railroad",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #235 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Leonida Canal Railroad",
+"r": "Vice City, Vice-Dale County – stunt #235 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-a5468cd9",
+"k": "aktiv",
+"n": "Unter der Brücke: Washington Beach Footbridge",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #236 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Washington Beach",
+"en": {
+"n": "Under the Bridge: Washington Beach Footbridge",
+"r": "Vice City – stunt #236 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-bad41566",
+"k": "aktiv",
+"n": "Unter der Brücke: Raceway Stands",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #237 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Port Gellhorn",
+"en": {
+"n": "Under the Bridge: Raceway Stands",
+"r": "Port Gellhorn, Kelly County – stunt #237 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-a8f299b3",
+"k": "aktiv",
+"n": "Unter der Brücke: S-17 Canal Drawbridge South",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #238 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: S-17 Canal Drawbridge South",
+"r": "Vice City – stunt #238 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-69671262",
+"k": "aktiv",
+"n": "Unter der Brücke: Xero Billboard",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #239 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Xero Billboard",
+"r": "Port Gellhorn, Kelly County – stunt #239 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-65f1331a",
+"k": "aktiv",
+"n": "Unter der Brücke: Raceway Overpass Central",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #240 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Port Gellhorn",
+"en": {
+"n": "Under the Bridge: Raceway Overpass Central",
+"r": "Port Gellhorn, Kelly County – stunt #240 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-2ac4b9ca",
+"k": "aktiv",
+"n": "Unter der Brücke: Chepalle Billboard",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #241 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Chepalle Billboard",
+"r": "Port Gellhorn, Kelly County – stunt #241 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-0944b793",
+"k": "aktiv",
+"n": "Unter der Brücke: Leonida Canal Southwest",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #242 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Leonida Canal Southwest",
+"r": "Vice City, Vice-Dale County – stunt #242 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-5bfa5a18",
+"k": "aktiv",
+"n": "Unter der Brücke: Casanova Island Bridge",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #243 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Casanova Island Bridge",
+"r": "Vice City – stunt #243 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-d67b5780",
+"k": "aktiv",
+"n": "Unter der Brücke: Leonida Canal Southeast",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #244 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Leonida Canal Southeast",
+"r": "Vice City, Vice-Dale County – stunt #244 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-ed3ff6b3",
+"k": "aktiv",
+"n": "Unter der Brücke: Balsero Overpass East",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #245 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Balsero",
+"en": {
+"n": "Under the Bridge: Balsero Overpass East",
+"r": "Vice City – stunt #245 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-328daef2",
+"k": "aktiv",
+"n": "Unter der Brücke: Raceway Overpass South",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #246 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Port Gellhorn",
+"en": {
+"n": "Under the Bridge: Raceway Overpass South",
+"r": "Port Gellhorn, Kelly County – stunt #246 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-ea8827df",
+"k": "aktiv",
+"n": "Unter der Brücke: Leonida Power and Light",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #247 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Leonida Power and Light",
+"r": "Vice City, Vice-Dale County – stunt #247 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-c3650adc",
+"k": "aktiv",
+"n": "Unter der Brücke: RON Gas - Balsero",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #248 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Balsero",
+"en": {
+"n": "Under the Bridge: RON Gas - Balsero",
+"r": "Vice City – stunt #248 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-4da0c0b0",
+"k": "aktiv",
+"n": "Unter der Brücke: Rivo Bridge",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #249 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Rivo Bridge",
+"r": "Vice City – stunt #249 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-82e3f5ce",
+"k": "aktiv",
+"n": "Unter der Brücke: Fleeca Field Stadium",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #250 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Fleeca Field Stadium",
+"r": "Vice City – stunt #250 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-8ec2bc5d",
+"k": "aktiv",
+"n": "Unter der Brücke: Balsero Overpass North",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #251 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Balsero",
+"en": {
+"n": "Under the Bridge: Balsero Overpass North",
+"r": "Vice City, Vice-Dale County – stunt #251 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-26277102",
+"k": "aktiv",
+"n": "Unter der Brücke: S-17 Canal Swing Bridge",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #252 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: S-17 Canal Swing Bridge",
+"r": "Vice City, Vice-Dale County – stunt #252 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-83b7dcca",
+"k": "aktiv",
+"n": "Unter der Brücke: Buckskin Swamp Southeast",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #253 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Buckskin Swamp",
+"en": {
+"n": "Under the Bridge: Buckskin Swamp Southeast",
+"r": "Vice City, Vice-Dale County – stunt #253 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-312894c4",
+"k": "aktiv",
+"n": "Unter der Brücke: Buckskin Swamp Southwest",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #254 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Buckskin Swamp",
+"en": {
+"n": "Under the Bridge: Buckskin Swamp Southwest",
+"r": "Port Gellhorn, Kelly County – stunt #254 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-e1537ace",
+"k": "aktiv",
+"n": "Unter der Brücke: Omega Parkway",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #255 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Omega Parkway",
+"r": "Vice City, Vice-Dale County – stunt #255 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-00923558",
+"k": "aktiv",
+"n": "Unter der Brücke: Tisha-Wocka Flea Market East",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #256 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tisha-Wocka",
+"en": {
+"n": "Under the Bridge: Tisha-Wocka Flea Market East",
+"r": "Vice City, Vice-Dale County – stunt #256 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-a6d59771",
+"k": "aktiv",
+"n": "Unter der Brücke: Tisha-Wocka Flea Market Central",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #257 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tisha-Wocka",
+"en": {
+"n": "Under the Bridge: Tisha-Wocka Flea Market Central",
+"r": "Vice City, Vice-Dale County – stunt #257 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-33e1674b",
+"k": "aktiv",
+"n": "Unter der Brücke: Tisha-Wocka Flea Market West",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #258 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tisha-Wocka",
+"en": {
+"n": "Under the Bridge: Tisha-Wocka Flea Market West",
+"r": "Vice City, Vice-Dale County – stunt #258 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-e08c1e45",
+"k": "aktiv",
+"n": "Unter der Brücke: Balsero Overpass Central",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #259 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Balsero",
+"en": {
+"n": "Under the Bridge: Balsero Overpass Central",
+"r": "Vice City, Vice-Dale County – stunt #259 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-cc06f06b",
+"k": "aktiv",
+"n": "Unter der Brücke: Balsero Overpass West",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #260 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Balsero",
+"en": {
+"n": "Under the Bridge: Balsero Overpass West",
+"r": "Vice City, Vice-Dale County – stunt #260 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-2fcaf52a",
+"k": "aktiv",
+"n": "Unter der Brücke: Capri Bay Railroad",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #261 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Capri",
+"en": {
+"n": "Under the Bridge: Capri Bay Railroad",
+"r": "Leonida Keys, Mariana County – stunt #261 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-2abba6ff",
+"k": "aktiv",
+"n": "Unter der Brücke: Leonida Auto World",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #262 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Leonida Auto World",
+"r": "Vice City, Vice-Dale County – stunt #262 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-f8fbe841",
+"k": "aktiv",
+"n": "Unter der Brücke: South Kelly County Overpass",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #263 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: South Kelly County Overpass",
+"r": "Port Gellhorn, Kelly County – stunt #263 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-fed28c05",
+"k": "aktiv",
+"n": "Unter der Brücke: Capri Island",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #264 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Capri",
+"en": {
+"n": "Under the Bridge: Capri Island",
+"r": "Leonida Keys, Mariana County – stunt #264 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-2c3c6341",
+"k": "aktiv",
+"n": "Unter der Brücke: Macalister Causeway",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #265 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Macalister Causeway",
+"r": "Vice City – stunt #265 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-eb9ad980",
+"k": "aktiv",
+"n": "Unter der Brücke: Vice River North",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #266 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Vice River North",
+"r": "Vice City – stunt #266 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-e8b68854",
+"k": "aktiv",
+"n": "Unter der Brücke: Tisha-Wocka Flea Market Bridge",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #267 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tisha-Wocka",
+"en": {
+"n": "Under the Bridge: Tisha-Wocka Flea Market Bridge",
+"r": "Vice City, Vice-Dale County – stunt #267 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-f191b54c",
+"k": "aktiv",
+"n": "Unter der Brücke: Muspachee River East",
+"typ": "Unter-Brücke",
+"r": "Vice City, West Vice-Dale County – Stunt #268 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Muspachee River East",
+"r": "Vice City, West Vice-Dale County – stunt #268 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-f820e8b7",
+"k": "aktiv",
+"n": "Unter der Brücke: Emerald Bridge",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #269 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Emerald Bridge",
+"r": "Leonida Keys, Mariana County – stunt #269 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-1aefa2a7",
+"k": "aktiv",
+"n": "Unter der Brücke: Muspachee River West",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #270 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Muspachee River West",
+"r": "Port Gellhorn, Kelly County – stunt #270 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-004f6032",
+"k": "aktiv",
+"n": "Unter der Brücke: Cargo Road",
+"typ": "Unter-Brücke",
+"r": "Vice City, West Vice-Dale County – Stunt #271 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Cargo Road",
+"r": "Vice City, West Vice-Dale County – stunt #271 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-ecc5dffa",
+"k": "aktiv",
+"n": "Unter der Brücke: Salton Overpass",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #272 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Salton",
+"en": {
+"n": "Under the Bridge: Salton Overpass",
+"r": "Vice City, Vice-Dale County – stunt #272 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-47a18fb1",
+"k": "aktiv",
+"n": "Unter der Brücke: West Vice-Dale County North",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #273 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "West Vice-Dale",
+"en": {
+"n": "Under the Bridge: West Vice-Dale County North",
+"r": "Vice City, Vice-Dale County – stunt #273 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-55701aa0",
+"k": "aktiv",
+"n": "Unter der Brücke: West Vice-Dale County Northeast",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #274 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "West Vice-Dale",
+"en": {
+"n": "Under the Bridge: West Vice-Dale County Northeast",
+"r": "Vice City, Vice-Dale County – stunt #274 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-beb26f15",
+"k": "aktiv",
+"n": "Unter der Brücke: Starfish Island",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #275 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Starfish Island",
+"r": "Vice City – stunt #275 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-a38b05b5",
+"k": "aktiv",
+"n": "Unter der Brücke: West Vice-Dale County South",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #276 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "West Vice-Dale",
+"en": {
+"n": "Under the Bridge: West Vice-Dale County South",
+"r": "Vice City, Vice-Dale County – stunt #276 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-22746c59",
+"k": "aktiv",
+"n": "Unter der Brücke: Waxman Island East",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #277 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Waxman Island East",
+"r": "Vice City – stunt #277 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-4ab901bc",
+"k": "aktiv",
+"n": "Unter der Brücke: Vice River South",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #278 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Vice River South",
+"r": "Vice City – stunt #278 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-7f48f31e",
+"k": "aktiv",
+"n": "Unter der Brücke: Terrapin Road",
+"typ": "Unter-Brücke",
+"r": "Port Gellhorn, Kelly County – Stunt #279 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Terrapin Road",
+"r": "Port Gellhorn, Kelly County – stunt #279 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-397430cd",
+"k": "aktiv",
+"n": "Unter der Brücke: West Royale Street",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #280 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: West Royale Street",
+"r": "Vice City – stunt #280 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-871fc4a1",
+"k": "aktiv",
+"n": "Unter der Brücke: Nehrling River Railroad",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #281 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Nehrling River Railroad",
+"r": "Leonida Keys, Mariana County – stunt #281 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-82845420",
+"k": "aktiv",
+"n": "Unter der Brücke: Nehrling River West",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #282 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Nehrling River West",
+"r": "Leonida Keys, Mariana County – stunt #282 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-72b263c6",
+"k": "aktiv",
+"n": "Unter der Brücke: Port VC Bridge",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #283 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Port Vice City",
+"en": {
+"n": "Under the Bridge: Port VC Bridge",
+"r": "Vice City – stunt #283 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-955079e2",
+"k": "aktiv",
+"n": "Unter der Brücke: Nehrling River East",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #284 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Nehrling River East",
+"r": "Leonida Keys, Mariana County – stunt #284 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-8b5062a2",
+"k": "aktiv",
+"n": "Unter der Brücke: Caprice City Canal",
+"typ": "Unter-Brücke",
+"r": "Vice City, West Vice-Dale County – Stunt #285 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Capri",
+"en": {
+"n": "Under the Bridge: Caprice City Canal",
+"r": "Vice City, West Vice-Dale County – stunt #285 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-d53fb2d9",
+"k": "aktiv",
+"n": "Unter der Brücke: Downtown Southeast",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #286 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Downtown",
+"en": {
+"n": "Under the Bridge: Downtown Southeast",
+"r": "Vice City – stunt #286 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-0f50b260",
+"k": "aktiv",
+"n": "Unter der Brücke: Downtown Southwest",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #287 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Downtown",
+"en": {
+"n": "Under the Bridge: Downtown Southwest",
+"r": "Vice City – stunt #287 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-91e9600c",
+"k": "aktiv",
+"n": "Unter der Brücke: Bobcat Key North",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #288 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Bobcat Key",
+"en": {
+"n": "Under the Bridge: Bobcat Key North",
+"r": "Leonida Keys, Mariana County – stunt #288 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-94f0cb70",
+"k": "aktiv",
+"n": "Unter der Brücke: Gloriana Key North",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #289 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Gloriana Key",
+"en": {
+"n": "Under the Bridge: Gloriana Key North",
+"r": "Vice City – stunt #289 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-89c05f1b",
+"k": "aktiv",
+"n": "Unter der Brücke: Breakwater Quarry",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #290 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Breakwater Quarry",
+"r": "Leonida Keys, Mariana County – stunt #290 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-eb4588a0",
+"k": "aktiv",
+"n": "Unter der Brücke: Tequesta Bridge",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #291 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tequesta",
+"en": {
+"n": "Under the Bridge: Tequesta Bridge",
+"r": "Vice City – stunt #291 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-43efb216",
+"k": "aktiv",
+"n": "Unter der Brücke: Seabell Avenue",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #292 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Seabell Avenue",
+"r": "Vice City, Vice-Dale County – stunt #292 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-9ffab986",
+"k": "aktiv",
+"n": "Unter der Brücke: North Mariana County Railroad West",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #293 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Mariana County Railroad West",
+"r": "Leonida Keys, Mariana County – stunt #293 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-40387e9b",
+"k": "aktiv",
+"n": "Unter der Brücke: Catalan Key East",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #294 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Catalan Key East",
+"r": "Vice City, Vice-Dale County – stunt #294 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-c9f64643",
+"k": "aktiv",
+"n": "Unter der Brücke: Goliath Global Quarry",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #295 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Goliath Global Quarry",
+"r": "Leonida Keys, Mariana County – stunt #295 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-c2fd5f0b",
+"k": "aktiv",
+"n": "Unter der Brücke: Catalan Key West",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #296 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Catalan Key West",
+"r": "Vice City – stunt #296 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-ce7300d9",
+"k": "aktiv",
+"n": "Unter der Brücke: Fuzzard Drain Canal Railroad East",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #297 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Fuzzard Drain Canal Railroad East",
+"r": "Vice City – stunt #297 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-58b0717a",
+"k": "aktiv",
+"n": "Unter der Brücke: Bluegrass North",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #298 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Bluegrass North",
+"r": "Vice City, Vice-Dale County – stunt #298 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-550ae628",
+"k": "aktiv",
+"n": "Unter der Brücke: SND Station Footbridge",
+"typ": "Unter-Brücke",
+"r": "nördlich von Grassrivers – Stunt #299 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: SND Station Footbridge",
+"r": "north of Grassrivers – stunt #299 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-b9193cf8",
+"k": "aktiv",
+"n": "Unter der Brücke: Southside West",
+"typ": "Unter-Brücke",
+"r": "Vice City – Stunt #300 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Southside West",
+"r": "Vice City – stunt #300 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-99f8914e",
+"k": "aktiv",
+"n": "Unter der Brücke: Bluegrass Railroad Bridge",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #301 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Bluegrass Railroad Bridge",
+"r": "Vice City, Vice-Dale County – stunt #301 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-73e2d432",
+"k": "aktiv",
+"n": "Unter der Brücke: Gloriana Key West",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #302 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Gloriana Key",
+"en": {
+"n": "Under the Bridge: Gloriana Key West",
+"r": "Vice City, Vice-Dale County – stunt #302 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-c0787cde",
+"k": "aktiv",
+"n": "Unter der Brücke: Fuzzard Drain Canal",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #303 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Fuzzard Drain Canal",
+"r": "Vice City, Vice-Dale County – stunt #303 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-24f3153a",
+"k": "aktiv",
+"n": "Unter der Brücke: Fuzzard Drain Canal Railroad West",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #304 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Fuzzard Drain Canal Railroad West",
+"r": "Vice City, Vice-Dale County – stunt #304 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-acd82028",
+"k": "aktiv",
+"n": "Unter der Brücke: North Mariana County Railroad Southeast",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys – Stunt #305 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Mariana County Railroad Southeast",
+"r": "Leonida Keys – stunt #305 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-3363816b",
+"k": "aktiv",
+"n": "Unter der Brücke: North Mariana County Railroad Southwest",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys – Stunt #306 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Mariana County Railroad Southwest",
+"r": "Leonida Keys – stunt #306 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-5fee686b",
+"k": "aktiv",
+"n": "Unter der Brücke: Bobcat Key Central",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #307 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Bobcat Key",
+"en": {
+"n": "Under the Bridge: Bobcat Key Central",
+"r": "Leonida Keys, Mariana County – stunt #307 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-39dbf871",
+"k": "aktiv",
+"n": "Unter der Brücke: North Mariana County Overpass",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys – Stunt #308 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Mariana County Overpass",
+"r": "Leonida Keys – stunt #308 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-3489d18c",
+"k": "aktiv",
+"n": "Unter der Brücke: Bluegrass South",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #309 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Bluegrass South",
+"r": "Vice City, Vice-Dale County – stunt #309 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-99ee90eb",
+"k": "aktiv",
+"n": "Unter der Brücke: South Vice-Dale County Overpass",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #310 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: South Vice-Dale County Overpass",
+"r": "Vice City, Vice-Dale County – stunt #310 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-b41a5706",
+"k": "aktiv",
+"n": "Unter der Brücke: North Watson Bay",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys – Stunt #311 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Watson Bay",
+"en": {
+"n": "Under the Bridge: North Watson Bay",
+"r": "Leonida Keys – stunt #311 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-997ac44f",
+"k": "aktiv",
+"n": "Unter der Brücke: East Big Pine",
+"typ": "Unter-Brücke",
+"r": "Region in der Liste nicht angegeben – Name auf der Karte (Erkundung > Stunt Spots) suchen – Stunt #312 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Big Pine",
+"en": {
+"n": "Under the Bridge: East Big Pine",
+"r": "Region not given in list – find by name on map (Exploration > Stunt Spots) – stunt #312 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-b23dc9f2",
+"k": "aktiv",
+"n": "Unter der Brücke: Pelican River",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #313 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Pelican River",
+"r": "Vice City, Vice-Dale County – stunt #313 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-687e1896",
+"k": "aktiv",
+"n": "Unter der Brücke: Catalan Key South",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #314 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Catalan Key South",
+"r": "Vice City, Vice-Dale County – stunt #314 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-95736131",
+"k": "aktiv",
+"n": "Unter der Brücke: Gavin's Creek West",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #315 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Gavin's Creek West",
+"r": "Leonida Keys, Mariana County – stunt #315 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-4a25530c",
+"k": "aktiv",
+"n": "Unter der Brücke: Bobcat Key South",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #316 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Bobcat Key",
+"en": {
+"n": "Under the Bridge: Bobcat Key South",
+"r": "Leonida Keys, Mariana County – stunt #316 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-50844695",
+"k": "aktiv",
+"n": "Unter der Brücke: Atlee River",
+"typ": "Unter-Brücke",
+"r": "Region in der Liste nicht angegeben – Name auf der Karte (Erkundung > Stunt Spots) suchen – Stunt #317 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Atlee River",
+"r": "Region not given in list – find by name on map (Exploration > Stunt Spots) – stunt #317 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-9820cfe6",
+"k": "aktiv",
+"n": "Unter der Brücke: Emory Avenue",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #318 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Emory Avenue",
+"r": "Vice City, Vice-Dale County – stunt #318 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-04a51f25",
+"k": "aktiv",
+"n": "Unter der Brücke: Gavin's Creek East",
+"typ": "Unter-Brücke",
+"r": "Region in der Liste nicht angegeben – Name auf der Karte (Erkundung > Stunt Spots) suchen – Stunt #319 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Gavin's Creek East",
+"r": "Region not given in list – find by name on map (Exploration > Stunt Spots) – stunt #319 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-19868d23",
+"k": "aktiv",
+"n": "Unter der Brücke: East Watson Bay",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys – Stunt #320 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Watson Bay",
+"en": {
+"n": "Under the Bridge: East Watson Bay",
+"r": "Leonida Keys – stunt #320 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-eb139188",
+"k": "aktiv",
+"n": "Unter der Brücke: North Isla Maldia",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #321 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: North Isla Maldia",
+"r": "Vice City, Vice-Dale County – stunt #321 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-e0b49b48",
+"k": "aktiv",
+"n": "Unter der Brücke: Watson Bay",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys – Stunt #322 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Watson Bay",
+"en": {
+"n": "Under the Bridge: Watson Bay",
+"r": "Leonida Keys – stunt #322 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-d474b29b",
+"k": "aktiv",
+"n": "Unter der Brücke: Hamlet Overpass",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #323 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Hamlet",
+"en": {
+"n": "Under the Bridge: Hamlet Overpass",
+"r": "Vice City, Vice-Dale County – stunt #323 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-0eb49778",
+"k": "aktiv",
+"n": "Unter der Brücke: Bright Maw Pass",
+"typ": "Unter-Brücke",
+"r": "Vice City, Vice-Dale County – Stunt #324 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Bright Maw Pass",
+"r": "Vice City, Vice-Dale County – stunt #324 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-505b1ac6",
+"k": "aktiv",
+"n": "Unter der Brücke: Isla Maldia",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #325 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Isla Maldia",
+"r": "Leonida Keys, Mariana County – stunt #325 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-26be11bb",
+"k": "aktiv",
+"n": "Unter der Brücke: South Isla Maldia",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #326 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: South Isla Maldia",
+"r": "Leonida Keys, Mariana County – stunt #326 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-780bec50",
+"k": "aktiv",
+"n": "Unter der Brücke: Lento Causeway",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #327 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Key Lento",
+"en": {
+"n": "Under the Bridge: Lento Causeway",
+"r": "Leonida Keys, Mariana County – stunt #327 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-fe1f116d",
+"k": "aktiv",
+"n": "Unter der Brücke: Old Fort Road Bridge",
+"typ": "Unter-Brücke",
+"r": "Grassrivers – Stunt #328 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Grassrivers",
+"en": {
+"n": "Under the Bridge: Old Fort Road Bridge",
+"r": "Grassrivers – stunt #328 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-bcdda11d",
+"k": "aktiv",
+"n": "Unter der Brücke: North Key Lento",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #329 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Key Lento",
+"en": {
+"n": "Under the Bridge: North Key Lento",
+"r": "Leonida Keys, Mariana County – stunt #329 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-7ef837cf",
+"k": "aktiv",
+"n": "Unter der Brücke: Permit Causeway",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #330 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Permit Keys",
+"en": {
+"n": "Under the Bridge: Permit Causeway",
+"r": "Leonida Keys, Mariana County – stunt #330 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-e64a2f4d",
+"k": "aktiv",
+"n": "Unter der Brücke: Keylime Causeway",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #331 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Keylime Causeway",
+"r": "Leonida Keys, Mariana County – stunt #331 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-bebba8bb",
+"k": "aktiv",
+"n": "Unter der Brücke: Saltrock Bridge",
+"typ": "Unter-Brücke",
+"r": "Leonida Keys, Mariana County – Stunt #332 der Stunt-Liste",
+"t": "Mit einem Flugzeug unter der Brücke durchfliegen. Icon auf der Karte (Erkundung > Stunt Spots) zeigt die Anforderung.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Under the Bridge: Saltrock Bridge",
+"r": "Leonida Keys, Mariana County – stunt #332 in the stunt list",
+"t": "Fly a plane under the bridge. The map icon (Exploration > Stunt Spots) shows the requirement."
+}
+},
+{
+"id": "v9-3bc10a73",
+"k": "aktiv",
+"n": "Messerflug: Brandy Carmine",
+"typ": "Messerflug",
+"r": "Vice City, Washington Beach – Stunt #333",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Washington Beach",
+"en": {
+"n": "Knife Flight: Brandy Carmine",
+"r": "Vice City, Washington Beach – stunt #333",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-a9828940",
+"k": "aktiv",
+"n": "Messerflug: Maison Estaque",
+"typ": "Messerflug",
+"r": "Vice City, Washington Beach – Stunt #334",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Washington Beach",
+"en": {
+"n": "Knife Flight: Maison Estaque",
+"r": "Vice City, Washington Beach – stunt #334",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-6b45d1cc",
+"k": "aktiv",
+"n": "Messerflug: The Wash Haus",
+"typ": "Messerflug",
+"r": "Vice City, Washington Beach – Stunt #335",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Washington Beach",
+"en": {
+"n": "Knife Flight: The Wash Haus",
+"r": "Vice City, Washington Beach – stunt #335",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-11a75847",
+"k": "aktiv",
+"n": "Messerflug: Jia Luxury Condos",
+"typ": "Messerflug",
+"r": "Vice City, Washington Beach – Stunt #336",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Washington Beach",
+"en": {
+"n": "Knife Flight: Jia Luxury Condos",
+"r": "Vice City, Washington Beach – stunt #336",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-a2c1e873",
+"k": "aktiv",
+"n": "Messerflug: The Zaffre",
+"typ": "Messerflug",
+"r": "Vice City, Washington Beach – Stunt #337",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Washington Beach",
+"en": {
+"n": "Knife Flight: The Zaffre",
+"r": "Vice City, Washington Beach – stunt #337",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-2223494d",
+"k": "aktiv",
+"n": "Messerflug: Lampedusa",
+"typ": "Messerflug",
+"r": "Vice City, südöstlich von Washington Beach – Stunt #338",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: Lampedusa",
+"r": "Vice City, south-east of Washington Beach – stunt #338",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-1835c9ef",
+"k": "aktiv",
+"n": "Messerflug: Tidemark",
+"typ": "Messerflug",
+"r": "Vice City, Crosstown – Stunt #339",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Crosstown",
+"en": {
+"n": "Knife Flight: Tidemark",
+"r": "Vice City, Crosstown – stunt #339",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-a8382ad5",
+"k": "aktiv",
+"n": "Messerflug: Archipelago Apartments",
+"typ": "Messerflug",
+"r": "Vice City, Crosstown – Stunt #340",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Crosstown",
+"en": {
+"n": "Knife Flight: Archipelago Apartments",
+"r": "Vice City, Crosstown – stunt #340",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-71199251",
+"k": "aktiv",
+"n": "Messerflug: The Amalfi",
+"typ": "Messerflug",
+"r": "Vice City, Ocean Beach – Stunt #341",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Ocean Beach",
+"en": {
+"n": "Knife Flight: The Amalfi",
+"r": "Vice City, Ocean Beach – stunt #341",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-50b49067",
+"k": "aktiv",
+"n": "Messerflug: Aida Towers",
+"typ": "Messerflug",
+"r": "Vice City, Bayside – Stunt #342",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Bayside",
+"en": {
+"n": "Knife Flight: Aida Towers",
+"r": "Vice City, Bayside – stunt #342",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-42d317d7",
+"k": "aktiv",
+"n": "Messerflug: Flora Hotel",
+"typ": "Messerflug",
+"r": "Vice City, südwestlich von Bayside – Stunt #343",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: Flora Hotel",
+"r": "Vice City, south-west of Bayside – stunt #343",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-1709eabc",
+"k": "aktiv",
+"n": "Messerflug: Derwent Towers",
+"typ": "Messerflug",
+"r": "Vice City, südwestlich von Bayside – Stunt #344",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: Derwent Towers",
+"r": "Vice City, south-west of Bayside – stunt #344",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-7f6d36a6",
+"k": "aktiv",
+"n": "Messerflug: Nauticus Condominiums",
+"typ": "Messerflug",
+"r": "Vice City, südwestlich von Bayside – Stunt #345",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: Nauticus Condominiums",
+"r": "Vice City, south-west of Bayside – stunt #345",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-d05ee8f8",
+"k": "aktiv",
+"n": "Messerflug: Harrison Harbor",
+"typ": "Messerflug",
+"r": "Vice City, Ocean Beach – Stunt #346",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Ocean Beach",
+"en": {
+"n": "Knife Flight: Harrison Harbor",
+"r": "Vice City, Ocean Beach – stunt #346",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-f8b0ea94",
+"k": "aktiv",
+"n": "Messerflug: Arcadia Towers Apartments",
+"typ": "Messerflug",
+"r": "Vice City, Downtown – Stunt #347",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Downtown",
+"en": {
+"n": "Knife Flight: Arcadia Towers Apartments",
+"r": "Vice City, Downtown – stunt #347",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-02806097",
+"k": "aktiv",
+"n": "Messerflug: Leonida Point Apartments",
+"typ": "Messerflug",
+"r": "Vice City, Downtown – Stunt #348",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Downtown",
+"en": {
+"n": "Knife Flight: Leonida Point Apartments",
+"r": "Vice City, Downtown – stunt #348",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-274cebe0",
+"k": "aktiv",
+"n": "Messerflug: Positano Towers",
+"typ": "Messerflug",
+"r": "Vice City, Ocean Beach – Stunt #349",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Ocean Beach",
+"en": {
+"n": "Knife Flight: Positano Towers",
+"r": "Vice City, Ocean Beach – stunt #349",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-7619f92f",
+"k": "aktiv",
+"n": "Messerflug: LNB HQ",
+"typ": "Messerflug",
+"r": "Vice City, Downtown – Stunt #350",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Downtown",
+"en": {
+"n": "Knife Flight: LNB HQ",
+"r": "Vice City, Downtown – stunt #350",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-b6eb1d45",
+"k": "aktiv",
+"n": "Messerflug: PJ Butlin Baron",
+"typ": "Messerflug",
+"r": "Vice City, südlich von Downtown – Stunt #351",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: PJ Butlin Baron",
+"r": "Vice City, south of Downtown – stunt #351",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-25e3cc05",
+"k": "aktiv",
+"n": "Messerflug: Moon",
+"typ": "Messerflug",
+"r": "Vice City, südlich von Downtown – Stunt #352",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: Moon",
+"r": "Vice City, south of Downtown – stunt #352",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-d77a9863",
+"k": "aktiv",
+"n": "Messerflug: Shorefront HQ",
+"typ": "Messerflug",
+"r": "Vice City, südöstlich von Downtown – Stunt #353",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: Shorefront HQ",
+"r": "Vice City, south-east of Downtown – stunt #353",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-156a2e5e",
+"k": "aktiv",
+"n": "Messerflug: The Clarissa Hotel North",
+"typ": "Messerflug",
+"r": "Vice City, südlich von Shoreline – Stunt #354",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: The Clarissa Hotel North",
+"r": "Vice City, south of Shoreline – stunt #354",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-f0c212ea",
+"k": "aktiv",
+"n": "Messerflug: Rico Huxley Hotels",
+"typ": "Messerflug",
+"r": "Vice City, südlich von Downtown – Stunt #355",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: Rico Huxley Hotels",
+"r": "Vice City, south of Downtown – stunt #355",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-fa9776d2",
+"k": "aktiv",
+"n": "Messerflug: The Clarissa Hotel East",
+"typ": "Messerflug",
+"r": "Vice City, südöstlich von Downtown – Stunt #356",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: The Clarissa Hotel East",
+"r": "Vice City, south-east of Downtown – stunt #356",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-f284082a",
+"k": "aktiv",
+"n": "Messerflug: The Clarissa Hotel South",
+"typ": "Messerflug",
+"r": "Vice City, südlich von Shoreline – Stunt #357",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: The Clarissa Hotel South",
+"r": "Vice City, south of Shoreline – stunt #357",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-644625e2",
+"k": "aktiv",
+"n": "Messerflug: BAM1 Condominiums",
+"typ": "Messerflug",
+"r": "Vice City, nördlich von Tequesta – Stunt #358",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: BAM1 Condominiums",
+"r": "Vice City, north of Tequesta – stunt #358",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-95d54cfa",
+"k": "aktiv",
+"n": "Messerflug: Tequesta on the Water Apartments",
+"typ": "Messerflug",
+"r": "Vice City, Tequesta – Stunt #359",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tequesta",
+"en": {
+"n": "Knife Flight: Tequesta on the Water Apartments",
+"r": "Vice City, Tequesta – stunt #359",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-0c2869bd",
+"k": "aktiv",
+"n": "Messerflug: Tequesta Tides Hotel & Spa North",
+"typ": "Messerflug",
+"r": "Vice City, nordöstlich von Tequesta – Stunt #360",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: Tequesta Tides Hotel & Spa North",
+"r": "Vice City, north-east of Tequesta – stunt #360",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-bb60eb29",
+"k": "aktiv",
+"n": "Messerflug: Neo Paloma Apartments",
+"typ": "Messerflug",
+"r": "Vice City, Tequesta – Stunt #361",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tequesta",
+"en": {
+"n": "Knife Flight: Neo Paloma Apartments",
+"r": "Vice City, Tequesta – stunt #361",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-76898d40",
+"k": "aktiv",
+"n": "Messerflug: Aurum Condominiums",
+"typ": "Messerflug",
+"r": "Vice City, Tequesta – Stunt #362",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tequesta",
+"en": {
+"n": "Knife Flight: Aurum Condominiums",
+"r": "Vice City, Tequesta – stunt #362",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-85868c06",
+"k": "aktiv",
+"n": "Messerflug: Tequesta Tides Hotel & Spa South",
+"typ": "Messerflug",
+"r": "Vice City, nordöstlich von Tequesta – Stunt #363",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: Tequesta Tides Hotel & Spa South",
+"r": "Vice City, north-east of Tequesta – stunt #363",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-baf8689a",
+"k": "aktiv",
+"n": "Messerflug: One Stracathro Tower",
+"typ": "Messerflug",
+"r": "Vice City, Tequesta – Stunt #364",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tequesta",
+"en": {
+"n": "Knife Flight: One Stracathro Tower",
+"r": "Vice City, Tequesta – stunt #364",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-b92b65c6",
+"k": "aktiv",
+"n": "Messerflug: Dock of the Bay Condominiums",
+"typ": "Messerflug",
+"r": "Vice City, Tequesta – Stunt #365",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tequesta",
+"en": {
+"n": "Knife Flight: Dock of the Bay Condominiums",
+"r": "Vice City, Tequesta – stunt #365",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-e1a7ffa0",
+"k": "aktiv",
+"n": "Messerflug: Grand Majestic Aparthotel",
+"typ": "Messerflug",
+"r": "Vice City, südwestlich von Tequesta – Stunt #366",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Knife Flight: Grand Majestic Aparthotel",
+"r": "Vice City, south-west of Tequesta – stunt #366",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-b4633804",
+"k": "aktiv",
+"n": "Messerflug: The Fitz-Gerald North",
+"typ": "Messerflug",
+"r": "Vice City, Peacock Bay – Stunt #367",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Peacock Bay",
+"en": {
+"n": "Knife Flight: The Fitz-Gerald North",
+"r": "Vice City, Peacock Bay – stunt #367",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-62517519",
+"k": "aktiv",
+"n": "Messerflug: Peacock Bay Luxury Condominiums East",
+"typ": "Messerflug",
+"r": "Vice City, Peacock Bay – Stunt #368",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Peacock Bay",
+"en": {
+"n": "Knife Flight: Peacock Bay Luxury Condominiums East",
+"r": "Vice City, Peacock Bay – stunt #368",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-b33f8ff7",
+"k": "aktiv",
+"n": "Messerflug: The Fitz-Gerald",
+"typ": "Messerflug",
+"r": "Vice City, Peacock Bay – Stunt #369",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Peacock Bay",
+"en": {
+"n": "Knife Flight: The Fitz-Gerald",
+"r": "Vice City, Peacock Bay – stunt #369",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-d59af7b0",
+"k": "aktiv",
+"n": "Messerflug: Peacock Bay Luxury Condominiums North",
+"typ": "Messerflug",
+"r": "Vice City, Peacock Bay – Stunt #370",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Peacock Bay",
+"en": {
+"n": "Knife Flight: Peacock Bay Luxury Condominiums North",
+"r": "Vice City, Peacock Bay – stunt #370",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-061094ea",
+"k": "aktiv",
+"n": "Messerflug: The Fitz-Gerald South",
+"typ": "Messerflug",
+"r": "Vice City, Peacock Bay – Stunt #371",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Peacock Bay",
+"en": {
+"n": "Knife Flight: The Fitz-Gerald South",
+"r": "Vice City, Peacock Bay – stunt #371",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-fb862134",
+"k": "aktiv",
+"n": "Messerflug: Peacock Bay Luxury Condominiums South",
+"typ": "Messerflug",
+"r": "Vice City, Peacock Bay – Stunt #372",
+"t": "Mit dem Flugzeug seitlich gekippt (Messerflug) zwischen den Türmen hindurchfliegen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Peacock Bay",
+"en": {
+"n": "Knife Flight: Peacock Bay Luxury Condominiums South",
+"r": "Vice City, Peacock Bay – stunt #372",
+"t": "Fly sideways (knife-edge) between the towers in a plane."
+}
+},
+{
+"id": "v9-891cd1ce",
+"k": "aktiv",
+"n": "BASE-Sprung: Kalaga Outcrop",
+"typ": "BASE-Sprung",
+"r": "Mount-Kalaga-Nationalpark, Lummox County; südlich von Moreau – Stunt #373",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Mount Kalaga",
+"en": {
+"n": "Base Jump: Kalaga Outcrop",
+"r": "Mount Kalaga National Park, Lummox County; south of Moreau – stunt #373",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-6a445981",
+"k": "aktiv",
+"n": "BASE-Sprung: Mount Kalaga",
+"typ": "BASE-Sprung",
+"r": "Mount-Kalaga-Nationalpark, Lummox County – Stunt #374",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Mount Kalaga",
+"en": {
+"n": "Base Jump: Mount Kalaga",
+"r": "Mount Kalaga National Park, Lummox County – stunt #374",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-9c57ceb9",
+"k": "aktiv",
+"n": "BASE-Sprung: Providence Canyon Antenna Mast",
+"typ": "BASE-Sprung",
+"r": "Mount-Kalaga-Nationalpark, South West Lummox County – Stunt #375",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: Providence Canyon Antenna Mast",
+"r": "Mount Kalaga National Park, South West Lummox County – stunt #375",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-e8264696",
+"k": "aktiv",
+"n": "BASE-Sprung: Crimson Palms",
+"typ": "BASE-Sprung",
+"r": "Washington Beach, Vice City – Stunt #376",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Washington Beach",
+"en": {
+"n": "Base Jump: Crimson Palms",
+"r": "Washington Beach, Vice City – stunt #376",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-0749c9d2",
+"k": "aktiv",
+"n": "BASE-Sprung: La Villette",
+"typ": "BASE-Sprung",
+"r": "Washington Beach, Vice City – Stunt #377",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Washington Beach",
+"en": {
+"n": "Base Jump: La Villette",
+"r": "Washington Beach, Vice City – stunt #377",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-cb063969",
+"k": "aktiv",
+"n": "BASE-Sprung: Archipelago Apartments North",
+"typ": "BASE-Sprung",
+"r": "Crosstown, Vice City – Stunt #378",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Crosstown",
+"en": {
+"n": "Base Jump: Archipelago Apartments North",
+"r": "Crosstown, Vice City – stunt #378",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-d2e8cc5c",
+"k": "aktiv",
+"n": "BASE-Sprung: One Stracathro Tower",
+"typ": "BASE-Sprung",
+"r": "Crosstown, Vice City – Stunt #379",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Crosstown",
+"en": {
+"n": "Base Jump: One Stracathro Tower",
+"r": "Crosstown, Vice City – stunt #379",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-d9a3057e",
+"k": "aktiv",
+"n": "BASE-Sprung: The Sumerian",
+"typ": "BASE-Sprung",
+"r": "Bayside, Vice City – Stunt #380",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Bayside",
+"en": {
+"n": "Base Jump: The Sumerian",
+"r": "Bayside, Vice City – stunt #380",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-97af533c",
+"k": "aktiv",
+"n": "BASE-Sprung: Maven Residences",
+"typ": "BASE-Sprung",
+"r": "südwestlich von Bayside, Vice City – Stunt #381",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: Maven Residences",
+"r": "south-west of Bayside, Vice City – stunt #381",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-64921c98",
+"k": "aktiv",
+"n": "BASE-Sprung: Arcadia Towers East",
+"typ": "BASE-Sprung",
+"r": "Downtown, Vice City – Stunt #382",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Downtown",
+"en": {
+"n": "Base Jump: Arcadia Towers East",
+"r": "Downtown, Vice City – stunt #382",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-e376597d",
+"k": "aktiv",
+"n": "BASE-Sprung: Arcadia Towers South",
+"typ": "BASE-Sprung",
+"r": "Downtown, Vice City – Stunt #383",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Downtown",
+"en": {
+"n": "Base Jump: Arcadia Towers South",
+"r": "Downtown, Vice City – stunt #383",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-4830090c",
+"k": "aktiv",
+"n": "BASE-Sprung: Vice Civic Center",
+"typ": "BASE-Sprung",
+"r": "Little Cuba, Vice City – Stunt #384",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Little Cuba",
+"en": {
+"n": "Base Jump: Vice Civic Center",
+"r": "Little Cuba, Vice City – stunt #384",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-bed2af20",
+"k": "aktiv",
+"n": "BASE-Sprung: Valdemar on the River",
+"typ": "BASE-Sprung",
+"r": "südlich von Little Cuba, Vice City – Stunt #385",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: Valdemar on the River",
+"r": "south of Little Cuba, Vice City – stunt #385",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-3f4fba79",
+"k": "aktiv",
+"n": "BASE-Sprung: High Life Hotel",
+"typ": "BASE-Sprung",
+"r": "Ocean Beach, Vice City – Stunt #386",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Ocean Beach",
+"en": {
+"n": "Base Jump: High Life Hotel",
+"r": "Ocean Beach, Vice City – stunt #386",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-7922febb",
+"k": "aktiv",
+"n": "BASE-Sprung: Heath Bank",
+"typ": "BASE-Sprung",
+"r": "südlich von Downtown, Vice City – Stunt #387",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: Heath Bank",
+"r": "south of Downtown, Vice City – stunt #387",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-ed577cb1",
+"k": "aktiv",
+"n": "BASE-Sprung: Pike Financial Center",
+"typ": "BASE-Sprung",
+"r": "südlich von Downtown, Vice City – Stunt #388",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: Pike Financial Center",
+"r": "south of Downtown, Vice City – stunt #388",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-54f4cc2a",
+"k": "aktiv",
+"n": "BASE-Sprung: Rico Huxley Hotels",
+"typ": "BASE-Sprung",
+"r": "südlich von Downtown, Vice City – Stunt #389",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: Rico Huxley Hotels",
+"r": "south of Downtown, Vice City – stunt #389",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-9252ae12",
+"k": "aktiv",
+"n": "BASE-Sprung: Tequesta Tides Hotel & Spa North",
+"typ": "BASE-Sprung",
+"r": "nordöstlich von Tequesta, Vice City – Stunt #390",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: Tequesta Tides Hotel & Spa North",
+"r": "north-east of Tequesta, Vice City – stunt #390",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-f2cfcb0d",
+"k": "aktiv",
+"n": "BASE-Sprung: Tequesta Tides Hotel & Spa West",
+"typ": "BASE-Sprung",
+"r": "nordöstlich von Tequesta, Vice City – Stunt #391",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: Tequesta Tides Hotel & Spa West",
+"r": "north-east of Tequesta, Vice City – stunt #391",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-559bba00",
+"k": "aktiv",
+"n": "BASE-Sprung: Tequesta Tides Hotel & Spa South",
+"typ": "BASE-Sprung",
+"r": "nordöstlich von Tequesta, Vice City – Stunt #392",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: Tequesta Tides Hotel & Spa South",
+"r": "north-east of Tequesta, Vice City – stunt #392",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-43f281be",
+"k": "aktiv",
+"n": "BASE-Sprung: Fenestra Plaza",
+"typ": "BASE-Sprung",
+"r": "Tequesta, Vice City – Stunt #393",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tequesta",
+"en": {
+"n": "Base Jump: Fenestra Plaza",
+"r": "Tequesta, Vice City – stunt #393",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-3d7f4f35",
+"k": "aktiv",
+"n": "BASE-Sprung: Sahara Tower",
+"typ": "BASE-Sprung",
+"r": "Tequesta, Vice City – Stunt #394",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"geb": "Tequesta",
+"en": {
+"n": "Base Jump: Sahara Tower",
+"r": "Tequesta, Vice City – stunt #394",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-b83c48ad",
+"k": "aktiv",
+"n": "BASE-Sprung: Eternity Apartments",
+"typ": "BASE-Sprung",
+"r": "südwestlich von Tequesta, Vice City – Stunt #395",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: Eternity Apartments",
+"r": "south-west of Tequesta, Vice City – stunt #395",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-0dc71e44",
+"k": "aktiv",
+"n": "BASE-Sprung: The Borough Condominiums",
+"typ": "BASE-Sprung",
+"r": "südlich von Tequesta, Vice City – Stunt #396",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: The Borough Condominiums",
+"r": "south of Tequesta, Vice City – stunt #396",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-186686ef",
+"k": "aktiv",
+"n": "BASE-Sprung: Bluegrass Antenna Mast",
+"typ": "BASE-Sprung",
+"r": "südöstlich von Bluegrass, Vice-Dale County – Stunt #397",
+"t": "Vom Dach/Hochpunkt mit dem Fallschirm abspringen und auf dem Ziel landen.",
+"q": "e",
+"src": [
+"r99f0554"
+],
+"en": {
+"n": "Base Jump: Bluegrass Antenna Mast",
+"r": "south-east of Bluegrass, Vice-Dale County – stunt #397",
+"t": "Parachute off the rooftop/high point and land on the target."
+}
+},
+{
+"id": "v9-272a5e15",
+"k": "dienst",
+"n": "GTA+ Crosstown Garage",
+"typ": "Garage",
+"r": "Crosstown, Vice City",
+"t": "Nur mit aktiver GTA+-Mitgliedschaft, ab Kapitel 3; 1 Stellplatz.",
+"q": "e",
+"src": [
+"r961f462"
+],
+"geb": "Crosstown",
+"p": [
+-688,
+1068
+],
+"g": 0,
+"en": {
+"n": "GTA+ Crosstown Garage",
+"r": "Crosstown, Vice City",
+"t": "Requires active GTA+ membership, from Chapter 3; 1 spot."
+}
+},
+{
+"id": "v9-5dddd57b",
+"k": "dienst",
+"n": "Bayside-Unterschlupf",
+"typ": "Unterschlupf",
+"r": "Catalan Boulevard, Bayside, Vice City",
+"t": "Wird in Kapitel 3 („Welcome to Vice City“) frei; nicht kaufbar, keine Garagenplätze.",
+"q": "e",
+"src": [
+"r961f462"
+],
+"geb": "Bayside",
+"p": [
+-445,
+1050
+],
+"g": 0,
+"en": {
+"n": "Bayside Safehouse",
+"r": "Catalan Boulevard, Bayside, Vice City",
+"t": "Unlocks in Chapter 3 (Welcome to Vice City); can't be bought, adds no garage spots."
+}
+},
+{
+"id": "v9-ccb7504d",
+"k": "dienst",
+"n": "The Y Hotel (Unterschlupf)",
+"typ": "Unterschlupf",
+"r": "Ocean Beach, Vice Beach",
+"t": "Wird in Kapitel 4 („Ocean Beach“) frei; nicht kaufbar.",
+"q": "e",
+"src": [
+"r961f462"
+],
+"geb": "Ocean Beach",
+"p": [
+1775,
+651
+],
+"g": 0,
+"en": {
+"n": "The Y Hotel (Safehouse)",
+"r": "Ocean Beach, Vice Beach",
+"t": "Unlocks in Chapter 4 (Ocean Beach); can't be bought."
+}
+},
+{
+"id": "v9-f32fdfa3",
+"k": "aktiv",
+"n": "'82 Canis Crawler (Mission „Daily Driver“)",
+"typ": "Seltenes Auto",
+"r": "Weißer Jeep beim alten Traders'-Union-Gebäude, Gellhorn Ave, Port Gellhorn (Gegner in der Nähe)",
+"t": "Moses-Auftrag in Kap. 2: zu Moses bringen, 1.250 $ + 500 $ Zustandsbonus; danach Gratis-Garage Port Gellhorn und Real-Estate-App.",
+"q": "m",
+"src": [
+"r9f073c1",
+"r941e655"
+],
+"geb": "Port Gellhorn",
+"p": [
+-6543,
+3658
+],
+"g": 0,
+"en": {
+"n": "'82 Canis Crawler (Daily Driver)",
+"r": "White jeep near the old Traders' Union building, Gellhorn Ave, Port Gellhorn (enemies nearby)",
+"t": "Moses request in Ch. 2: deliver to Moses for $1,250 + $500 condition bonus; unlocks free Port Gellhorn garage and Real Estate app."
+}
+}
+]);
+([["Sammeln", "50 zerstörte Kokain-Flamingos schalten den Cheat „Aufblasbarer Flamingo“ frei; für 100 % sind 100 nötig. Zähler: Fortschritt → Sammlungen → Erkundung.", "Collecting", "50 destroyed flamingos unlock the Inflatable Flamingo vehicle cheat; 100% needs 100. Counter: Progress → Collections → Exploration.", "r94b4a37"], ["Sammeln", "Stunts zählen je einmal; Trophäe braucht 250 beliebige Stunts (von 397), 100 % braucht 300. Fortschritt: Fortschritt → Aktivitäten → Stunts, R3 zeigt Regionen.", "Collecting", "Each stunt counts once; trophy needs 250 of 397, 100% needs 300. Progress → Activities → Stunts, R3 for regions.", "r9a48700"], ["Sammeln", "Partner-Challenges bei Stuntsprüngen erst angehen, wenn Jason und Lucia spielbar sind; lange Parkhaus-Sprünge lieber mit Auto. Cheats sperren Trophäen.", "Collecting", "Leave partner stunt challenges until both Jason and Lucia are playable; use a car for long garage jumps. Cheats disable trophies.", "r9d04303"], ["Geld", "Geld-Fahrplan nach Kapitel: Kap. 2 Autos an Moses (1.000–4.000 $), Kap. 3 Juweliere (10.000–25.000 $) und Supersportwagen an Randy (30.000 $+), Ende Kap. 4 Banktresore (bis 205.000 $). Am Ende von Kap. 3 gibt es automatisch 120.000 $.", "Money", "Money roadmap by chapter: Ch.2 cars to Moses ($1k–4k), Ch.3 jewelers ($10k–25k) and supercars to Randy ($30k+), end of Ch.4 bank vaults (up to $205k). End of Ch.3 pays $120,000 automatically.", "r95c2970"], ["Geld", "Banktresor-Trick: Einem Geldtransporter folgen, bis er an einer großen Bank hält – der Tresor öffnet sich nur, während der Wachmann Geld hineinträgt. Freigeschaltet durch die optionale Quest „That's Where The Money Is…“ (Ende Kap. 4).", "Money", "Vault trick: follow an armored cash van until it stops at a large bank – the vault only opens while the guard carries cash in. Unlocked by the optional quest \"That's Where The Money Is…\" (end of Ch.4).", "r95c2970"], ["Geld", "Yasmani verkauft Tipps zu Geldtransporter-Zielen für 10.000 $ – erst nachdem man für ihn 2 Payday Loans ausgeraubt hat.", "Money", "Yasmani sells security-van destination tips for $10,000 – only after robbing 2 Payday Loans for him.", "r92ba1b3"], ["Geld", "Ergiebigste Banktresore laut MetaForge: Lombank Downtown und Lombank Ocean Beach (135.000–205.000 $). Nach Abschluss der Story ca. 100.000–200.000 $ alle 5 Minuten.", "Money", "Best vaults per MetaForge: Lombank Downtown and Lombank Ocean Beach ($135k–205k). Post-story roughly $100k–200k every 5 minutes.", "r92ba1b3"], ["Geld", "Kleine Banken bringen 5.000–20.000 $; die besten sind Lombank Bayside, Lombank Ocean Beach und Druthers State Bank (Leonard County) mit je 15.000–45.000 $. Payday Loans 5.000–15.000 $, die Filiale in Little Cuba bis 25.000 $.", "Money", "Small banks pay $5k–20k; best are Lombank Bayside, Lombank Ocean Beach and Druthers State Bank (Leonard County) at $15k–45k each. Payday Loans $5k–15k, Little Cuba branch up to $25k.", "r92ba1b3"], ["Geld", "Ohne Dye Pack Jammer (Mission „Credit Check“, Kap. 3) nehmen Hehler keine markierten Scheine aus Banken oder Payday Loans an.", "Money", "Without the Dye Pack Jammer (mission \"Credit Check\", Ch.3) fences won't take marked bills from banks or Payday Loans.", "r92ba1b3"], ["Geld", "Pfandhäuser (ab „Coffee Break“, Kap. 2) bringen 1.000–12.000 $ und sind gute frühe Ziele. Vor dem Zerschlagen der Vitrinen das Alarmpanel ausschalten.", "Money", "Pawn shops (from \"Coffee Break\", Ch.2) pay $1k–12k and are good early targets. Disable the alarm panel before smashing cases.", "r92ba1b3"], ["Geld", "Juwelier: Nur Vitrinen zerschlagen zählt nicht als vollständiger Überfall – auch den Tresor im Hinterraum knacken. Mehrere Läden hintereinander ausrauben.", "Money", "Jeweler: smashing cases alone doesn't count as a full robbery – also crack the backroom safe. Hit several stores in a row.", "r92ba1b3"], ["Geld", "Läden mit Hintertür (ab Snap Gun, Kap. 3) bringen 6.000–15.000 $: hinten rein, Videoaufnahme zerstören, Alarm aus, Tresor öffnen, Kassen leeren und aus Erste-Hilfe-Kästen Geldbörsen und Drogen mitnehmen.", "Money", "Stores with back doors (Snap Gun, Ch.3) pay $6k–15k: enter at the back, destroy footage, disable alarm, open safe, empty registers, loot wallets and drugs from first-aid kits.", "r9e66778"], ["Geld", "Laufende Verbrechen (Bank-, Juwelier-, Transporterüberfälle, Drogendeals) abfangen: Täter ausschalten und Beute nehmen bringt 1.000–15.000 $, vor allem in Kap. 2 und 3. Die Fahndung geht dann auf dich über.", "Money", "Intercept crimes in progress (bank/jewelry/van robberies, drug deals): take out the criminals and grab the loot for $1k–15k, best in Ch.2–3. The heat then shifts to you.", "r9e66778"], ["Geld", "Demolition Derby am Ambrosia Raceway: 3.800–6.300 $ pro Sieg, wiederholbar. Das Oval zahlt über 3.000 $, etwa doppelt so viel wie die Acht. Mietauto kostet einige Hundert Dollar.", "Money", "Demolition Derby at Ambrosia Raceway: $3,800–6,300 per win, repeatable. The oval pays over $3,000, roughly double the figure-eight. Car rental costs a few hundred dollars.", "r9e66778"], ["Geld", "Pilot Petes Kokain-Abwürfe (ab Kap. 4) bringen 10.000–20.000 $ pro Auftrag. Zeitlimit – Route vorher planen.", "Money", "Pilot Pete's cocaine drops (from Ch.4) pay $10k–20k per job. Time-limited – plan the route first.", "r9e66778"], ["Geld", "Bret zahlte für einen Wildeber 2.500 $. Kleine Trophäen: vor seinem Gebäude parken, reingehen – er kauft die Kadaver direkt aus dem Kofferraum.", "Money", "Bret paid $2,500 for one wild boar. Small trophies: park outside his building, go in – he buys carcasses straight from your trunk.", "r9e66778"], ["Geld", "Geldautomaten abschleppen: Einen Truck mit Seilwinde ausrüsten, ATM aus der Wand reißen und mit Sprengstoff oder durch Zerschlagen öffnen. Laut und lockt die Polizei an. Karte > Raub zeigt „Towable ATMs“.", "Money", "Towable ATMs: fit a truck with a winch, rip the ATM from the wall and open it with explosives or by smashing. Loud, draws police. Map > Robberies shows Towable ATMs.", "r9e66778"], ["Geld", "Moses-Abklingzeit beenden: in einem Safehouse schlafen – dann kauft er sofort wieder ein Auto (sonst ca. 2 Minuten Sperre laut PowerPyx).", "Money", "Skip Moses' cooldown: sleep at a safehouse and he buys again right away (otherwise ~2 min per PowerPyx).", "r9d3e9ab"], ["Autos", "Moses nimmt keine Autos, die zu nah an seiner Werkstatt gestohlen wurden – besser auf der Hauptstraße von Port Gellhorn klauen.", "Vehicle", "Moses won't take cars stolen too close to his garage – grab them on Port Gellhorn's main road instead.", "r95c2970"], ["Autos", "Autos mit Standard-Tracker kann man ab Anfang Kap. 3 beim Pay 'n' Spray verkaufen (ca. 4.000 $+ für ein gutes Auto). Randy zahlt für Supersportwagen mit Advanced Tracker in perfektem Zustand 30.000 $+.", "Vehicle", "Standard-tracker cars sell at Pay 'n' Spray from early Ch.3 (~$4,000+ for a good car). Randy pays $30,000+ for pristine supercars with Advanced Trackers.", "r95c2970"], ["Autos", "Nach Lieferung des '64 Mamba GT an Randy ruft er an: Pay 'n' Spray nimmt dann auch Autos mit Advanced Tracker an. Standard-Tracker orten dich nicht, blockieren aber Tuning bis zur Registrierung.", "Vehicle", "After delivering the '64 Mamba GT to Randy he calls: Pay 'n' Spray then accepts Advanced-tracker cars too. Standard trackers don't track you but block mods until registered.", "r936d47f"], ["Autos", "Umgekipptes Auto umdrehen: seitlich hingehen, linken Stick drücken (Figur stemmt sich dagegen), dann Quadrat/X halten. Klappt nicht bei zu schweren Fahrzeugen, leerer Ausdauer oder steilem Hang. Boote und Jetskis lassen sich so vom Strand ins Wasser schieben.", "Vehicle", "Flip an overturned car: walk to its side, click the left stick to brace, then hold Square/X. Fails if too heavy, out of stamina or on steep slopes. Also shoves boats/jet skis off the sand.", "r9a3db72"], ["Autos", "Steuerkreuz links halten öffnet Fahrzeugfunktionen (Scheinwerfer, Kofferraum). Der Kofferraum schließt beim Losfahren automatisch. Blinker per Antippen – NPC-Fahrer reagieren darauf.", "Vehicle", "Hold D-pad left for vehicle features (headlights, trunk). The trunk closes automatically when you drive off. Tap to use turn signals – NPC drivers react.", "r9f324a0"], ["Fahndung", "Fahndungs-Symbole unter den Sternen sagen, was die Polizei weiß: Kamera → belebte Gegend verlassen; Paar → Jason und Lucia trennen; Kleidung → umziehen (z. B. Stock 305); Beschreibung → Hut auf/ab oder Friseur; Waffe → Waffe wegpacken; Auto → wechseln oder umlackieren/Kennzeichen tauschen.", "Wanted", "Info icons under the stars show what police know: CCTV → leave busy areas; couple → split Jason and Lucia; clothing → change (e.g. Stock 305); description → hat on/off or salon; weapon → stash it; vehicle → swap or respray/change plates.", "r90f9ab2"], ["Fahndung", "Tatorte werden zu „Hot Areas“: Dort bleibt die Fahndung bestehen und Polizei patrouilliert weiter; wer erkannt wird, startet eine neue Verfolgung. Nur mit anderem Auto, Hut oder anderem Outfit zurückkehren.", "Wanted", "Crime scenes become Hot Areas: the wanted level persists and officers linger; being recognized restarts the chase. Return only in another car, with a hat or a different outfit.", "r9247d58"], ["Fahndung", "Wer unerkannt entkommt, bekommt keine Sterne. Verbrechen müssen gesehen, gemeldet oder per Alarm ausgelöst werden, bevor die Polizei reagiert. Maximal 6 Sterne.", "Wanted", "Escaping unidentified gives no stars. Crimes must be witnessed, reported or trip an alarm before police respond. Max 6 stars.", "r9247d58"], ["Fahndung", "Cloud-gespeicherte Überwachungsvideos lassen sich nicht zerstören, nur die Aufnahmen vor Ort. Drohen schadet dem Kriminalprofil nicht, unnötige Gewalt schon.", "Wanted", "Cloud-stored security footage can't be destroyed, only on-site CCTV. Threats don't hurt your Criminal Profile, needless violence does.", "r9a540e5"], ["Fahndung", "4-Sterne-Fahndung zusammen mit dem Partner abschütteln bringt die Trophäe „Hot Together“. Ladenüberfälle: drei Läden hintereinander mit Partner ohne Fahndung zu verlieren = „Retail Therapy“.", "Wanted", "Losing a 4-star wanted level with your partner earns \"Hot Together\". Robbing three stores back-to-back with your partner without losing the wanted level earns \"Retail Therapy\".", "r92ba1b3"], ["Geld", "Beutetaschen im Kofferraum können verloren gehen, wenn du der Polizei nach dem Überfall nicht entkommst. Verlorene Taschen findet man teils in ruhigen Gegenden wieder – Karte prüfen.", "Money", "Stash bags in the trunk can be lost if you don't escape police after a robbery. Dropped bags may be recoverable in quieter areas – check the map.", "r9a540e5"], ["Geld", "Karte > Raub-Reiter zeigt Illegal Operations, Banken, Payday Loans, Smash 'n' Grabs, Tresore und abschleppbare Geldautomaten; bei größeren Zielen zeigt das Überfahren die geschätzte Beute.", "Money", "The map's Robberies tab shows Illegal Operations, Banks, Payday Loans, Smash 'n' Grabs, Safes and Towable ATMs; hovering bigger targets shows estimated take.", "r9a540e5"], ["Geld", "Geld-Cheat: nach Abschluss der Story 250.000 $ über das Handy (L1/LB halten, Code eingeben; laut The Game Haus: Hoch, Rechts, Runter, Links, Hoch, Links, Runter, Rechts). Deaktiviert Speichern und Trophäen in der Sitzung – das Geld bleibt nicht.", "Money", "Money cheat: after the story, $250,000 via phone (hold L1/LB, enter code; per The Game Haus: Up, Right, Down, Left, Up, Left, Down, Right). Disables saving and trophies that session – money isn't kept.", "r9b1956b"], ["Geld", "Kentons Schatztauchen bringt 200–2.600 $ pro Fund (ca. 2.600 $ pro Tour) – risikolos, ohne Polizei. Startet nach „Island Dreams“ (Kap. 1).", "Money", "Kenton's treasure diving pays $200–2,600 per find (~$2,600 per haul) – no police risk. Starts after \"Island Dreams\" (Ch.1).", "r9b1956b"], ["Kampf", "Mit schallgedämpfter Waffe im Focus-Modus Kameras abschießen, bevor sie dich sehen. Die Karte zeigt Grundrisse, Hinter- und Seiteneingänge.", "Combat", "Use a silenced weapon in Focus to shoot cameras before they spot you. The map shows floor plans, back and side entrances.", "r919f209"], ["Welt", "Kreis/B halten zu Fuß: Figur setzt sich (Gras, Sand), lehnt an einer Wand oder verlagert das Gewicht.", "World", "Hold Circle/B on foot: sit (grass, sand), lean on a wall or shift weight.", "r9a3db72"], ["Welt", "Speichern: Pause > Spiel > „Save Game“, nur in der freien Welt. Es gibt nur einen Autosave-Slot, der auch nach Tod oder Festnahme überschrieben wird – ein älterer manueller Stand kann ihn ersetzen. Vor dem Laden eines alten Stands den aktuellen manuell sichern.", "World", "Saving: Pause > Game > Save Game, free roam only. One autosave slot, overwritten also on death/arrest – loading an older manual save can replace it. Back up your current state manually before loading an old save.", "r98e6b12"], ["Welt", "Outfits im Kofferraum bekommen Namen aus Vorgaben („clubbing“, „hunting“, „everyday“). In jedem Kleidungsladen mit Umkleide lassen sich Outfits und Kofferraum verwalten. Viele Läden und Friseure haben exklusive Artikel.", "World", "Trunk outfits can be named from presets (clubbing, hunting, everyday). Any clothing store with a changing room manages outfits and trunk. Many stores/barbers have exclusive items.", "r9f324a0"], ["Welt", "Schreie oder Sirenen? Mit Focus (beide Sticks) orten – oft Zufallsereignisse wie geplatzte Drogendeals. Im Wasser immer mit Alligatoren rechnen.", "World", "Hear shouting or sirens? Use Focus (both sticks) to locate them – often random events like bad drug deals. Assume alligators in any water.", "r9f324a0"], ["Sammeln", "Brets Ziel-Decks: Nur Jason, nach „Veteran Hunted“. Pickup mitnehmen für die Kadaver; viele Tiere nur zu bestimmten Tageszeiten. Aktive Decks: Karte > Aktivitäten > Target Deck.", "Collecting", "Bret's Target Decks: Jason only, after 'Veteran Hunted'. Bring a pickup for carcasses; many animals only at certain times. Active decks: Map > Activities > Target Deck.", "r9f8a92d"], ["Sammeln", "Für die Stunt-Ziele zählt jede Mischung aus Sprüngen, Unter-Brücken-Flügen, Messerflügen und BASE-Sprüngen – Unter-Brücken-Flüge gehen am schnellsten.", "Collecting", "Any mix of stunt jumps, under-the-bridge, knife flights and base jumps counts – under-the-bridge flights are the quickest.", "r97ec356"], ["Sammeln", "Sammelkarte Victor Maravilla (Los Santos Corkers) in der Küche des Starlet Motel ist verpassbar – Küche schließt nach Kapitel 2.", "Collecting", "Card Victor Maravilla (Los Santos Corkers) in the Starlet Motel kitchen is missable – the kitchen closes after Chapter 2.", "r90eae0b"], ["Technik", "Es gibt nur EINEN Autosave; das Laden eines manuellen Spielstands kann ihn überschreiben. Nach einem Absturz steht der Autosave nur unter „Spiel laden“, nicht unter „Spiel speichern“ – erst dort nachsehen, bevor man Fortschritt für verloren hält.", "Tech", "There is only ONE autosave; loading a manual save can overwrite it. After a crash the autosave is listed only under Load Game, not Save Game – check there before assuming progress is lost.", "r95c9721"], ["Technik", "Xbox: Quick Resume meiden und das Spiel vollständig schließen (Berichte über Freezes und Rückfall auf ältere Stände).", "Tech", "Xbox: avoid Quick Resume and fully close the game (reports of freezes and reverting to older saves).", "r95c9721"], ["Technik", "Digitale PS5-Version: Nach ca. einer Stunde offline fragt das Spiel die Lizenz erneut ab. Abhilfe laut PlayStation: „Konsolenfreigabe und Offline-Spiel“ auf der Hauptkonsole aktivieren.", "Tech", "Digital PS5 copy: after about an hour offline the game re-checks the licence. PlayStation suggests enabling Console Sharing and Offline Play on your primary console.", "r97ac959"], ["Story", "Vor der letzten Mission von Kapitel 4 und vor dem Finale jeweils einen eigenen Spielstand anlegen – so kann man für ein anderes Ende zurück (keine Missionswiederholung).", "Story", "Make a separate save before the final Chapter 4 mission and before the finale so you can go back for a different ending (no mission replay).", "r909bed6"], ["Patches", "Update 01.002.000 (2026-11-13): Erstes Update vor Release (PS5 ca. 1,07 GB, Xbox ca. 2,18 GB), in zwei Wellen ausgerollt. Rockstar hat keine Patchnotes veröffentlicht; behobene Fehler unbekannt.", "Patches", "Update 01.002.000 (2026-11-13): First pre-launch update (PS5 ~1.07 GB, Xbox ~2.18 GB), rolled out in two waves. Rockstar published no patch notes; fixes unknown.", "r9feacf0"], ["Patches", "Update 01.002.001 (Xbox 1.0.2.1) (2026-11-16): Zweites Pflicht-Update vor Release (PS5 602,5 MB, Xbox 1,59 GB), PS5 in Stufen bis 17.11. Laut RockstarINTEL ein Bugfix-Update, aber ohne Patchnotes. Seit Release am 19.11. kein weiteres Update (Stand 21.11.); Gerücht über Patch am 25.11. unbestätigt.", "Patches", "Update 01.002.001 (Xbox 1.0.2.1) (2026-11-16): Second mandatory pre-launch update (PS5 602.5 MB, Xbox 1.59 GB), PS5 staged through Nov 17. RockstarINTEL calls it a bug-fix update but no notes exist. No further update since launch on Nov 19 (as of Nov 21); rumoured Nov 25 patch unconfirmed.", "r9b25a00"], ["Autos", "Autoverkauf-Preise: Moses 1.000–3.000 $ (nur ohne Tracker), Pay 'n' Spray 2.500–4.000 $+ (Standard-Tracker), Randy 30.000–35.000 $ je Wunschlisten-Auto.", "Vehicle", "Car sale payouts: Moses $1,000–3,000 (no tracker only), Pay 'n' Spray $2,500–4,000+ (Standard Tracker), Randy $30,000–35,000 per Wish List car.", "r941e655"], ["Autos", "Pay 'n' Spray nimmt höchstens 3 gestohlene Autos pro Spieltag an.", "Vehicle", "Pay 'n' Spray accepts at most 3 stolen cars per in-game day.", "r941e655"], ["Autos", "Randys Wunschliste: 16–18 Autos (Quellen uneins), nicht wiederholbar, insgesamt rund 540.000–630.000 $. Weitere Fundorte schickt Randy per Erinnerung aufs Handy.", "Vehicle", "Randy's Wish List: 16–18 cars (sources differ), not repeatable, roughly $540,000–630,000 in total. Randy texts more spots to your phone Reminders.", "r978cdb7"], ["Autos", "Nach allen sieben Moses-Lieferaufträgen gibt es den Emperor Sultan gratis – die Registrierung kostet 1.600 $.", "Vehicle", "Completing all seven Moses deliveries gives a free Emperor Sultan – registering it costs $1,600.", "r941e655"], ["Autos", "Gelagerte Autos lassen sich an jedem freigeschalteten Pay 'n' Spray gesammelt verkaufen: R1/RB öffnet den Reiter „Stored Vehicles“.", "Vehicle", "Bulk-sell stored cars at any unlocked Pay 'n' Spray: press R1/RB to open the Stored Vehicles tab.", "r941e655"], ["Autos", "Fahrzeuge im Wert von 200.000 $ zu verkaufen zählt für die 100-%-Komplettierung.", "Vehicle", "Selling $200,000 worth of vehicles counts toward 100% completion.", "r941e655"], ["Autos", "Nicht registrierte Autos verschwinden bei Tod, Verhaftung oder wenn man sie außerhalb eines Unterschlupf-Parkplatzes stehen lässt.", "Vehicle", "Unregistered cars disappear if you die, get busted, or leave them outside a safehouse parking spot.", "r941e655"], ["Autos", "Ein Auto mit Standard-Tracker als eigenes Fahrzeug zu registrieren deaktiviert den Tracker; Umlackieren beim Pay 'n' Spray senkt die Fahndungshitze.", "Vehicle", "Registering a Standard Tracker car as your personal vehicle disables its tracker; a respray at Pay 'n' Spray reduces its heat.", "r9a59f27"], ["Autos", "Alle acht kaufbaren Garagen kosten zusammen 160.000 $; wer alle kauft, erhält die Trophäe „Little Boxes“. Jede kaufbare Garage hat nur einen Stellplatz.", "Vehicle", "The eight purchasable garages cost $160,000 in total; buying all of them unlocks the Little Boxes trophy. Each purchasable garage holds one car.", "r961f462"], ["Autos", "Unterschlüpfe (Key Lento, Starlet Motel, Bayside, Y Hotel) kann man nicht kaufen – Jason und Lucia können nur Garagen erwerben.", "Vehicle", "Safehouses (Key Lento, Starlet Motel, Bayside, Y Hotel) can't be bought – Jason and Lucia can only buy garages.", "r961f462"], ["Kampf", "Nur Expanded-Ammu-Nations verkaufen Werfer: Hillinger Boomer 12.000 $, Deever Tech GLR40 15.500 $, Hauners H-AT (Raketenwerfer) 16.000 $. Shrewsbury SMS-01 (2.150 $) erst nach Brets neunter Jagd.", "Combat", "Only Expanded Ammu-Nations sell launchers: Hillinger Boomer $12,000, Deever Tech GLR40 $15,500, Hauners H-AT rocket launcher $16,000. Shrewsbury SMS-01 ($2,150) needs Bret's ninth hunt.", "r966baab"]]).forEach(t => { const a = [t[0], t[1]]; a.en = [t[2], t[3]]; a.src = t[4] ? [t[4]] : []; LH.TIPPS.push(a); });
+LH.GLITCHES.push(...[{"n": "Rote Scheune: Mehrfach-Ertrag pro Runde", "t": "Ergänzung zum bekannten Speichern/Laden-Glitch: Beebom nennt ca. 11.280 $ Beute im ersten Durchgang, Respawns unzuverlässig, manche Taschen nicht aufnehmbar. Geld kommt nach einigen Spieltagen in den Briefkasten.", "q": "e", "src": ["r9cd787b"], "en": {"n": "Red barn: per-run yield", "t": "Addendum to the known save/load glitch: Beebom reports ~$11,280 on the first run; respawns inconsistent, some bags unclickable. Money arrives in the mailbox after a few in-game days."}}, {"n": "Softlock in früher Lucia-Mission (Bank)", "t": "Nach dem Verlassen der Bank startet die Zwischensequenz nicht; man kann frei herumlaufen, die Mission geht aber nicht weiter. Nur Neustart bzw. letzten manuellen Spielstand laden hilft. Kein Fix von Rockstar.", "q": "m", "src": ["r9625f90", "r96af78a"], "en": {"n": "Softlock in early Lucia mission (bank)", "t": "After leaving the bank the cutscene does not trigger; free roam works but the mission won't advance. Only restarting or loading the last manual save helps. No Rockstar fix."}}, {"n": "„Coming Home“: Anstoß beim Billard zählt nicht (Xbox)", "t": "Der Break-Stoß mit Mattia wird nicht registriert; Checkpoint, Missionsneustart und alter Spielstand halfen dem Melder nicht. Ungeprüfter Tipp: an eine andere Tischseite gehen, damit der Zielhinweis neu erscheint. Quelle: Fan-Bugtracker.", "q": "e", "src": ["r96af78a"], "en": {"n": "Coming Home: pool break shot not registering (Xbox)", "t": "The break shot with Mattia does not register; checkpoint, mission restart and older save did not help the reporter. Unproven tip: move to another spot at the table so the aim prompt resets. Source: fan bug tracker."}}, {"n": "Menü hängt (Garderobe, Waffenladen, Tuning)", "t": "Manche Spieler kommen aus Garderobe, Waffenladen oder Anpassungsmenü nicht mehr heraus. Erst Zurück-Taste, dann Pause/Fortsetzen; sonst Spiel neu starten und letzten Stand laden.", "q": "e", "src": ["r96af78a"], "en": {"n": "Stuck menu (wardrobe, gun shop, customization)", "t": "Some players can't leave the wardrobe, gun shop or customization menu. Try back/cancel, then pause and resume; otherwise relaunch and load the last save."}}, {"n": "Durch die Karte fallen beim Handy-Zücken", "t": "Steht Jason eng zwischen Auto und Zaun und holt das Handy heraus, fällt er durch die Map ins Nichts. Nur Spielneustart hilft – vorher manuell speichern.", "q": "e", "src": ["r944f977"], "en": {"n": "Falling through the map when taking out the phone", "t": "If Jason stands in a tight spot between a car and a fence and takes out his phone, he clips through the map into the void. Only a restart helps – save manually first."}}, {"n": "Schaukel-Glitch-Hommage: Auto fliegt nach Baum-/Buschkontakt", "t": "Ein Auto touchiert einen Baum/Busch und wird quer über die Karte geschleudert – Totalschaden, Reparaturkosten fallen an.", "q": "e", "src": ["r944f977"], "en": {"n": "Swing-glitch homage: car launched after hitting a tree/bush", "t": "A car clips a tree/bush and is catapulted across the map, completely wrecked; repair fees apply."}}, {"n": "Kein Fallschaden beim Sprung aus fliegendem Flugzeug", "t": "Jason springt ohne Fallschirm aus einem fliegenden Flugzeug (Polizeiverfolgung) und landet unverletzt. Laut Beebom ein Bug, kein Cheat.", "q": "e", "src": ["r944f977"], "en": {"n": "No fall damage jumping from a flying plane", "t": "Jason jumps out of a moving plane without a parachute during a police chase and takes no damage. Beebom calls it a bug, not a cheat."}}, {"n": "Verlassenes Flugzeug fliegt durch Gebäude", "t": "Nach dem Absprung stürzt das Flugzeug nicht ab, sondern gleitet durch ein Gebäude. Nebeneffekt laut Beebom: keine zivilen Opfer, Kriminalprofil bleibt sauber.", "q": "e", "src": ["r944f977"], "en": {"n": "Abandoned plane phases through buildings", "t": "After bailing out, the plane doesn't crash but passes through a building. Side effect per Beebom: no civilian casualties, criminal profile unaffected."}}, {"n": "Eingaben beim Banküberfall werden nicht erkannt", "t": "Einzelne Spieler melden, dass Eingaben beim Banküberfall ignoriert werden; Reproduzierbarkeit unklar.", "q": "e", "src": ["r9625f90"], "en": {"n": "Inputs not recognized during bank robbery", "t": "Some players report inputs being ignored during the bank robbery; unclear whether reproducible."}}]);
+LH.VERPASSBAR.push(...[{"n": "Geld in Kapitel 1 farmen lohnt nicht", "t": "PowerPyx: Geld aus Kapitel 1 geht am Kapitelende verloren – Rennen, Läden und Gang-Operationen erst später für Geld nutzen.", "q": "e", "src": ["r95c2970"], "en": {"n": "Farming money in Chapter 1 is pointless", "t": "PowerPyx: Chapter 1 money is lost at chapter end – do races, stores and gang ops for cash later."}}, {"n": "Kap. 1: Nebenmission „Get Shirley's Rum“", "t": "Verfällt mit dem Start von „Tourist Trap“. Setzt Gear Up, Lab Fees, Just a Scratch und Unwanted Attention voraus. Gibt einen Fokus-Bonus; nicht nötig für Trophäen/100 %.", "q": "m", "src": ["r9e8a658", "r909bed6"], "en": {"n": "Ch. 1: side mission Get Shirley's Rum", "t": "Lost once Tourist Trap starts. Requires Gear Up, Lab Fees, Just a Scratch and Unwanted Attention. Gives a Focus increase; not needed for trophies/100%."}}, {"n": "Kap. 1: Nebenmission „Steal the Scooter“", "t": "Schaltet sich ca. einen Tag nach Shirleys zweitem Anruf frei (braucht „Get Shirley's Rum“) und verfällt mit „Tourist Trap“. Keine Belohnung.", "q": "m", "src": ["r909bed6", "r9e8a658"], "en": {"n": "Ch. 1: side mission Steal the Scooter", "t": "Unlocks about a day after Shirley calls again (needs Get Shirley's Rum) and is lost when Tourist Trap starts. No reward."}}, {"n": "Hehler Donnie und Brian fallen weg", "t": "Hehler Donnie ist nach der Mission „Swamped“ weg, Brian nach Kapitel 1. Gestohlene Ware vorher verkaufen.", "q": "e", "src": ["r9e8a658"], "en": {"n": "Fences Donnie and Brian disappear", "t": "Fence Donnie is gone after the mission Swamped, Brian after Chapter 1. Sell stolen goods beforehand."}}, {"n": "Kap. 1: Ultimate-Edition-Motorrad und -Kajak", "t": "Am Haus von Jason; laut Berichten nur in Kapitel 1 nutzbar (nur Ultimate Edition).", "q": "e", "src": ["r9e8a658"], "en": {"n": "Ch. 1: Ultimate Edition motorcycle and kayak", "t": "Kept at Jason's house; reportedly usable only during Chapter 1 (Ultimate Edition owners only)."}}, {"n": "Magazine in Story-Unterkünften", "t": "5 Magazine an/um Jasons Haus (bis Ende Kap. 1), 2 im Starlet Motel (bis Ende Kap. 2), 2 im Apartment in Vice City (bis Ende Kap. 3). Andere Exemplare gibt es anderswo; keine Trophäe betroffen.", "q": "e", "src": ["r9e8a658"], "en": {"n": "Magazines in story homes", "t": "5 magazines at/around Jason's house (until end of Ch. 1), 2 in the Starlet Motel (until end of Ch. 2), 2 in the Vice City apartment (until end of Ch. 3). Other copies exist elsewhere; no trophy affected."}}, {"n": "Nebenquests vor dem Finale abschließen", "t": "Andys Questreihe (Lucia) sowie Bret, Tyrone und Pilot Pete (Jason) vor der letzten Mission beenden – je nach Ende ist evtl. nur noch eine Figur spielbar.", "q": "e", "src": ["r909bed6"], "en": {"n": "Finish side questlines before the finale", "t": "Complete Andy's questline (Lucia) and Bret, Tyrone and Pilot Pete (Jason) before the final mission – depending on the ending you may be limited to one character."}}, {"n": "Optionale Missionen mit schwarzem Symbol/pinkem Buchstaben", "t": "Verschwinden im Story-Verlauf von der Karte; Sanduhr-Missionen scheitern nach einiger Zeit. Fehlgeschlagene „Retail Therapy“/„Hot Together“ sind nicht endgültig (neu laden).", "q": "e", "src": ["r909bed6"], "en": {"n": "Optional missions with black icon/pink letter", "t": "Drop off the map as the story progresses; hourglass missions fail after a while. Failed Retail Therapy/Hot Together are not permanent (reload)."}}]);
+([{"n": "Stuntsprung", "inc": "Untere Brücke zwischen Abismo Key und Key Lento", "de": "Key Lento Bridge West und East: die zwei Hälften der kaputten Key-Lento-Brücke, nahe Jasons Haus; Challenge vermutlich beide verketten", "en": "Key Lento Bridge West and East: the two broken halves of the abandoned Key Lento Bridge near Jason's house; challenge likely chaining both", "s": "r9d04303"}, {"n": "Druthers State Bank", "inc": "", "de": "Laut MetaForge die lukrativsten kleinen Banken: je 15.000–45.000 $.", "en": "Per MetaForge the most lucrative small banks: $15k–45k each.", "s": "r92ba1b3"}, {"n": "Lombank – Bayside", "inc": "", "de": "Laut MetaForge die lukrativsten kleinen Banken: je 15.000–45.000 $.", "en": "Per MetaForge the most lucrative small banks: $15k–45k each.", "s": "r92ba1b3"}, {"n": "Lombank – Ocean Beach", "inc": "", "de": "Laut MetaForge die lukrativsten kleinen Banken: je 15.000–45.000 $.", "en": "Per MetaForge the most lucrative small banks: $15k–45k each.", "s": "r92ba1b3"}, {"n": "Banktresor Lombank – Downtown", "inc": "", "de": "Beste Tresore: 135.000–205.000 $.", "en": "Best vaults: $135k–205k.", "s": "r92ba1b3"}, {"n": "Lombank – Ocean Beach", "inc": "", "de": "Beste Tresore: 135.000–205.000 $.", "en": "Best vaults: $135k–205k.", "s": "r92ba1b3"}, {"n": "Pillen-Duplizierung bei Hamlet", "inc": "ohne Laden", "de": "Status unklar, nicht gepatcht: Seit Release (19.11.) kein Update (letztes: 01.002.001 vom 16.11., ohne Patchnotes). Bisher wurde kein Bestands-Glitch nachweislich gepatcht; Rote-Scheune-Glitch laut Beebom am 20.11. noch funktionsfähig.", "en": "Status unclear, not patched: no game update since launch (Nov 19); last was 01.002.001 on Nov 16 without notes. No inventory glitch is confirmed patched; the red barn glitch still worked per Beebom on Nov 20.", "s": "r97ac959"}, {"n": "Kap. 3: „Race Against Yago“", "inc": "zeitlich begrenzt", "de": "Widersprüchlich: TheGamesWiki sagt nicht nötig für Trophäen/100 %, Bloxodes warnt, Auslassen könne „Strangers & Freaks“ gefährden. Sicherheitshalber sofort erledigen (Freeway Run).", "en": "Conflicting: TheGamesWiki says not needed for trophies/100%, Bloxodes warns skipping it may put Strangers & Freaks at risk. Do it right away (Freeway Run) to be safe.", "s": "r909bed6"}, {"n": "Balkon-Meditation (Trophäe „Positive Mental Attitude“)", "inc": "", "de": "Einzige von 18 Meditationen, die verfällt (Ende Kap. 1). 100 % braucht nur 15; ob die Trophäe sie braucht, ist unbestätigt – trotzdem machen.", "en": "The only one of 18 meditations that expires (end of Ch. 1). 100% needs only 15; whether the trophy requires it is unconfirmed – do it anyway.", "s": "r9e8a658"}]).forEach(x => { const f = o => o && typeof o.n === "string" && o.n.startsWith(x.n) && (!x.inc || (o.n + " " + (o.r || "")).includes(x.inc)); const o = LH.ORTE.find(f) || LH.GLITCHES.find(f) || LH.VERPASSBAR.find(f); if (!o) return; o.t = (o.t ? o.t + " " : "") + "Nachtrag: " + x.de; o.src = (o.src || []).concat([x.s]); if (o.en) o.en.t = (o.en.t || "") + " Update: " + x.en; else o.v9en = x.en; });
+})();
+/*</v9>*/
