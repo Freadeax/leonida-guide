@@ -8,16 +8,16 @@ GTA-6-Helfer für Leonida: interaktive Karte (Legende wie im Spiel, Pins, Cluste
 ```
 npm run build          # public/ → dist/
 npm run check          # alle Prüfungen (vor jedem Merge)
+npm run publish        # main prüfen, bauen und nach gh-pages veröffentlichen
 npm run verify-deploy  # Live-Build-ID mit main vergleichen
 ```
-Node 22. Keine Abhängigkeiten zur Laufzeit; Playwright nur für die Browserprüfungen.
+Node 22. Keine Abhängigkeiten zur Laufzeit; Playwright nur lokal für die Browserprüfungen.
 
-## Bereitstellung (GitHub Pages)
-- `.github/workflows/pages.yml`: Jeder Push und jeder PR läuft durch `npm run check` (Syntax, Datentests, Build, Größenbudget, Browser PC/iPad/iPhone in DE+EN, Offline, Barrierefreiheit).
-- **Nur ein grüner Stand von `main` geht online.** Ein roter Check blockiert die Veröffentlichung, die alte Fassung bleibt live.
-- Einmalige Einstellung im Repo: *Settings → Pages → Source: GitHub Actions*.
-- Header aus `public/_headers` gelten nur bei Cloudflare Pages; GitHub Pages ignoriert die Datei (schadet nicht). Neue Fassungen erkennt der Browser über die Inhalts-Hashes (`?v=…`), die der Build setzt.
-- Cloudflare Pages (`leonida-helfer`) ist nicht mehr der Hauptweg; die Einstellungen (`npm run build` → `dist`, Node 22) bleiben kompatibel.
+## Bereitstellung (GitHub Pages, ohne Actions)
+- GitHub Pages liefert den Zweig **`gh-pages`** aus. Einmalig: *Settings → Pages → Source: Deploy from a branch → `gh-pages` / (root)*.
+- `npm run publish` (nur von `main`): prüft alles mit `npm run check`, baut `dist/` und schiebt es nach `gh-pages`. Nach ca. 1 Minute ist die neue Fassung online. Ist ein Check rot, wird nichts veröffentlicht.
+- `gh-pages` nie von Hand bearbeiten. Neue Fassungen erkennt der Browser über die Inhalts-Hashes (`?v=…`), die der Build setzt.
+- `public/_headers` gilt nur bei Cloudflare Pages (früheres Projekt `leonida-helfer`, nicht mehr Hauptweg); GitHub Pages ignoriert die Datei.
 
 ## Dateien
 | Pfad | Inhalt |

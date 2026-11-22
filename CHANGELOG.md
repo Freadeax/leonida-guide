@@ -2,7 +2,7 @@
 
 ## 2026-11-22
 - Stand v11 aus dem Artifact übernommen: interaktive Karte mit Spiel-Legende (`karte2.js`, `legende.js`, `symbole.js`, Leaflet.markercluster), geprüfte/ungefähre Positionen (`lage.js`, `positionen.js`), tägliche Nachträge (`nachtrag.js`, 1.347 Einträge).
-- GitHub Pages ist jetzt der Hauptweg: Workflow prüft jeden Push/PR mit `npm run check` (inkl. Browser), veröffentlicht nur grüne `main`-Stände; `verify-deploy` zeigt auf GitHub Pages.
+- GitHub Pages ist jetzt der Hauptweg, ohne GitHub Actions: `npm run publish` prüft `main` mit `npm run check` und schiebt die gebaute Seite in den Zweig `gh-pages`; Actions-Workflow entfernt; `verify-deploy` zeigt auf GitHub Pages.
 - `npm run check` an v11 angepasst (neue Datendateien, Pins/Cluster statt `.pin`).
 - Barrierefreiheit: Beschriftungen für Stadtfilter, 100-%-Zähler und Export-Feld wieder ergänzt (DE/EN).
 

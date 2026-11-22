@@ -8,6 +8,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "check": "node scripts/check.mjs",
+    "publish": "node scripts/publish.mjs",
     "verify-deploy": "node scripts/verify-deploy.mjs"
   },
   "license": "MIT"
