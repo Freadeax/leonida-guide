@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-24
+- Nachtrag v9.5 aus dem Artifact übernommen (`nachtrag.js`, `lage.js`): Patch 01.002.002 (23.11.) mit Patchnotes, Glitch-Status nach dem Patch, 12 neue Orte (Easter Eggs, Trophäen-Orte, Russo-Mysterium), 22 BASE-Sprünge mit Absprungstelle, Tipps, Bugs, Verpassbares, Auto-, Lager- und Jagd-Infos; 13 neue ungefähre Pins. Cache-Stand `?v=111`.
+
 ## 2026-11-23
 - Nachtrag v9.4 aus dem Artifact übernommen (`nachtrag.js`, `lage.js`): 27 neue Orte (13 Flamingos → 39/125, 8 Easter Eggs, 6 Randy-Autos), 4 Ergänzungen, Tipps, Bugs, Verpassbares, Auto-Verkaufswerte; 24 neue ungefähre Pins über `lage_ergaenzen.py`.
 
