@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-24 (2)
+- Nachtrag v9.6: 12 neue Magazine/Bücher/Comics (u. a. 4 in Jasons Haus, nur Kapitel 1; RX Men, Trigger Happy, Drive Shaft mit Tresor-Code 5399, Pêche, Endowed, Ratface, Manly Gaze), Ort für „The Cowboy's Prayer Is to Die Young“.
+- Kartenpunkte geprüft (`lage_verbessern.py`): 9 Punkte an gtadb-Orte gesetzt (Sunrise RV Park ×3 genau; Apollo Aggregates, Manatee Motel, Dawson Dam, Archipelago, Arcadia Towers ×2 in der Nähe), 26 bisher punktlose Einträge mit ungefährem Punkt (Hyde Island, Little Hardin Island, Frampton/Zephyr Islands, Catalan Key, Bluegrass, Starfish Island, Vespucci/Rialto Islands u. a.). Cache-Stand `?v=112`.
+
 ## 2026-11-24
 - Nachtrag v9.5 aus dem Artifact übernommen (`nachtrag.js`, `lage.js`): Patch 01.002.002 (23.11.) mit Patchnotes, Glitch-Status nach dem Patch, 12 neue Orte (Easter Eggs, Trophäen-Orte, Russo-Mysterium), 22 BASE-Sprünge mit Absprungstelle, Tipps, Bugs, Verpassbares, Auto-, Lager- und Jagd-Infos; 13 neue ungefähre Pins. Cache-Stand `?v=111`.
 
