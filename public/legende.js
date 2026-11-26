@@ -81,7 +81,7 @@
     "Playlist-Poster": Z("erk", "Playlist-Poster", "Playlist posters", "note"), "No-Flusher-Tag": Z("erk", "No-Flusher-Tags", "No-Flusher tags", "tag"),
     "WAiNK-Wahrzeichen": Z("erk", "WAiNK", "WAiNK", "kamera"), "WAiNK-Kuriosität": Z("erk", "WAiNK", "WAiNK", "auge"), "WAiNK-Skulptur": Z("erk", "WAiNK", "WAiNK", "statue"),
     "Luxusuhr": Z("erk", "Sammler", "Collector", "uhr"), "Sammelobjekt": Z("erk", "Sammler", "Collector", "funke"),
-    "Basketballkorb": Z("erk", "Basketballkörbe", "Basketball hoops", "korb"), "Wrack": Z("erk", "Unterwasserentdeckung", "Underwater discovery", "welle"),
+    "Basketballkorb": Z("erk", "Basketballkörbe", "Basketball hoops", "korb"), "Wrack": Z("erk", "Unterwasserentdeckung", "Underwater discovery", "welle"), "Unterwasser-Entdeckung": Z("erk", "Unterwasserentdeckung", "Underwater discovery", "welle"),
     "Easter Egg": Z("erk", "Geheimnisse & Easter Eggs", "Secrets & Easter eggs", "frage"), "Mysterium": Z("erk", "Geheimnisse & Easter Eggs", "Secrets & Easter eggs", "frage"),
     "Okkultes Ritual": Z("erk", "Geheimnisse & Easter Eggs", "Secrets & Easter eggs", "kerze"),
     "Geldversteck": Z("erk", "Geld & Verstecke", "Money & stashes", "schein"), "Geldquelle": Z("erk", "Geld & Verstecke", "Money & stashes", "schein"),
