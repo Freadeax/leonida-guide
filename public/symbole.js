@@ -90,7 +90,7 @@
     /* Basis */
     "Story & Basis": "stern", "Hehler": "sack", "Pay 'n' Spray": "spray",
     /* Geld */
-    "Wrack": "anker", "Geldquelle": "schein", "Geldversteck": "schein", "Verlorene Drogen": "paket",
+    "Wrack": "anker", "Unterwasser-Entdeckung": "anker", "Geldquelle": "schein", "Geldversteck": "schein", "Verlorene Drogen": "paket",
     "Zufallsereignis": "ausruf", "Illegale Operation": "maske", "Illegal Operation": "maske",
     /* Codes / Überfälle */
     "Code": "tresor", "Bank": "bank", "Banktresor": "tresor", "Payday Loan": "prozent", "Pfandhaus": "kugeln", "Juwelier": "diamant",
