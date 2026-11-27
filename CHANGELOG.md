@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-27
+- Nachtrag v9.8 aus dem Artifact übernommen (`nachtrag.js`, `lage.js`): 51 neue Orte (22 Unterwasser-Entdeckungen – Wracks, Flugzeuge, Coral Farm, Underwater Hotel, Kadaver u. a.; 9 Flamingos → 51/125; 4 WAiNK-Scans → 85/112; 4 Peewees-Plakate; 12 Schrottteile + '72 Deviant für Wymans Klassiker), 13 Ergänzungen (5 Galeonen mit Gebiet, Waffenfundorte u. a. Low Point Nipper .38, Wymans Questreihe), 20 Tipps, 2 Verpassbares, 1 Glitch + 1 Glitch-Status, 1 Bug, 3 Auto-, 2 Jagd-Infos, Patch-Stand 27.11.; 50 neue ungefähre Pins. Neuer Untertyp „Peewees-Plakat“ (`symbole.js`, `legende.js`, `i18n-en.js`). Cache-Stand `?v=114`.
+
 ## 2026-11-26
 - Nachtrag v9.7 aus dem Artifact übernommen (`nachtrag.js`, `lage.js`): 92 neue Orte (51 WAiNK-Scans, 12 No-Flusher-Tags, 6 Unterwasser-Entdeckungen inkl. BURG-Stationen, 3 Flamingos, 18 Autos mit Fundort, 2 Easter Eggs), 18 Ergänzungen (Kenton-Wracks, Fundwege für CPD Moreland 850, Tyrone's W-10, Convict Kalinga .50 u. a.), 16 Tipps, 5 Verpassbares, 4 Bugs, Auto-/Lager-/Jagd-Infos, Patch-Stand 26.11.; 73 neue ungefähre Pins. Neuer Untertyp „Unterwasser-Entdeckung“ (`symbole.js`, `legende.js`, `i18n-en.js`). Cache-Stand `?v=113`.
 

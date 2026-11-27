@@ -78,7 +78,7 @@
     "Messerflug": Z("erk", "Stunts: Messerflüge", "Stunts: knife flights", "rampe"), "BASE-Sprung": Z("erk", "Stunts: BASE-Sprünge", "Stunts: BASE jumps", "rampe"),
     "Kokain-Flamingo": Z("erk", "Kokain-Flamingos", "Cocaine flamingos", "vogel"), "Sammelkarte": Z("erk", "Sammelkarten", "Collectible cards", "karte"),
     "Meteorit": Z("erk", "Meteoriten", "Meteorites", "stern"), "Magazin & Buch": Z("erk", "Magazine & Bücher", "Magazines & books", "buch"), "Buchtausch": Z("erk", "Magazine & Bücher", "Magazines & books", "buch"),
-    "Playlist-Poster": Z("erk", "Playlist-Poster", "Playlist posters", "note"), "No-Flusher-Tag": Z("erk", "No-Flusher-Tags", "No-Flusher tags", "tag"),
+    "Playlist-Poster": Z("erk", "Playlist-Poster", "Playlist posters", "note"), "Peewees-Plakat": Z("erk", "Peewees-Plakate", "Peewees posters", "note"), "No-Flusher-Tag": Z("erk", "No-Flusher-Tags", "No-Flusher tags", "tag"),
     "WAiNK-Wahrzeichen": Z("erk", "WAiNK", "WAiNK", "kamera"), "WAiNK-Kuriosität": Z("erk", "WAiNK", "WAiNK", "auge"), "WAiNK-Skulptur": Z("erk", "WAiNK", "WAiNK", "statue"),
     "Luxusuhr": Z("erk", "Sammler", "Collector", "uhr"), "Sammelobjekt": Z("erk", "Sammler", "Collector", "funke"),
     "Basketballkorb": Z("erk", "Basketballkörbe", "Basketball hoops", "korb"), "Wrack": Z("erk", "Unterwasserentdeckung", "Underwater discovery", "welle"), "Unterwasser-Entdeckung": Z("erk", "Unterwasserentdeckung", "Underwater discovery", "welle"),
