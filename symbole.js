@@ -112,7 +112,7 @@
     "Sonstiges": "funke",
     /* Sammelobjekte */
     "Sammelobjekt": "funke", "WAiNK-Wahrzeichen": "kamera", "WAiNK-Kuriosität": "auge", "WAiNK-Skulptur": "statue",
-    "No-Flusher-Tag": "tag", "Sammelkarte": "karte", "Magazin & Buch": "buch", "Playlist-Poster": "note",
+    "No-Flusher-Tag": "tag", "Sammelkarte": "karte", "Magazin & Buch": "buch", "Playlist-Poster": "note", "Peewees-Plakat": "note",
     "Kokain-Flamingo": "vogel", "Meteorit": "stern", "Buchtausch": "buch", "Luxusuhr": "uhr",
     /* v9 */ "Brets Deck": "pfote", "Unterschlupf": "stern", "Unter-Brücke": "rampe", "Messerflug": "rampe", "BASE-Sprung": "rampe",
     /* Eigene */
