@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-11-28
+- Nachtrag v9.9 aus dem Artifact übernommen (`nachtrag.js`, `lage.js`): 8 neue Orte (4 Kokain-Flamingos → 55/125: Key Lento Surfside Dr, Port Gellhorn gelber Bungalow, Washburn Ave, Wohnwagenpark gegenüber La Cascara; Brets Decks 4–7 mit Tieren und Lohn), 3 Tipps (Beutetaschen-Geld-Glitch, Rennen neu starten, Geldautomat mit Haftbombe), 1 Auto-Info (Beschlagnahme im Fahndungsgebiet), Patch-Stand 28.11. (weiter 01.002.002); 4 neue ungefähre Pins. Bewusst kleiner Nachtrag wegen Größenbudget. Cache-Stand `?v=115`.
+
 ## 2026-11-27
 - Nachtrag v9.8 aus dem Artifact übernommen (`nachtrag.js`, `lage.js`): 51 neue Orte (22 Unterwasser-Entdeckungen – Wracks, Flugzeuge, Coral Farm, Underwater Hotel, Kadaver u. a.; 9 Flamingos → 51/125; 4 WAiNK-Scans → 85/112; 4 Peewees-Plakate; 12 Schrottteile + '72 Deviant für Wymans Klassiker), 13 Ergänzungen (5 Galeonen mit Gebiet, Waffenfundorte u. a. Low Point Nipper .38, Wymans Questreihe), 20 Tipps, 2 Verpassbares, 1 Glitch + 1 Glitch-Status, 1 Bug, 3 Auto-, 2 Jagd-Infos, Patch-Stand 27.11.; 50 neue ungefähre Pins. Neuer Untertyp „Peewees-Plakat“ (`symbole.js`, `legende.js`, `i18n-en.js`). Cache-Stand `?v=114`.
 
